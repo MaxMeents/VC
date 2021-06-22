@@ -152,6 +152,6 @@ sleep, 500
 gosub, RerollVCbat
 sleep, 500
 gosub, RunVC
-sleep, 5000
+sleep, 8000
 run, C:\VC\RerollPart1.exe
 Return
