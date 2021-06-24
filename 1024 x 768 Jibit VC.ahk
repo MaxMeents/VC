@@ -795,11 +795,11 @@ Return
 settimer, ConnectHost, 100
 Return
 ConnectHost:
-ImageSearch, OutputVarX, OutputVarY, 494-90, 269-90, 613+90, 301+90, *95 C:\VC\Pictures\2021-06-24 00_40_36-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 492-90, 269-90, 610+90, 300+90, *95 C:\VC\Pictures\2021-06-24 01_16_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
-mousemove, 554,285
+mousemove, 551,285
 click down
 sleep, 20
 click up
@@ -902,7 +902,7 @@ click up
 settimer, ConnectToHostGame, off 
 settimer, ConnectedToHostGame, 100
 }
-ImageSearch, OutputVarX, OutputVarY, 391-90, 700-90, 426+90, 720+90, *95 C:\VC\Pictures\2021-06-24 00_52_47-Settings.png 
+ImageSearch, OutputVarX, OutputVarY, 391-90, 700-90, 426+90, 720+90, *55 C:\VC\Pictures\2021-06-24 00_52_47-Settings.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -946,7 +946,7 @@ sleep, 20
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 922-90, 584-90, 962+90, 627+90, *95 C:\VC\Pictures\2021-06-24 00_57_46-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 914-150, 584-150, 969+150, 630+150, *35 C:\VC\Pictures\2021-06-24 01_06_17-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 sleep, 500
 Loop, 3
