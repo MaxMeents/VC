@@ -3,10 +3,9 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #NoEnv
+#InstallMouseHook 
 #SingleInstance, Force
-#InstallKeybdHook
 #MaxHotkeysPerInterval, 5000
-#UseHook, On
 IfWinNotExist, Cheat Engine 7.2
 {
 	run, C:\VC\Cheat Engine.lnk
@@ -48,6 +47,8 @@ global plusX :=
 global plusY :=
 global stuck := 0
 global stuckblack := 0
+
+
 ^w::pause
 ^Right::    send,{end}
 ^Left::     send,{Home}
@@ -119,15 +120,30 @@ ToolTip, Mouseclick copied
 sleep, 300
 tooltip, 
 Return
-~^space::
-KeyWait, Lbutton,D
-MouseGetPos, x1, y1
-sleep, 300
-KeyWait, Lbutton,U
-MouseGetPos, x2, y2
+TakeScreenshot:
+gui, destroy
 clipboard :=
-clipwait, 25
+sleep, 100
+send, ^{space} 
+reset := 0
+Loop{
+if GetKeyState("Lbutton") ; While left mouse button is being held:
+{
+if(reset < 1){
+MouseGetPos, x1, y1
+}	
+  
+  reset++
+}else{
+	if(reset > 0){
+	break
 
+}
+
+}
+}
+MouseGetPos, x2, y2
+clipwait, 10
 ;x1 := Round(x1 )
 ;x3 := (x2 - x1)/2
 ;if(x3 > 960){
@@ -144,6 +160,7 @@ y3 += y1
 x3 := Round(x3)
 y3 := Round(y3)
 clipboard = ImageSearch, OutputVarX, OutputVarY, %x1%-90, %y1%-90, %x2%+90, %y2%+90, *95 %clipboard% `nif(ErrorLevel == 0){`nLoop, 1`n{`nmousemove, %x3%,%y3%`nclick down`nsleep, 20`nclick up`n}`n}
+ToolTip, Finished
 Return
 
 ^F7::
@@ -965,6 +982,7 @@ XButton1::
 Gui, -Caption +AlwaysOnTop
 Gui, Font, s15
 Gui, Font, c4287f5
+gui, add, text,gTakeScreenshot, Take Screenshot
 gui, add, text,gCR1024, 1024 x 768 
 gui, add, text,gCR3840, 3840 x 2160
 gui, add, text,gEnableCE, Enable CE
