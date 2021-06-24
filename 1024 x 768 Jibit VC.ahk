@@ -145,6 +145,7 @@ MouseGetPos, x1, y1
 }
 MouseGetPos, x2, y2
 clipwait, 10
+StringReplace, clipboard, clipboard, C:\VC, %A_Scriptdir%
 ;x1 := Round(x1 )
 ;x3 := (x2 - x1)/2
 ;if(x3 > 960){
@@ -809,6 +810,8 @@ gui, destroy
 run, %a_scriptdir%\CE.exe
 Return
 !c::
+ConnectHostTimer:
+gui,destroy
 settimer, ConnectHost, 100
 Return
 ConnectHost:
@@ -884,9 +887,21 @@ click up
 }
 Return
 #s::
+ConnectToHostGameTimer:
+gui, destroy
 settimer, ConnectToHostGame, 100
 Return
 ConnectToHostGame:
+ImageSearch, OutputVarX, OutputVarY, 486-90, 460-90, 539+90, 491+90, *95 C:\VC\Pictures\2021-06-24 02_47_46-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 513,476
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 32-90, 679-90, 64+90, 710+90, *95 C:\VC\Pictures\2021-06-24 00_50_42-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -933,6 +948,18 @@ sleep, 1000
 
 Return
 ConnectedToHostGame:
+ImageSearch, OutputVarX, OutputVarY, 486-90, 460-90, 539+90, 491+90, *95 C:\VC\Pictures\2021-06-24 02_47_46-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 513,476
+click down
+sleep, 20
+click up
+}
+settimer, ConnectedToHostGame, off 
+settimer, ConnectToHostGame, 100
+}
 ImageSearch, OutputVarX, OutputVarY, 858-150, 623-150, 896+150, 670+150, *95 C:\VC\Pictures\2021-06-24 00_54_41-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -986,6 +1013,8 @@ gui, add, text,gTakeScreenshot, Take Screenshot
 gui, add, text,gCR1024, 1024 x 768 
 gui, add, text,gCR3840, 3840 x 2160
 gui, add, text,gEnableCE, Enable CE
+gui, add, text,gConnectHostTimer, Host Connect
+gui, add, text,gConnectToHostGameTimer, Connect To Host Game
 gui, add, text,gHeroQuestTimer, Hero Quest 
 gui, add, text,gStoryMissions, StoryMission 
 gui, add, text,gPromoteLevelUpOrbs, Promote-Level Up-Orbs 
