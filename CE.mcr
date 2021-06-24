@@ -30,7 +30,7 @@ DELAY : 65
 Mouse : R860 : R646 : LeftButtonDown : 0 : 0 : 0
 DELAY : 103
 Mouse : R860 : R646 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3000
+DELAY : 5000
 Mouse : R959 : R650 : LeftButtonDown : 0 : 0 : 0
 DELAY : 88
 Mouse : R961 : R655 : LeftButtonUp : 0 : 0 : 0
