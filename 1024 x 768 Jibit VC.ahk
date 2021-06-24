@@ -12,7 +12,7 @@ IfWinNotExist, Cheat Engine 7.2
 	sleep, 2000
 	WinMaximize, Cheat Engine 7.2
 }
-
+global stillon := 0
 global accountNum := 10001
 global ComputerID := 
 global CurrentEmail := "blabla@gmail.com"
@@ -897,8 +897,10 @@ ImageSearch, OutputVarX, OutputVarY, 920-150, 461-150, 965+150, 506+150, *95 C:\
 if(ErrorLevel == 0){
 	settimer, ConnectHostUntilSoul, off
 	sleep, 80
+	stillon := 1
 ImageSearch, OutputVarX, OutputVarY, 408-150, 545-150, 460+150, 591+150, *95 C:\VC\Pictures\2021-06-24 13_35_30-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
+
 	settimer, ConnectHostUntilSoul, 150
 	settimer, CheckForSoul, off 
 }else{
@@ -911,6 +913,7 @@ Return
 ConnectHostUntilSoul:
 gosub, PlayerLevelUp
 settimer, CheckForSoul, 74 
+stillon := 0
 ImageSearch, OutputVarX, OutputVarY, 492-90, 269-90, 610+90, 300+90, *95 C:\VC\Pictures\2021-06-24 01_16_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -963,6 +966,7 @@ click up
 }
 ImageSearch, OutputVarX, OutputVarY, 918-200, 463-200, 970+200, 510+200, *95 C:\VC\Pictures\2021-06-24 00_46_09-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
+if(stillon == 0){
 Loop, 1
 {
 mousemove, 944,487
@@ -970,6 +974,8 @@ click down
 sleep, 20
 click up
 }
+}	
+
 }
 ImageSearch, OutputVarX, OutputVarY, 649-200, 455-200, 710+200, 480+200, *95 C:\VC\Pictures\2021-06-24 00_46_18-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
