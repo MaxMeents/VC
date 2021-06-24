@@ -892,6 +892,7 @@ gui, destroy
 settimer, ConnectToHostGame, 100
 Return
 ConnectToHostGame:
+
 ImageSearch, OutputVarX, OutputVarY, 486-90, 460-90, 539+90, 491+90, *95 C:\VC\Pictures\2021-06-24 02_47_46-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 3
@@ -943,11 +944,23 @@ click down
 sleep, 20
 click up
 }
-sleep, 1000
+sleep, 500
 }
 
 Return
 ConnectedToHostGame:
+ImageSearch, OutputVarX, OutputVarY, 391-90, 700-90, 426+90, 720+90, *55 C:\VC\Pictures\2021-06-24 00_52_47-Settings.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 409,710
+click down
+sleep, 20
+click up
+}
+settimer, ConnectedToHostGame, off 
+settimer, ConnectToHostGame, 100
+}
 ImageSearch, OutputVarX, OutputVarY, 486-90, 460-90, 539+90, 491+90, *95 C:\VC\Pictures\2021-06-24 02_47_46-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 3
