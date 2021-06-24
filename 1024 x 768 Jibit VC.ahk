@@ -1,4 +1,4 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+﻿
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -1532,6 +1532,18 @@ click up
 }
 }
 Return
+HelTo4star:
+ImageSearch, OutputVarX, OutputVarY, 331-90, 561-90, 405+90, 601+90, *95 C:\VC\Pictures\2021-06-24 05_30_02-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 368,581
+click down
+sleep, 20
+click up
+}
+}
+Return
 StoryMission:
 gosub, SelectExclimation
 gosub, SelectSkip
@@ -1542,6 +1554,7 @@ gosub, ChapterClear
 gosub, CloseButton
 gosub, CharacterMinimize
 gosub, UnlockedFeatureOk
+gosub, HelTo4star
 ImageSearch, OutputVarX, OutputVarY, 794-25, 535-25, 842+25, 572+25, *50 %a_scriptdir%\Pictures\2021-06-12 09_54_42-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
