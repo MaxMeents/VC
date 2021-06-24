@@ -912,7 +912,7 @@ Return
 
 ConnectHostUntilSoul:
 gosub, PlayerLevelUp
-settimer, CheckForSoul, 74 
+settimer, CheckForSoul, 50 
 stillon := 0
 ImageSearch, OutputVarX, OutputVarY, 492-90, 269-90, 610+90, 300+90, *95 C:\VC\Pictures\2021-06-24 01_16_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
