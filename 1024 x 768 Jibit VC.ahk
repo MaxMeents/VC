@@ -1,4 +1,4 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -7,7 +7,12 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #InstallKeybdHook
 #MaxHotkeysPerInterval, 5000
 #UseHook, On
-
+IfWinNotExist, Cheat Engine 7.2
+{
+	run, C:\VC\Cheat Engine.lnk
+	sleep, 2000
+	WinMaximize, Cheat Engine 7.2
+}
 
 global accountNum := 10001
 global ComputerID := 
@@ -43,8 +48,20 @@ global plusX :=
 global plusY :=
 global stuck := 0
 global stuckblack := 0
+^w::pause
+^Right::    send,{end}
+^Left::     send,{Home}
+^down::     send,^{end}
+^up::       send,^{home}
+^+Right::   send,+{end}
+^+Left::    send,+{home}
+^+down::    send,^+{end}
+^+up::      send,^+{home}
 settimer, CheckClipboard, 200
-
+#c::
+activateCE:
+WinShow, Cheat Engine 7.2
+WinActivate, Cheat Engine 7.2
 Return
 CheckClipboard:
 if(clipboard == "RerollPart1Done"){
@@ -76,6 +93,7 @@ Return
 RunVC:
 run, %a_scriptdir%\VALKYRIE CONNECT.url
 Return
+#v::
 ActivateVC:
 WinActivate, Valkyrie Connect WW
 WinShow, Valkyrie Connect WW
@@ -143,9 +161,25 @@ sleep, 600
 MouseGetPos, x, y
 PixelGetColor, c, x,y
 
-clipboard = PixelSearch, tx, ty, %x1%, %y1%, %x2%, %y2%, %c%, 2, Fast`nif(ErrorLevel = 0){`n}
+clipboard = PixelSearch, tx, ty, %x1%, %y1%, %x2%, %y2%, %c%, 2, Fast`nif(ErrorLevel == 0){`n}
 Return
-
+^f8::
+tooltip, Press Rbutton on top left of area 
+sleep, 300
+tooltip,
+KeyWait, Rbutton,D
+MouseGetPos, x1, y1
+sleep, 600
+tooltip, Press Rbutton on top left of area 
+sleep, 300
+tooltip,
+KeyWait, Rbutton,D
+sleep, 600
+MouseGetPos, x2, y2
+clipboard = run, cmd.exe /c C:\Capture2Text\Capture2Text_CLI.exe --scale-factor "5" --screen-rect "%x1% %y1% %x2% %y2%"  --clipboard,, hide
+Return
+^9::
+Return
 ^0::
 gosub, closeVC
 sleep, 500
