@@ -409,7 +409,7 @@ DELAY : 487
 Mouse : R955 : R646 : LeftButtonDown : 0 : 0 : 0
 DELAY : 96
 Mouse : R955 : R646 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3000
+DELAY : 6000
 Mouse : R585 : R381 : LeftButtonDown : 0 : 0 : 0
 DELAY : 89
 Mouse : R585 : R381 : LeftButtonUp : 0 : 0 : 0
