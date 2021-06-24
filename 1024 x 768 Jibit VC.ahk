@@ -890,7 +890,7 @@ Return
 ConnectHostUntilSoulTimer:
 gui,destroy
 settimer, ConnectHostUntilSoul, 150
-settimer, CheckForSoul, 74
+settimer, CheckForSoul, 50
 Return
 CheckForSoul:
 ImageSearch, OutputVarX, OutputVarY, 920-150, 461-150, 965+150, 506+150, *95 C:\VC\Pictures\2021-06-24 13_34_54-Valkyrie Connect WW.png 
