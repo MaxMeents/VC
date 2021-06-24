@@ -791,7 +791,7 @@ EnableCE:
 gui, destroy
 run, %a_scriptdir%\CE.exe
 Return
-^m::
+#m::
 XButton1::
 Gui, -Caption +AlwaysOnTop
 Gui, Font, s15
