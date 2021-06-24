@@ -125,6 +125,7 @@ gui, destroy
 clipboard :=
 sleep, 100
 send, ^{space} 
+~^space::
 reset := 0
 Loop{
 if GetKeyState("Lbutton") ; While left mouse button is being held:
@@ -160,7 +161,6 @@ y3 += y1
 x3 := Round(x3)
 y3 := Round(y3)
 clipboard = ImageSearch, OutputVarX, OutputVarY, %x1%-90, %y1%-90, %x2%+90, %y2%+90, *95 %clipboard% `nif(ErrorLevel == 0){`nLoop, 1`n{`nmousemove, %x3%,%y3%`nclick down`nsleep, 20`nclick up`n}`n}
-ToolTip, Finished
 Return
 
 ^F7::
