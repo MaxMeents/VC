@@ -815,6 +815,7 @@ gui,destroy
 settimer, ConnectHost, 100
 Return
 ConnectHost:
+gosub, PlayerLevelUp
 ImageSearch, OutputVarX, OutputVarY, 492-90, 269-90, 610+90, 300+90, *95 C:\VC\Pictures\2021-06-24 01_16_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -892,7 +893,7 @@ gui, destroy
 settimer, ConnectToHostGame, 100
 Return
 ConnectToHostGame:
-
+gosub, PlayerLevelUp
 ImageSearch, OutputVarX, OutputVarY, 486-90, 460-90, 539+90, 491+90, *95 C:\VC\Pictures\2021-06-24 02_47_46-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 3
@@ -949,6 +950,7 @@ sleep, 500
 
 Return
 ConnectedToHostGame:
+gosub, PlayerLevelUp
 ImageSearch, OutputVarX, OutputVarY, 391-90, 700-90, 426+90, 720+90, *55 C:\VC\Pictures\2021-06-24 00_52_47-Settings.png 
 if(ErrorLevel == 0){
 Loop, 1
