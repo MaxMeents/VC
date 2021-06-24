@@ -791,6 +791,175 @@ EnableCE:
 gui, destroy
 run, %a_scriptdir%\CE.exe
 Return
+!c::
+settimer, ConnectHost, 100
+Return
+ConnectHost:
+ImageSearch, OutputVarX, OutputVarY, 494-90, 269-90, 613+90, 301+90, *95 C:\VC\Pictures\2021-06-24 00_40_36-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 554,285
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 668-200, 539-200, 738+200, 576+200, *95 C:\VC\Pictures\2021-06-24 00_42_42-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 703,558
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 648-90, 237-90, 744+90, 275+90, *95 C:\VC\Pictures\2021-06-24 00_40_55-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 696,256
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 779-90, 504-90, 850+90, 537+90, *95 C:\VC\Pictures\2021-06-24 00_41_02-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 815,521
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 858-90, 619-90, 895+90, 668+90, *95 C:\VC\Pictures\2021-06-24 00_41_10-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 877,644
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 918-200, 463-200, 970+200, 510+200, *95 C:\VC\Pictures\2021-06-24 00_46_09-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 944,487
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 649-200, 455-200, 710+200, 480+200, *95 C:\VC\Pictures\2021-06-24 00_46_18-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 680,468
+click down
+sleep, 20
+click up
+}
+}
+Return
+#s::
+settimer, ConnectToHostGame, 100
+Return
+ConnectToHostGame:
+ImageSearch, OutputVarX, OutputVarY, 32-90, 679-90, 64+90, 710+90, *95 C:\VC\Pictures\2021-06-24 00_50_42-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 48,695
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 271-90, 63-90, 323+90, 91+90, *95 C:\VC\Pictures\2021-06-24 00_52_19-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 297,77
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 209-90, 230-90, 250+90, 259+90, *95 C:\VC\Pictures\2021-06-24 00_54_12-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 230,245
+click down
+sleep, 20
+click up
+}
+settimer, ConnectToHostGame, off 
+settimer, ConnectedToHostGame, 100
+}
+ImageSearch, OutputVarX, OutputVarY, 391-90, 700-90, 426+90, 720+90, *95 C:\VC\Pictures\2021-06-24 00_52_47-Settings.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 409,710
+click down
+sleep, 20
+click up
+}
+sleep, 1000
+}
+
+Return
+ConnectedToHostGame:
+ImageSearch, OutputVarX, OutputVarY, 858-150, 623-150, 896+150, 670+150, *95 C:\VC\Pictures\2021-06-24 00_54_41-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 877,647
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 460-200, 488-200, 555+200, 528+200, *95 C:\VC\Pictures\2021-06-24 00_58_47-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 508,508
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 321-200, 453-200, 374+200, 494+200, *95 C:\VC\Pictures\2021-06-24 00_56_40-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 348,474
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 922-90, 584-90, 962+90, 627+90, *95 C:\VC\Pictures\2021-06-24 00_57_46-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+sleep, 500
+Loop, 3
+{
+mousemove, 942,606
+click down
+sleep, 20
+click up
+}
+settimer, ConnectedToHostGame, off 
+settimer, ConnectToHostGame, 100
+}
+Return
 #m::
 XButton1::
 Gui, -Caption +AlwaysOnTop
