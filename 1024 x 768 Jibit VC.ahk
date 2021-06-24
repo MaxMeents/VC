@@ -887,6 +887,101 @@ click up
 }
 }
 Return
+ConnectHostUntilSoulTimer:
+gui,destroy
+settimer, ConnectHostUntilSoul, 150
+settimer, CheckForSoul, 74
+Return
+CheckForSoul:
+ImageSearch, OutputVarX, OutputVarY, 920-150, 461-150, 965+150, 506+150, *95 C:\VC\Pictures\2021-06-24 13_34_54-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+	settimer, ConnectHostUntilSoul, off
+ImageSearch, OutputVarX, OutputVarY, 408-150, 545-150, 460+150, 591+150, *95 C:\VC\Pictures\2021-06-24 13_35_30-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+	settimer, ConnectHostUntilSoul, 150
+	settimer, CheckForSoul, off 
+}else{
+	settimer, CheckForSoul, off 
+	settimer, ConnectHostUntilSoul, off
+}
+}
+Return
+
+ConnectHostUntilSoul:
+gosub, PlayerLevelUp
+settimer, CheckForSoul, 74 
+ImageSearch, OutputVarX, OutputVarY, 492-90, 269-90, 610+90, 300+90, *95 C:\VC\Pictures\2021-06-24 01_16_54-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 551,285
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 668-200, 539-200, 738+200, 576+200, *95 C:\VC\Pictures\2021-06-24 00_42_42-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 703,558
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 648-90, 237-90, 744+90, 275+90, *95 C:\VC\Pictures\2021-06-24 00_40_55-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 696,256
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 779-90, 504-90, 850+90, 537+90, *95 C:\VC\Pictures\2021-06-24 00_41_02-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 815,521
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 858-90, 619-90, 895+90, 668+90, *95 C:\VC\Pictures\2021-06-24 00_41_10-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 877,644
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 918-200, 463-200, 970+200, 510+200, *95 C:\VC\Pictures\2021-06-24 00_46_09-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 944,487
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 649-200, 455-200, 710+200, 480+200, *95 C:\VC\Pictures\2021-06-24 00_46_18-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 680,468
+click down
+sleep, 20
+click up
+}
+}
+Return
+
 #s::
 ConnectToHostGameTimer:
 gui, destroy
@@ -1029,6 +1124,7 @@ gui, add, text,gCR1024, 1024 x 768
 gui, add, text,gCR3840, 3840 x 2160
 gui, add, text,gEnableCE, Enable CE
 gui, add, text,gConnectHostTimer, Host Connect
+gui, add, text,gConnectHostUntilSoulTimer, Host Connect Till Soul
 gui, add, text,gConnectToHostGameTimer, Connect To Host Game
 gui, add, text,gHeroQuestTimer, Hero Quest 
 gui, add, text,gStoryMissions, StoryMission 
