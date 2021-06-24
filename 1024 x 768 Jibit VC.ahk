@@ -900,7 +900,7 @@ if(ErrorLevel == 0){
 	stillon := 1
 ImageSearch, OutputVarX, OutputVarY, 408-150, 545-150, 460+150, 591+150, *95 C:\VC\Pictures\2021-06-24 13_35_30-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
-
+	stillon := 0
 	settimer, ConnectHostUntilSoul, 150
 	settimer, CheckForSoul, off 
 }else{
