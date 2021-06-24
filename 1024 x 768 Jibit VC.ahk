@@ -33,6 +33,9 @@ if(!FileExist(CID_Loc . "/VC Accounts/accountNum.txt")){
 }else{
 	FileRead, accountNum, %CID_Loc%\VC Accounts\accountNum.txt
 }
+if(!FileExist(CID_Loc . "/VC Accounts/Computer_ID.txt")){
+	FileAppend, , %CID_Loc%\VC Accounts\Computer_ID.txt
+}
 FileRead, ComputerID, %CID_Loc%\VC Accounts\Computer_ID.txt
 global storyfound := 0
 SetBatchLines, -1
@@ -4439,4 +4442,46 @@ click down
 sleep, 60
 click up
 gosub, NewGame
+Return
+^y::
+TakePictures:
+
+gui, destroy
+InputBox, Cnum, About How many Characters do you have by multiple of 10?20,30,..110? Its ok if you guess to high but not to low...
+Cnum := Cnum/10
+Loop, %Cnum%
+{
+a := 130
+Loop, 11
+{
+mousemove, %a%,655
+click down
+sleep, 20
+click up
+mousemove, %a%,655
+click down
+sleep, 20
+click up
+mousemove, %a%,655
+click down
+sleep, 20
+click up
+clipboard :=
+run, cmd.exe /c %CID_Loc%\Capture2Text\Capture2Text_CLI.exe --scale-factor "5" --screen-rect "116 101 331 139"  --clipboard,, hide
+clipwait
+content :=
+FileRead, content, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Character List.txt
+sleep, 300
+if(NOT InStr(content, Clipboard)){
+    	FileAppend, %clipboard%, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Character List.txt    	
+}
+	;FileAppend, Account: %accountNum% - %clipboard%, %CID_Loc%\Accounts\%ComputerID% %accountNum% Main Database.txt
+	;FileAppend, %clipboard%, %CID_Loc%\Accounts\%ComputerID% %accountNum% Accounts\Account %accountNum%.txt
+
+a+= 78
+}
+mousemove, 143,649
+send, {wheelup 32}
+}
+run, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Character List.txt
 Return
