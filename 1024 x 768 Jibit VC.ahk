@@ -64,7 +64,7 @@ settimer, RestartCommon2, 1000
 ^+up::      send,^+{home}
 settimer, CheckClipboard, 200
 RestartCommon2:
-ImageSearch, OutputVarX, OutputVarY, 352-90, 329-90, 670+90, 384+90, *95 C:\VC\Pictures\2021-06-26 05_15_29-Valkyrie Connect WW.png 
+ImageSearch, OutputVarXX, OutputVarYY, 352-90, 329-90, 670+90, 384+90, *95 C:\VC\Pictures\2021-06-26 05_15_29-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 3
 {
@@ -100,7 +100,7 @@ click down
 sleep, 60
 click up
 }
-ImageSearch, OutputVarX, OutputVarY, 238-90, 273-90, 260+90, 291+90, *95 C:\VC\Pictures\2021-06-26 06_02_02-Valkyrie Connect WW.png 
+ImageSearch, OutputVarXX, OutputVarYY, 238-90, 273-90, 260+90, 291+90, *95 C:\VC\Pictures\2021-06-26 06_02_02-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 3
 {
@@ -275,6 +275,7 @@ settimer, HeroQuest, 100
 Return
 
 HeroQuest:
+tt("HeroQuest")
 ImageSearch, OutputVarX, OutputVarY, 793-25, 593-25, 823+25, 627+25, *50 %a_scriptdir%\Pictures\2021-06-12 18_13_34-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -320,6 +321,7 @@ settimer, HeroQuestSelectLock, 100
 }
 Return
 HeroQuestSelectLock:
+tt("HeroQuestSelectLock")
 reset++
 if(reset > 9){
 reset := 0
@@ -540,6 +542,7 @@ gui, destroy
 settimer, HeroQuestInner, 100
 Return
 HeroQuestInner:
+tt("HeroQuestInner")
 ImageSearch, OutputVarX, OutputVarY, 140-25, 636-25, 187+25, 684+25, *80 %a_scriptdir%\Pictures\2021-06-12 07_13_43-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 settimer, HeroQuestInner, off 
@@ -607,9 +610,20 @@ click up
 reset := 0
 }
 }
+ImageSearch, OutputVarX, OutputVarY, 0, 127, 1013, 589, *95 C:\VC\Pictures\2021-06-26 07_47_51-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, %OutputVarX%, %OutputVarY%
+click down
+sleep, 20
+click up
+reset := 0
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 0, 127, 1013, 589, *30 %a_scriptdir%\Pictures\2021-06-12 04_10_55-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
-Loop, 1
+Loop, 3
 {
 mousemove, %OutputVarX%, %OutputVarY%
 click down
@@ -965,17 +979,29 @@ CheckForSoul:
 ImageSearch, OutputVarX, OutputVarY, 920-150, 461-150, 965+150, 506+150, *95 C:\VC\Pictures\2021-06-24 13_34_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 	settimer, ConnectHostUntilSoul, off
-	sleep, 150
+	sleep, 50
 	stillon := 1
+Loop, 100
+{	
 ImageSearch, OutputVarX, OutputVarY, 408-150, 545-150, 460+150, 591+150, *95 C:\VC\Pictures\2021-06-24 13_35_30-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
-	stillon := 0
-	settimer, ConnectHostUntilSoul, 150
-	settimer, CheckForSoul, off 
+	stillon := 3
+	break
 }else{
-	settimer, CheckForSoul, off 
-	settimer, ConnectHostUntilSoul, off
-	settimer, ExitToNextBattle, 100
+	stillon := 4
+	
+}
+}
+if(stillon == 3){
+settimer, ConnectHostUntilSoul, 150
+settimer, CheckForSoul, off 
+stillon := 0
+}
+if(stillon == 4){
+stillon := 1	
+settimer, CheckForSoul, off 
+settimer, ConnectHostUntilSoul, off
+settimer, ExitToNextBattle, 100
 }
 }
 Return
@@ -1020,14 +1046,14 @@ sleep, 20
 click up
 }
 }
-sleep, 800
+sleep, 400
 Loop, 20
 {
-ImageSearch, OutputVarX, OutputVarY, 692-90, 456-90, 39+90, 47+90, *95 C:\VC\Pictures\2021-06-26 05_50_23-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 692-90, 452-90, 716+90, 485+90, *95 C:\VC\Pictures\2021-06-26 07_00_00-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
-Loop, 3
+Loop, 1
 {
-mousemove, 366,252
+mousemove, 704,469
 click down
 sleep, 20
 click up
@@ -4733,5 +4759,5 @@ sleep, 500
 }
 }
 tt(message){
-ToolTip, %message%, 200,20
+ToolTip, %message%, 700,20
 }
