@@ -612,7 +612,7 @@ reset := 0
 }
 ImageSearch, OutputVarX, OutputVarY, 0, 127, 1013, 589, *95 C:\VC\Pictures\2021-06-26 07_47_51-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
-Loop, 3
+Loop, 1
 {
 mousemove, %OutputVarX%, %OutputVarY%
 click down
@@ -623,7 +623,7 @@ reset := 0
 }
 ImageSearch, OutputVarX, OutputVarY, 0, 127, 1013, 589, *30 %a_scriptdir%\Pictures\2021-06-12 04_10_55-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
-Loop, 3
+Loop, 1
 {
 mousemove, %OutputVarX%, %OutputVarY%
 click down
