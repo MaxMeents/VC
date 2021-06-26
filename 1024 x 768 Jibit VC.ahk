@@ -1132,6 +1132,7 @@ XButton1::
 Gui, -Caption +AlwaysOnTop
 Gui, Font, s15
 Gui, Font, c4287f5
+gui, add, text,gActivateVCOption, ActivateVC
 gui, add, text,gTakeScreenshot, Take Screenshot
 gui, add, text,gCR1024, 1024 x 768 
 gui, add, text,gCR3840, 3840 x 2160
@@ -2148,6 +2149,7 @@ sleep, 1000
 send, 15{enter}
 gosub, ActivateVC
 Return
+
 EnableCEScript:
 gui, destroy 
 Runwait, taskkill /im cheatengine-x86_64-SSE4-AVX2.exe /f
@@ -4544,4 +4546,8 @@ mousemove, 143,649
 send, {wheelup 32}
 }
 run, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Character List.txt
+Return
+ActivateVCOption:
+gui, destroy 
+gosub, ActivateVC
 Return
