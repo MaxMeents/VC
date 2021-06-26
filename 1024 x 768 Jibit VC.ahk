@@ -973,7 +973,7 @@ Return
 ConnectHostUntilSoulTimer:
 gui,destroy
 settimer, ConnectHostUntilSoul, 150
-settimer, CheckForSoul, 50
+gosub, CheckForSoul
 Return
 CheckForSoul:
 ImageSearch, OutputVarX, OutputVarY, 919-90, 460-90, 966+90, 508+90, *45 %a_scriptdir%\Pictures\2021-06-26 09_23_15-Valkyrie Connect WW.png 
@@ -997,15 +997,17 @@ if(ErrorLevel == 0){
 }
 if(stillon == 3){
 settimer, ConnectHostUntilSoul, 150
-settimer, CheckForSoul, off 
 stillon := 0
+sleep, 1000
+gosub, CheckForSoul
 }
 if(stillon == 4){
 stillon := 1	
-settimer, CheckForSoul, off 
 settimer, ConnectHostUntilSoul, off
 settimer, ExitToNextBattle, 100
 }
+}else{
+	gosub, CheckForSoul
 }
 Return
 ExitToNextBattle:
@@ -1036,7 +1038,6 @@ Return
 
 ConnectHostUntilSoul:
 gosub, PlayerLevelUp
-settimer, CheckForSoul, 50 
 stillon := 0
 ImageSearch, OutputVarX, OutputVarY, 928-90, 459-90, 949+90, 478+90, *95 %a_scriptdir%\Pictures\2021-06-26 05_50_10-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
