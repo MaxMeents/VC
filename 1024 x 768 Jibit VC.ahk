@@ -999,77 +999,26 @@ ConnectHostUntilSoul:
 gosub, PlayerLevelUp
 settimer, CheckForSoul, 50 
 stillon := 0
-ImageSearch, OutputVarX, OutputVarY, 492-90, 269-90, 610+90, 300+90, *95 C:\VC\Pictures\2021-06-24 01_16_54-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 928-90, 459-90, 949+90, 478+90, *95 C:\VC\Pictures\2021-06-26 05_50_10-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
-mousemove, 551,285
+mousemove, 939,469
 click down
 sleep, 20
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 668-200, 539-200, 738+200, 576+200, *95 C:\VC\Pictures\2021-06-24 00_42_42-Valkyrie Connect WW.png 
-if(ErrorLevel == 0){
-Loop, 1
-{
-mousemove, 703,558
-click down
-sleep, 20
-click up
-}
-}
-ImageSearch, OutputVarX, OutputVarY, 648-90, 237-90, 744+90, 275+90, *95 C:\VC\Pictures\2021-06-24 00_40_55-Valkyrie Connect WW.png 
-if(ErrorLevel == 0){
-Loop, 1
-{
-mousemove, 696,256
-click down
-sleep, 20
-click up
-}
-}
-ImageSearch, OutputVarX, OutputVarY, 779-90, 504-90, 850+90, 537+90, *95 C:\VC\Pictures\2021-06-24 00_41_02-Valkyrie Connect WW.png 
-if(ErrorLevel == 0){
-Loop, 1
-{
-mousemove, 815,521
-click down
-sleep, 20
-click up
-}
-}
-ImageSearch, OutputVarX, OutputVarY, 858-90, 619-90, 895+90, 668+90, *95 C:\VC\Pictures\2021-06-24 00_41_10-Valkyrie Connect WW.png 
-if(ErrorLevel == 0){
-Loop, 1
-{
-mousemove, 877,644
-click down
-sleep, 20
-click up
-}
-}
-ImageSearch, OutputVarX, OutputVarY, 918-200, 463-200, 970+200, 510+200, *95 C:\VC\Pictures\2021-06-24 00_46_09-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 692-90, 456-90, 39+90, 47+90, *95 C:\VC\Pictures\2021-06-26 05_50_23-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 if(stillon == 0){
 Loop, 1
 {
-mousemove, 944,487
+mousemove, 366,252
 click down
 sleep, 20
 click up
 }
-}	
-
-}
-ImageSearch, OutputVarX, OutputVarY, 649-200, 455-200, 710+200, 480+200, *95 C:\VC\Pictures\2021-06-24 00_46_18-Valkyrie Connect WW.png 
-if(ErrorLevel == 0){
-Loop, 1
-{
-mousemove, 680,468
-click down
-sleep, 20
-click up
 }
 }
 Return
@@ -4755,7 +4704,7 @@ ConnectNum++
 settimer, ConnectAllSelect, off
 run, %a_scriptdir%\CB.exe
 sleep, 7000
-settimer, CheckClipboard, 200
+settimer, CheckClipboard, 500
 }else{
 mousemove, 650,381
 send, {wheeldown 10}
