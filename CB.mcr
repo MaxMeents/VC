@@ -50,3 +50,5 @@ DELAY : 48
 Mouse : R920 : R649 : LeftButtonDown : 0 : 0 : 0
 DELAY : 96
 Mouse : R920 : R649 : LeftButtonUp : 0 : 0 : 0
+CLEAR CLIPBOARD
+SET CLIPBOARD : EnableUntilSoul
