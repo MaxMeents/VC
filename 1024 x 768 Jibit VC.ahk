@@ -976,7 +976,7 @@ settimer, ConnectHostUntilSoul, 150
 settimer, CheckForSoul, 50
 Return
 CheckForSoul:
-ImageSearch, OutputVarX, OutputVarY, 920-150, 461-150, 965+150, 506+150, *95 %a_scriptdir%\Pictures\2021-06-24 13_34_54-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 919-90, 460-90, 966+90, 508+90, *45 %a_scriptdir%\Pictures\2021-06-26 09_23_15-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 	settimer, CheckForSoul, off
 	settimer, ConnectHostUntilSoul, off
