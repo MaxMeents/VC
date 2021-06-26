@@ -4604,7 +4604,7 @@ gosub, ActivateVC
 settimer, ConnectAllSelect, 100
 Return
 ConnectAllSelect:
-tt("ConnectNum: %ConnectNum%")
+tt("ConnectNum: " . ConnectNum)
 if(ConnectNum == 0){
 CA("C:\VC\Pictures\2021-06-26 03_16_27-Valkyrie Connect WW.png")
 
