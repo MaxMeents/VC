@@ -76,6 +76,7 @@ run, %a_scriptdir%\After Startup 6-25-2021.exe
 }
 if(clipboard == "EnableUntilSoul"){
 clipboard :=
+settimer, CheckClipboard, off
 gosub, ConnectHostUntilSoulTimer
 }
 Return
