@@ -812,6 +812,7 @@ ChangeResolution(Screen_Width := 1920, Screen_Height := 1080, Color_Depth := 32)
 Return
 EnableCE:
 gui, destroy
+gosub, ActivateVC
 run, %a_scriptdir%\CE.exe
 Return
 !c::
