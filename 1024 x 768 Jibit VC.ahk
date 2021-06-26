@@ -4729,7 +4729,7 @@ CA("C:\VC\Pictures\2021-06-26 04_09_04-Valkyrie Connect WW.png")
 
 Return
 CA(img){
-ImageSearch, OutputVarX, OutputVarY, 457, 139, 960, 696, *95 %img%
+ImageSearch, OutputVarX, OutputVarY, 457, 139, 960, 566, *95 %img%
 if(ErrorLevel == 0){
 OutputVarY := OutputVarY + 75	
 Loop, 4
