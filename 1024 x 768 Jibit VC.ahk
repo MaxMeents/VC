@@ -1136,6 +1136,7 @@ gui, add, text,gTakeScreenshot, Take Screenshot
 gui, add, text,gCR1024, 1024 x 768 
 gui, add, text,gCR3840, 3840 x 2160
 gui, add, text,gEnableCE, Enable CE
+gui, add, text,gEnableCEScript, Join Battle Then Cheat Engine 
 gui, add, text,gConnectHostTimer, Host Connect
 gui, add, text,gConnectHostUntilSoulTimer, Host Connect Till Soul
 gui, add, text,gConnectToHostGameTimer, Connect To Host Game
@@ -1752,6 +1753,12 @@ sleep, 500
 Return
 JoinBattleThenCheatEngineTimer:
 gui, destroy
+Winshow, Cheat Engine 7.2
+WinActivate, Cheat Engine 7.2 
+WinWaitActive, Cheat Engine 7.2
+WinMove, Cheat Engine 7.2, , 0, 0,,800
+sleep, 1000
+gosub, ActivateVC
 settimer, JoinBattleThenCheatEngine, 200 
 Return
 JoinBattleThenCheatEngine:
@@ -2140,6 +2147,50 @@ send, {down 3}{enter}
 sleep, 1000
 send, 15{enter}
 gosub, ActivateVC
+Return
+EnableCEScript:
+gui, destroy 
+Runwait, taskkill /im cheatengine-x86_64-SSE4-AVX2.exe /f
+Runwait, taskkill /im cheatengine-x86_64.exe /f
+run, %a_scriptdir%\Cheat Engine.lnk
+sleep, 3000
+WinMove, Cheat Engine 7.2, , 0, 0,,800
+SetTitleMatchMode, 2
+winset, AlwaysOnTop, On, Cheat Engine 7.2
+WinActivate, Cheat Engine 7.2
+sleep, 2000
+winset, AlwaysOnTop, On, Cheat Engine 7.2
+WinActivate, Cheat Engine 7.2
+mousemove, 24,69
+click down
+sleep, 60
+click up
+mousemove, 24,69
+click down
+sleep, 60
+click up
+mousemove, 24,69
+click down
+sleep, 60
+click up
+sleep, 1000
+send, Valk
+sleep, 200
+send, {enter}
+sleep, 500
+WinActivate, Valkyrie Connect WW
+WinShow, Valkyrie Connect WW
+WinMaximize,Valkyrie Connect WW
+sleep, 500
+mousemove, 769,580
+click down
+sleep, 60
+click up
+mousemove, 769,580
+click down
+sleep, 60
+click up
+settimer, JoinBattleThenCheatEngine, 100
 Return
 
 Restart:
