@@ -12,6 +12,7 @@ IfWinNotExist, Cheat Engine 7.2
 	sleep, 2000
 	WinMaximize, Cheat Engine 7.2
 }
+global ConnectNum := 0
 global stillon := 0
 global accountNum := 10001
 global ComputerID := 
@@ -72,6 +73,10 @@ if(clipboard == "RerollPart1Done"){
 clipboard :=
 settimer, CheckClipboard, off 
 run, %a_scriptdir%\After Startup 6-25-2021.exe
+}
+if(clipboard == "EnableUntilSoul"){
+clipboard :=
+gosub, ConnectHostUntilSoulTimer
 }
 Return
 IncreaseAccountNum:
@@ -522,8 +527,17 @@ click up
 if(reset > 8){
 mousemove, 27,48
 click down
-sleep, 60
+sleep, 30
 click up
+mousemove, 27,48
+click down
+sleep, 30
+click up
+mousemove, 27,48
+click down
+sleep, 30
+click up
+
 reset := 0
 gosub, HeroQuestTimer
 }
@@ -902,7 +916,7 @@ CheckForSoul:
 ImageSearch, OutputVarX, OutputVarY, 920-150, 461-150, 965+150, 506+150, *95 C:\VC\Pictures\2021-06-24 13_34_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 	settimer, ConnectHostUntilSoul, off
-	sleep, 80
+	sleep, 150
 	stillon := 1
 ImageSearch, OutputVarX, OutputVarY, 408-150, 545-150, 460+150, 591+150, *95 C:\VC\Pictures\2021-06-24 13_35_30-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
@@ -912,7 +926,33 @@ if(ErrorLevel == 0){
 }else{
 	settimer, CheckForSoul, off 
 	settimer, ConnectHostUntilSoul, off
+	settimer, ExitToNextBattle, 100
 }
+}
+Return
+ExitToNextBattle:
+ImageSearch, OutputVarX, OutputVarY, 188-90, 132-90, 223+90, 164+90, *95 C:\VC\Pictures\2021-06-26 03_35_34-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 206,148
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 910-90, 576-90, 964+90, 627+90, *55 C:\VC\Pictures\2021-06-26 03_35_43-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 5
+{
+mousemove, 937,602
+click down
+sleep, 20
+click up
+}
+settimer, ExitToNextBattle, off
+sleep, 2000
+settimer, ConnectAllSelect, 100
 }
 Return
 
@@ -1134,6 +1174,8 @@ Gui, Font, s15
 Gui, Font, c4287f5
 gui, add, text,gActivateVCOption, ActivateVC
 gui, add, text,gTakeScreenshot, Take Screenshot
+gui, add, text,gConnectAllTimer, Connect All 
+gui, add, text,gConnectAllTimerSelectNum, Connect All Set Num
 gui, add, text,gCR1024, 1024 x 768 
 gui, add, text,gCR3840, 3840 x 2160
 gui, add, text,gEnableCE, Enable CE
@@ -4551,3 +4593,141 @@ ActivateVCOption:
 gui, destroy 
 gosub, ActivateVC
 Return
+ConnectAllTimerSelectNum:
+gui, destroy
+InputBox, ConnectNum, ConnectNum?
+gosub, ConnectAllTimer
+Return
+ConnectAllTimer:
+gui, destroy 
+gosub, ActivateVC
+settimer, ConnectAllSelect, 100
+Return
+ConnectAllSelect:
+tt("ConnectNum: %ConnectNum%")
+if(ConnectNum == 0){
+CA("C:\VC\Pictures\2021-06-26 03_16_27-Valkyrie Connect WW.png")
+
+}
+if(ConnectNum == 1){
+CA("C:\VC\Pictures\2021-06-26 03_38_13-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 2){
+CA("C:\VC\Pictures\2021-06-26 04_03_34-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 3){
+CA("C:\VC\Pictures\2021-06-26 04_03_53-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 4){
+CA("C:\VC\Pictures\2021-06-26 04_04_00-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 5){
+CA("C:\VC\Pictures\2021-06-26 04_04_10-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 6){
+CA("C:\VC\Pictures\2021-06-26 04_04_20-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 7){
+CA("C:\VC\Pictures\2021-06-26 04_04_30-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 8){
+CA("C:\VC\Pictures\2021-06-26 04_04_38-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 9){
+CA("C:\VC\Pictures\2021-06-26 04_05_07-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 10){
+CA("C:\VC\Pictures\2021-06-26 04_05_12-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 11){
+CA("C:\VC\Pictures\2021-06-26 04_05_17-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 12){
+CA("C:\VC\Pictures\2021-06-26 04_05_27-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 13){
+CA("C:\VC\Pictures\2021-06-26 04_05_36-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 14){
+CA("C:\VC\Pictures\2021-06-26 04_05_46-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 15){
+CA("C:\VC\Pictures\2021-06-26 04_05_58-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 16){
+CA("C:\VC\Pictures\2021-06-26 04_06_04-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 17){
+CA("C:\VC\Pictures\2021-06-26 04_06_12-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 18){
+CA("C:\VC\Pictures\2021-06-26 04_06_30-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 19){
+CA("C:\VC\Pictures\2021-06-26 04_06_36-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 20){
+CA("C:\VC\Pictures\2021-06-26 04_06_42-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 21){
+CA("C:\VC\Pictures\2021-06-26 04_07_00-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 22){
+CA("C:\VC\Pictures\2021-06-26 04_07_06-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 23){
+CA("C:\VC\Pictures\2021-06-26 04_07_11-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 24){
+CA("C:\VC\Pictures\2021-06-26 04_07_36-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 25){
+CA("C:\VC\Pictures\2021-06-26 04_08_23-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 26){
+CA("C:\VC\Pictures\2021-06-26 04_08_32-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 27){
+CA("C:\VC\Pictures\2021-06-26 04_08_41-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 28){
+CA("C:\VC\Pictures\2021-06-26 04_08_50-Valkyrie Connect WW.png")
+}
+if(ConnectNum == 29){
+CA("C:\VC\Pictures\2021-06-26 04_09_04-Valkyrie Connect WW.png")
+}
+
+
+Return
+CA(img){
+ImageSearch, OutputVarX, OutputVarY, 457, 139, 960, 696, *95 %img%
+if(ErrorLevel == 0){
+OutputVarY := OutputVarY + 75	
+Loop, 4
+{
+
+mousemove, %OutputVarX%, %OutputVarY%
+click down
+sleep, 20
+click up
+
+}
+ConnectNum++
+settimer, ConnectAllSelect, off
+settimer, CheckClipboard, 100
+run, %a_scriptdir%\CB.exe
+}else{
+mousemove, 650,381
+send, {wheeldown 10}
+sleep, 400
+reset++
+if(reset > 15){
+reset := 0
+send, {wheelup 400}
+sleep, 500
+}
+}
+}
+tt(message){
+ToolTip, %message%, 200,20
+}
