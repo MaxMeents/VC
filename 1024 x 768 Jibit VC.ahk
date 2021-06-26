@@ -4715,8 +4715,9 @@ click up
 }
 ConnectNum++
 settimer, ConnectAllSelect, off
-settimer, CheckClipboard, 100
 run, %a_scriptdir%\CB.exe
+sleep, 5000
+settimer, CheckClipboard, 200
 }else{
 mousemove, 650,381
 send, {wheeldown 10}
