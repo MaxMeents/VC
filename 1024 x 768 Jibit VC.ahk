@@ -984,9 +984,8 @@ if(ErrorLevel == 0){
 	stillon := 1
 Loop, 150
 {	
-	
 
-ImageSearch, OutputVarX, OutputVarY, 428-120, 564-120, 452+120, 587+120, *95 %a_scriptdir%\Pictures\2021-06-26 09_03_26-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 195, 518, 490, 627, *55 %a_scriptdir%\Pictures\2021-06-26 09_03_26-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 	stillon := 3
 	break
