@@ -70,7 +70,8 @@ Return
 CheckClipboard:
 if(clipboard == "RerollPart1Done"){
 clipboard :=
-MsgBox, , Done Part 1
+settimer, CheckClipboard, off 
+run, %a_scriptdir%\After Startup 6-25-2021.exe
 }
 Return
 IncreaseAccountNum:
@@ -209,6 +210,7 @@ sleep, 500
 gosub, RunVC
 sleep, 8000
 run, C:\VC\RerollPart1.exe
+settimer, CheckClipboard, 100
 Return
 
 
