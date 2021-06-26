@@ -64,7 +64,7 @@ settimer, RestartCommon2, 1000
 ^+up::      send,^+{home}
 settimer, CheckClipboard, 200
 RestartCommon2:
-ImageSearch, OutputVarXX, OutputVarYY, 352-90, 329-90, 670+90, 384+90, *95 C:\VC\Pictures\2021-06-26 05_15_29-Valkyrie Connect WW.png 
+ImageSearch, OutputVarXX, OutputVarYY, 352-90, 329-90, 670+90, 384+90, *55 C:\VC\Pictures\2021-06-26 05_15_29-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 3
 {
@@ -610,7 +610,7 @@ click up
 reset := 0
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 0, 127, 1013, 589, *95 C:\VC\Pictures\2021-06-26 07_47_51-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 0, 127, 1013, 589, *35 C:\VC\Pictures\2021-06-26 07_47_51-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
