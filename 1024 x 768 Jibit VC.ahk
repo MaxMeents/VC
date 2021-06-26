@@ -1011,7 +1011,8 @@ settimer, CheckForSoul, 50
 stillon := 0
 ImageSearch, OutputVarX, OutputVarY, 928-90, 459-90, 949+90, 478+90, *95 C:\VC\Pictures\2021-06-26 05_50_10-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
-Loop, 1
+if(stillon == 0){
+Loop, 3
 {
 mousemove, 939,469
 click down
@@ -1019,10 +1020,12 @@ sleep, 20
 click up
 }
 }
+sleep, 800
+Loop, 20
+{
 ImageSearch, OutputVarX, OutputVarY, 692-90, 456-90, 39+90, 47+90, *95 C:\VC\Pictures\2021-06-26 05_50_23-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
-if(stillon == 0){
-Loop, 1
+Loop, 3
 {
 mousemove, 366,252
 click down
@@ -1031,6 +1034,8 @@ click up
 }
 }
 }
+}
+
 Return
 
 #s::
@@ -4545,7 +4550,7 @@ sleep, 60
 click up
 gosub, NewGame
 Return
-^y::
+!y::
 TakePictures:
 
 gui, destroy
