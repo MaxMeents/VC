@@ -51,7 +51,7 @@ global plusX :=
 global plusY :=
 global stuck := 0
 global stuckblack := 0
-settimer, RestartCommon2, 500
+settimer, RestartCommon2, 1000
 
 ^w::pause
 ^Right::    send,{end}
@@ -113,7 +113,7 @@ settimer, CheckClipboard, off
 run, %a_scriptdir%\After Startup 6-25-2021.exe
 }
 if(clipboard == "EnableUntilSoul"){
-clipboard :=
+clipboard := "UntilSoul"
 settimer, CheckClipboard, off
 gosub, ConnectHostUntilSoulTimer
 }
@@ -4754,7 +4754,7 @@ click up
 ConnectNum++
 settimer, ConnectAllSelect, off
 run, %a_scriptdir%\CB.exe
-sleep, 5000
+sleep, 7000
 settimer, CheckClipboard, 200
 }else{
 mousemove, 650,381
