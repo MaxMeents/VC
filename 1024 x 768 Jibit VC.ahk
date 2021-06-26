@@ -100,6 +100,16 @@ click down
 sleep, 60
 click up
 }
+ImageSearch, OutputVarX, OutputVarY, 238-90, 273-90, 260+90, 291+90, *95 C:\VC\Pictures\2021-06-26 06_02_02-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 34,56
+click down
+sleep, 20
+click up
+}
+}
 Return
 #c::
 activateCE:
