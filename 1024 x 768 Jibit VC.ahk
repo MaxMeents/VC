@@ -1138,11 +1138,17 @@ gui, add, text,gEnableCE, Enable CE
 gui, add, text,gConnectHostTimer, Host Connect
 gui, add, text,gConnectHostUntilSoulTimer, Host Connect Till Soul
 gui, add, text,gConnectToHostGameTimer, Connect To Host Game
+gui, add, text,gFreeSummonAfterStartup, Free Summon After Startup
 gui, add, text,gHeroQuestTimer, Hero Quest 
 gui, add, text,gStoryMissions, StoryMission 
 gui, add, text,gPromoteLevelUpOrbs, Promote-Level Up-Orbs 
 gui, add, text,gHeroQuestInnerTimer, HeroQuestInner
 gui, show 
+Return
+FreeSummonAfterStartup:
+gui, destroy
+gosub, ActivateVC
+run, %a_scriptdir%\Free Summon After After Startup.exe
 Return
 PromoteLevelUpOrbs:
 gui, destroy 
