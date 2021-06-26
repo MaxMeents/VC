@@ -1127,10 +1127,47 @@ click up
 }
 sleep, 500
 }
-
+ImageSearch, OutputVarX, OutputVarY, 488-90, 492-90, 535+90, 529+90, *95 C:\VC\Pictures\2021-06-26 11_08_50-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 512,511
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 922-90, 582-90, 962+90, 625+90, *95 C:\VC\Pictures\2021-06-26 11_09_44-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 942,604
+click down
+sleep, 20
+click up
+}
+sleep, 100
+settimer, ConnectToHostGame, 100 
+settimer, ConnectedToHostGame, off
+}
+ImageSearch, OutputVarX, OutputVarY, 891-90, 107-90, 932+90, 146+90, *95 C:\VC\Pictures\2021-06-26 11_11_13-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+settimer, ConnectToHostGame, off 
+settimer, ConnectedToHostGame, 100
+}
 Return
 ConnectedToHostGame:
 gosub, PlayerLevelUp
+ImageSearch, OutputVarX, OutputVarY, 488-90, 492-90, 535+90, 529+90, *95 C:\VC\Pictures\2021-06-26 11_08_50-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 512,511
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 391-90, 700-90, 426+90, 720+90, *55 %a_scriptdir%\Pictures\2021-06-24 00_52_47-Settings.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -1291,6 +1328,16 @@ settimer, Promote, 100
 }
 Return
 orbsinner:
+ImageSearch, OutputVarX, OutputVarY, 478-90, 431-90, 544+90, 474+90, *95 C:\VC\Pictures\2021-06-26 10_37_19-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 511,453
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 489-25, 542-25, 532+25, 576+25, *50 %a_scriptdir%\Pictures\2021-06-12 08_06_09-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -1330,6 +1377,29 @@ click down
 sleep, 20
 click up
 }
+}
+ImageSearch, OutputVarX, OutputVarY, 445-90, 220-90, 489+90, 244+90, *95 C:\VC\Pictures\2021-06-26 10_37_59-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 467,232
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 232-90, 134-90, 258+90, 165+90, *95 C:\VC\Pictures\2021-06-26 10_38_46-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 245,150
+click down
+sleep, 20
+click up
+}
+sleep, 100
+settimer, orbsinner, off 
+settimer, ToMaxLvL, 100
 }
 ImageSearch, OutputVarX, OutputVarY, 629-25, 526-25, 669+25, 577+25, *50 %a_scriptdir%\Pictures\2021-06-12 07_58_12-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
