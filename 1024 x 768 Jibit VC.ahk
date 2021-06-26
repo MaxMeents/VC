@@ -978,12 +978,15 @@ Return
 CheckForSoul:
 ImageSearch, OutputVarX, OutputVarY, 920-150, 461-150, 965+150, 506+150, *95 %a_scriptdir%\Pictures\2021-06-24 13_34_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
+	settimer, CheckForSoul, off
 	settimer, ConnectHostUntilSoul, off
 	sleep, 50
 	stillon := 1
 Loop, 150
 {	
-ImageSearch, OutputVarX, OutputVarY, 408-150, 545-150, 460+150, 591+150, *110 %a_scriptdir%\Pictures\2021-06-24 13_35_30-Valkyrie Connect WW.png 
+	
+
+ImageSearch, OutputVarX, OutputVarY, 428-120, 564-120, 452+120, 587+120, *95 %a_scriptdir%\Pictures\2021-06-26 09_03_26-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 	stillon := 3
 	break
