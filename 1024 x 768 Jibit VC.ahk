@@ -51,7 +51,7 @@ global plusX :=
 global plusY :=
 global stuck := 0
 global stuckblack := 0
-
+settimer, RestartCommon2, 500
 
 ^w::pause
 ^Right::    send,{end}
@@ -63,6 +63,44 @@ global stuckblack := 0
 ^+down::    send,^+{end}
 ^+up::      send,^+{home}
 settimer, CheckClipboard, 200
+RestartCommon2:
+ImageSearch, OutputVarX, OutputVarY, 352-90, 329-90, 670+90, 384+90, *95 C:\VC\Pictures\2021-06-26 05_15_29-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 511,357
+click down
+sleep, 20
+click up
+}
+sleep, 100
+mousemove, 186,602
+click down
+sleep, 60
+click up
+mousemove, 186,602
+click down
+sleep, 60
+click up
+mousemove, 186,602
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 873,646
+click down
+sleep, 60
+click up
+mousemove, 873,646
+click down
+sleep, 60
+click up
+mousemove, 873,646
+click down
+sleep, 60
+click up
+}
+Return
 #c::
 activateCE:
 WinShow, Cheat Engine 7.2
