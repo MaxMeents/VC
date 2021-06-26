@@ -12,7 +12,7 @@ IfWinNotExist, Cheat Engine 7.2
 	sleep, 2000
 	WinMaximize, Cheat Engine 7.2
 }
-global ConnectNum := 0
+global ConnectNum := 24
 global stillon := 0
 global accountNum := 10001
 global ComputerID := 
