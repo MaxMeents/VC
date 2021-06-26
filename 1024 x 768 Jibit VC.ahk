@@ -68,9 +68,9 @@ ImageSearch, OutputVarX, OutputVarY, 352-90, 329-90, 670+90, 384+90, *95 C:\VC\P
 if(ErrorLevel == 0){
 Loop, 3
 {
-mousemove, 511,357
+mousemove, 517,478
 click down
-sleep, 20
+sleep, 60
 click up
 }
 sleep, 100
