@@ -481,56 +481,43 @@ Keyboard : Space : KeyDown
 DELAY : 96
 Keyboard : Space : KeyUp
 DELAY : 547
-Mouse : R404 : R566 : RightButtonDown : 0 : 0 : 0
-DELAY : 152
-Mouse : R404 : R566 : RightButtonUp : 0 : 0 : 0
-DELAY : 1152
-Mouse : R513 : R70 : LeftButtonDown : 0 : 0 : 0
-DELAY : 111
-Mouse : R513 : R70 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1017
-Mouse : R332 : R147 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R332 : R147 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2044
-Keyboard : D5 : KeyDown
-DELAY : 105
-Keyboard : D5 : KeyUp
-DELAY : 95
-Keyboard : D0 : KeyDown
-DELAY : 89
-Keyboard : D0 : KeyUp
-DELAY : 744
+DELAY : 1453
+Mouse : R291 : R560 : LeftButtonDown : 0 : 0 : 0
+DELAY : 79
+Mouse : R291 : R560 : LeftButtonUp : 0 : 0 : 0
+DELAY : 737
+Keyboard : ControlLeft : KeyDown
+DELAY : 415
+Keyboard : A : KeyDown
+DELAY : 145
+Keyboard : ControlLeft : KeyUp
+DELAY : 31
+Keyboard : A : KeyUp
+DELAY : 3040
 Keyboard : Enter : KeyDown
-DELAY : 72
-Keyboard : Enter : KeyUp
-DELAY : 1624
-Keyboard : LWindows : KeyDown
-DELAY : 500
-Keyboard : LWindows : KeyDown
-DELAY : 32
-Keyboard : LWindows : KeyDown
-DELAY : 34
-Keyboard : LWindows : KeyDown
-DELAY : 33
-Keyboard : LWindows : KeyDown
-DELAY : 33
-Keyboard : LWindows : KeyDown
-DELAY : 33
-Keyboard : LWindows : KeyDown
-DELAY : 32
-Keyboard : LWindows : KeyDown
-DELAY : 33
-Keyboard : LWindows : KeyDown
-DELAY : 33
-Keyboard : LWindows : KeyDown
-DELAY : 33
-Keyboard : LWindows : KeyDown
-DELAY : 20
-Keyboard : V : KeyDown
 DELAY : 80
+Keyboard : Enter : KeyUp
+DELAY : 1313
+Keyboard : NumPad5 : KeyDown
+DELAY : 87
+Keyboard : NumPad5 : KeyUp
+DELAY : 329
+Keyboard : NumPad0 : KeyDown
+DELAY : 87
+Keyboard : NumPad0 : KeyUp
+DELAY : 1257
+Keyboard : Enter : KeyDown
+DELAY : 112
+Keyboard : Enter : KeyUp
+DELAY : 1823
+Keyboard : LWindows : KeyDown
+DELAY : 501
+Keyboard : LWindows : KeyDown
+DELAY : 27
+Keyboard : V : KeyDown
+DELAY : 113
 Keyboard : LWindows : KeyUp
 Keyboard : ControlLeft : KeyDown
 Keyboard : ControlLeft : KeyUp
-DELAY : 80
+DELAY : 62
 Keyboard : V : KeyUp
