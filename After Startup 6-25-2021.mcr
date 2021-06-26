@@ -1,1440 +1,700 @@
-DELAY : 1433
-Mouse : 970 : 113 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R978 : R121 : LeftButtonUp : 0 : 0 : 0
-DELAY : 65
-Mouse : R978 : R121 : LeftButtonDown : 0 : 0 : 0
-DELAY : 120
-Mouse : R978 : R121 : LeftButtonUp : 0 : 0 : 0
-DELAY : 6536
-Mouse : R666 : R601 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R666 : R601 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R666 : R601 : LeftButtonDown : 0 : 0 : 0
+DELAY : 1804
+Mouse : 975 : 131 : LeftButtonDown : 0 : 0 : 0
 DELAY : 97
-Mouse : R667 : R603 : LeftButtonUp : 0 : 0 : 0
-DELAY : 927
-Mouse : R494 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R494 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 55
-Mouse : R494 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 105
-Mouse : R494 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R494 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 113
-Mouse : R494 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R494 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 49
-Mouse : R494 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 151
-Mouse : R494 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R494 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R494 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R494 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 73
-Mouse : R494 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R494 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 47
-Mouse : R494 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R494 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 897
-Mouse : R368 : R443 : LeftButtonDown : 0 : 0 : 0
-DELAY : 1895
-Mouse : R368 : R443 : LeftButtonUp : 0 : 0 : 0
-DELAY : 561
-Mouse : R501 : R365 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R501 : R365 : LeftButtonUp : 0 : 0 : 0
-DELAY : 40
-Mouse : R501 : R365 : LeftButtonDown : 0 : 0 : 0
-DELAY : 113
-Mouse : R501 : R365 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R501 : R365 : LeftButtonDown : 0 : 0 : 0
-DELAY : 120
-Mouse : R501 : R365 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R501 : R365 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R501 : R365 : LeftButtonUp : 0 : 0 : 0
-DELAY : 952
-Mouse : R671 : R454 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R671 : R454 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1105
-Mouse : R506 : R433 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R506 : R433 : LeftButtonUp : 0 : 0 : 0
-DELAY : 120
-Mouse : R506 : R433 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R506 : R433 : LeftButtonUp : 0 : 0 : 0
-DELAY : 120
-Mouse : R506 : R433 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R506 : R433 : LeftButtonUp : 0 : 0 : 0
-DELAY : 928
-Mouse : R155 : R230 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R155 : R230 : LeftButtonUp : 0 : 0 : 0
-DELAY : 65
-Mouse : R155 : R230 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R155 : R230 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R155 : R230 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R155 : R231 : LeftButtonUp : 0 : 0 : 0
-DELAY : 625
-Mouse : R155 : R231 : LeftButtonDown : 0 : 0 : 0
-DELAY : 152
-Mouse : R155 : R231 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R155 : R231 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R155 : R231 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1200
-Mouse : R872 : R651 : LeftButtonDown : 0 : 0 : 0
-DELAY : 121
-Mouse : R872 : R651 : LeftButtonUp : 0 : 0 : 0
-DELAY : 71
-Mouse : R872 : R651 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R872 : R651 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R872 : R651 : LeftButtonDown : 0 : 0 : 0
-DELAY : 57
-Mouse : R872 : R651 : LeftButtonUp : 0 : 0 : 0
-DELAY : 567
-Mouse : R847 : R631 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R844 : R631 : LeftButtonUp : 0 : 0 : 0
-DELAY : 105
-Mouse : R844 : R631 : LeftButtonDown : 0 : 0 : 0
-DELAY : 71
-Mouse : R844 : R631 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R844 : R631 : LeftButtonDown : 0 : 0 : 0
-DELAY : 63
-Mouse : R844 : R631 : LeftButtonUp : 0 : 0 : 0
-DELAY : 216
-Mouse : R844 : R631 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R844 : R631 : LeftButtonUp : 0 : 0 : 0
-DELAY : 145
-Mouse : R844 : R631 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R844 : R631 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1729
-Mouse : R37 : R58 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R37 : R59 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2824
-Mouse : R27 : R66 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R27 : R66 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1680
-Mouse : R828 : R414 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R828 : R417 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1504
-Mouse : R658 : R469 : LeftButtonDown : 0 : 0 : 0
-DELAY : 40
-Mouse : R658 : R469 : LeftButtonUp : 0 : 0 : 0
-DELAY : 112
-Mouse : R658 : R469 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R658 : R469 : LeftButtonUp : 0 : 0 : 0
-DELAY : 95
-Mouse : R658 : R469 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R658 : R469 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R658 : R469 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R658 : R469 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1024
-Mouse : R893 : R474 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R893 : R474 : LeftButtonUp : 0 : 0 : 0
-DELAY : 121
-Mouse : R893 : R474 : LeftButtonDown : 0 : 0 : 0
-DELAY : 56
-Mouse : R893 : R474 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1231
-Mouse : R411 : R564 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R411 : R564 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R411 : R564 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R411 : R564 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1265
-Mouse : R669 : R496 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R669 : R496 : LeftButtonUp : 0 : 0 : 0
-DELAY : 90
-Mouse : R669 : R496 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R669 : R496 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R669 : R496 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R669 : R496 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R669 : R496 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R669 : R496 : LeftButtonUp : 0 : 0 : 0
-DELAY : 503
-Mouse : R680 : R550 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R680 : R550 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R680 : R550 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R680 : R550 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R680 : R550 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R680 : R550 : LeftButtonUp : 0 : 0 : 0
-DELAY : 824
-Mouse : R640 : R521 : LeftButtonDown : 0 : 0 : 0
-DELAY : 57
-Mouse : R640 : R521 : LeftButtonUp : 0 : 0 : 0
-DELAY : 112
-Mouse : R640 : R521 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R640 : R521 : LeftButtonUp : 0 : 0 : 0
-DELAY : 71
-Mouse : R640 : R521 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R640 : R521 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2753
-Mouse : R545 : R557 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R545 : R557 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R545 : R557 : LeftButtonDown : 0 : 0 : 0
-DELAY : 111
-Mouse : R546 : R557 : LeftButtonUp : 0 : 0 : 0
-DELAY : 969
-Mouse : R532 : R518 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R532 : R518 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R532 : R518 : LeftButtonDown : 0 : 0 : 0
-DELAY : 113
-Mouse : R532 : R518 : LeftButtonUp : 0 : 0 : 0
-DELAY : 174
-Mouse : R532 : R518 : LeftButtonDown : 0 : 0 : 0
-DELAY : 105
-Mouse : R532 : R518 : LeftButtonUp : 0 : 0 : 0
-DELAY : 297
-Mouse : R532 : R518 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R532 : R518 : LeftButtonUp : 0 : 0 : 0
-DELAY : 121
-Mouse : R532 : R518 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R532 : R518 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1654
-Mouse : R527 : R574 : LeftButtonDown : 0 : 0 : 0
-DELAY : 90
-Mouse : R527 : R575 : LeftButtonUp : 0 : 0 : 0
-DELAY : 63
-Mouse : R527 : R575 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R527 : R575 : LeftButtonUp : 0 : 0 : 0
-DELAY : 792
-Mouse : R529 : R565 : LeftButtonDown : 0 : 0 : 0
-DELAY : 55
-Mouse : R529 : R565 : LeftButtonUp : 0 : 0 : 0
-DELAY : 105
-Mouse : R529 : R565 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R529 : R565 : LeftButtonUp : 0 : 0 : 0
-DELAY : 254
-Mouse : R529 : R565 : LeftButtonDown : 0 : 0 : 0
-DELAY : 82
-Mouse : R529 : R565 : LeftButtonUp : 0 : 0 : 0
-DELAY : 246
-Mouse : R529 : R565 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R529 : R565 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1841
-Mouse : R524 : R484 : LeftButtonDown : 0 : 0 : 0
-DELAY : 73
-Mouse : R524 : R484 : LeftButtonUp : 0 : 0 : 0
-DELAY : 223
-Mouse : R524 : R484 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R524 : R484 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4137
-Mouse : R777 : R318 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R777 : R318 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3169
-Mouse : R213 : R633 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R213 : R633 : LeftButtonUp : 0 : 0 : 0
-DELAY : 95
-Mouse : R213 : R633 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R213 : R633 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2023
-Mouse : R583 : R266 : LeftButtonDown : 0 : 0 : 0
-DELAY : 56
-Mouse : R583 : R266 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1329
-Mouse : R720 : R685 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R720 : R685 : LeftButtonUp : 0 : 0 : 0
-DELAY : 48
-Mouse : R720 : R685 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R720 : R685 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1456
-Mouse : R501 : R617 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R501 : R616 : LeftButtonUp : 0 : 0 : 0
-DELAY : 47
-Mouse : R501 : R616 : LeftButtonDown : 0 : 0 : 0
-DELAY : 129
-Mouse : R501 : R616 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1144
-Mouse : R501 : R616 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R501 : R616 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1048
-Mouse : R592 : R503 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R592 : R503 : LeftButtonUp : 0 : 0 : 0
-DELAY : 5009
-Mouse : R966 : R47 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R964 : R49 : LeftButtonUp : 0 : 0 : 0
-DELAY : 47
-Mouse : R964 : R49 : LeftButtonDown : 0 : 0 : 0
-DELAY : 73
-Mouse : R964 : R49 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1887
-Mouse : R510 : R556 : LeftButtonDown : 0 : 0 : 0
-DELAY : 56
-Mouse : R510 : R556 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1641
-Mouse : R514 : R543 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R514 : R543 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2888
-Mouse : R775 : R494 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R775 : R494 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4552
-Mouse : R654 : R590 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R654 : R590 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R654 : R590 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R654 : R590 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1487
-Mouse : R322 : R300 : LeftButtonDown : 0 : 0 : 0
-DELAY : 57
-Mouse : R322 : R300 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R322 : R300 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R322 : R300 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1081
-Mouse : R796 : R518 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R796 : R518 : LeftButtonUp : 0 : 0 : 0
-DELAY : 71
-Mouse : R796 : R518 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R796 : R518 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2000
-Mouse : R165 : R601 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R165 : R601 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R165 : R601 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R165 : R601 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1568
-Mouse : R866 : R647 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R866 : R647 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R866 : R647 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R866 : R647 : LeftButtonUp : 0 : 0 : 0
-DELAY : 30445
-Mouse : R642 : R240 : LeftButtonDown : 0 : 0 : 0
-DELAY : 73
-Mouse : R642 : R240 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R642 : R240 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R642 : R241 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1881
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 71
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 73
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 73
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 65
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R639 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R639 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 888
-Mouse : R468 : R475 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R468 : R475 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R468 : R476 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R468 : R476 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1472
-Mouse : R956 : R603 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R956 : R603 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R956 : R603 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R956 : R603 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4760
-Mouse : R538 : R558 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R538 : R558 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3874
-Mouse : R768 : R392 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R768 : R392 : LeftButtonUp : 0 : 0 : 0
-DELAY : 5257
-Mouse : R668 : R608 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R668 : R608 : LeftButtonUp : 0 : 0 : 0
-DELAY : 55
-Mouse : R668 : R608 : LeftButtonDown : 0 : 0 : 0
-DELAY : 105
-Mouse : R668 : R608 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1016
-Mouse : R575 : R555 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R575 : R555 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R575 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R575 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R575 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R575 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 55
-Mouse : R575 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 73
-Mouse : R575 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 264
-Mouse : R575 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R575 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 56
-Mouse : R575 : R553 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R575 : R553 : LeftButtonUp : 0 : 0 : 0
-DELAY : 888
-Mouse : R746 : R278 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R746 : R278 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R746 : R278 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R746 : R278 : LeftButtonUp : 0 : 0 : 0
-DELAY : 848
-Mouse : R705 : R330 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R705 : R330 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R705 : R330 : LeftButtonDown : 0 : 0 : 0
-DELAY : 105
-Mouse : R705 : R330 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1072
-Mouse : R337 : R275 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R337 : R275 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R337 : R275 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R337 : R275 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1135
-Mouse : R889 : R643 : LeftButtonDown : 0 : 0 : 0
-DELAY : 73
-Mouse : R889 : R643 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R889 : R644 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R889 : R644 : LeftButtonUp : 0 : 0 : 0
-DELAY : 944
-Mouse : R571 : R536 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R570 : R537 : LeftButtonUp : 0 : 0 : 0
-DELAY : 65
-Mouse : R570 : R537 : LeftButtonDown : 0 : 0 : 0
-DELAY : 111
-Mouse : R570 : R537 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1064
-Mouse : R601 : R297 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R601 : R297 : LeftButtonUp : 0 : 0 : 0
-DELAY : 105
-Mouse : R601 : R297 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R601 : R297 : LeftButtonUp : 0 : 0 : 0
-DELAY : 920
-Mouse : R450 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R450 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R450 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R450 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1176
-Mouse : R903 : R632 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R903 : R632 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R903 : R632 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R903 : R632 : LeftButtonUp : 0 : 0 : 0
-DELAY : 768
-Mouse : R797 : R603 : LeftButtonDown : 0 : 0 : 0
-DELAY : 63
-Mouse : R797 : R603 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R797 : R603 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R797 : R603 : LeftButtonUp : 0 : 0 : 0
-DELAY : 6887
-Mouse : R762 : R413 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R762 : R413 : LeftButtonUp : 0 : 0 : 0
-DELAY : 65
-Mouse : R762 : R413 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R762 : R413 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1073
-Mouse : R657 : R452 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R657 : R452 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R657 : R452 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R657 : R452 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1376
-Mouse : R529 : R419 : LeftButtonDown : 0 : 0 : 0
-DELAY : 73
-Mouse : R529 : R420 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R529 : R420 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R529 : R420 : LeftButtonUp : 0 : 0 : 0
-DELAY : 71
-Mouse : R529 : R420 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R529 : R420 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1088
-Mouse : R706 : R272 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R706 : R272 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1616
-Mouse : R821 : R314 : LeftButtonDown : 0 : 0 : 0
-DELAY : 119
-Mouse : R821 : R314 : LeftButtonUp : 0 : 0 : 0
-DELAY : 97
-Mouse : R821 : R314 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R821 : R314 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1184
-Mouse : R328 : R256 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R328 : R256 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R328 : R256 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R328 : R256 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1176
-Mouse : R878 : R643 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R878 : R643 : LeftButtonUp : 0 : 0 : 0
-DELAY : 56
-Mouse : R878 : R643 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R878 : R643 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1647
-Mouse : R612 : R264 : LeftButtonDown : 0 : 0 : 0
-DELAY : 105
-Mouse : R612 : R263 : LeftButtonUp : 0 : 0 : 0
-DELAY : 48
-Mouse : R611 : R265 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R610 : R265 : LeftButtonUp : 0 : 0 : 0
-DELAY : 784
-Mouse : R610 : R266 : LeftButtonDown : 0 : 0 : 0
-DELAY : 56
-Mouse : R610 : R266 : LeftButtonUp : 0 : 0 : 0
-DELAY : 112
-Mouse : R610 : R266 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R610 : R266 : LeftButtonUp : 0 : 0 : 0
-DELAY : 609
-Mouse : R610 : R266 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R610 : R266 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R610 : R266 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R610 : R266 : LeftButtonUp : 0 : 0 : 0
-DELAY : 679
-Mouse : R416 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R416 : R259 : LeftButtonUp : 0 : 0 : 0
+Mouse : R983 : R140 : LeftButtonUp : 0 : 0 : 0
+DELAY : 8430
+Mouse : R669 : R591 : LeftButtonDown : 0 : 0 : 0
+DELAY : 640
+Mouse : R668 : R591 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1384
+Mouse : R571 : R523 : LeftButtonDown : 0 : 0 : 0
+DELAY : 544
+Mouse : R571 : R523 : LeftButtonUp : 0 : 0 : 0
+DELAY : 392
+Mouse : R571 : R523 : LeftButtonDown : 0 : 0 : 0
+DELAY : 553
+Mouse : R571 : R523 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1295
+Mouse : R364 : R444 : LeftButtonDown : 0 : 0 : 0
+DELAY : 1688
+Mouse : R364 : R445 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1312
+Mouse : R374 : R446 : LeftButtonDown : 0 : 0 : 0
 DELAY : 193
-Mouse : R416 : R259 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R416 : R259 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1424
-Mouse : R873 : R623 : LeftButtonDown : 0 : 0 : 0
-DELAY : 73
-Mouse : R873 : R623 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R873 : R623 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R873 : R623 : LeftButtonUp : 0 : 0 : 0
-DELAY : 848
-Mouse : R774 : R601 : LeftButtonDown : 0 : 0 : 0
-DELAY : 56
-Mouse : R774 : R601 : LeftButtonUp : 0 : 0 : 0
-DELAY : 113
-Mouse : R774 : R601 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R774 : R601 : LeftButtonUp : 0 : 0 : 0
-DELAY : 8703
-Mouse : R676 : R462 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R676 : R462 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R676 : R462 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R675 : R461 : LeftButtonUp : 0 : 0 : 0
-DELAY : 513
-Mouse : R675 : R461 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R675 : R461 : LeftButtonUp : 0 : 0 : 0
-DELAY : 97
-Mouse : R675 : R461 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R675 : R461 : LeftButtonUp : 0 : 0 : 0
-DELAY : 104
-Mouse : R675 : R461 : LeftButtonDown : 0 : 0 : 0
-DELAY : 121
-Mouse : R675 : R461 : LeftButtonUp : 0 : 0 : 0
-DELAY : 967
-Mouse : R635 : R480 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R635 : R480 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R635 : R480 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R635 : R480 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R635 : R480 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R635 : R480 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R635 : R480 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R635 : R480 : LeftButtonUp : 0 : 0 : 0
-DELAY : 336
-Mouse : R635 : R480 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R635 : R480 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R635 : R480 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R635 : R480 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R635 : R480 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R635 : R480 : LeftButtonUp : 0 : 0 : 0
+Mouse : R374 : R446 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1488
+Mouse : R457 : R476 : LeftButtonDown : 0 : 0 : 0
+DELAY : 200
+Mouse : R457 : R476 : LeftButtonUp : 0 : 0 : 0
+DELAY : 863
+Mouse : R457 : R476 : LeftButtonDown : 0 : 0 : 0
+DELAY : 176
+Mouse : R457 : R476 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1129
+Mouse : R681 : R445 : LeftButtonDown : 0 : 0 : 0
+DELAY : 184
+Mouse : R681 : R445 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1248
+Mouse : R575 : R443 : LeftButtonDown : 0 : 0 : 0
+DELAY : 175
+Mouse : R575 : R443 : LeftButtonUp : 0 : 0 : 0
 DELAY : 720
-Mouse : R547 : R549 : LeftButtonDown : 0 : 0 : 0
-DELAY : 103
-Mouse : R547 : R549 : LeftButtonUp : 0 : 0 : 0
-DELAY : 776
-Mouse : R547 : R549 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R547 : R549 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2273
-Mouse : R633 : R302 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R633 : R302 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R633 : R302 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R633 : R302 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1872
-Mouse : R767 : R418 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R767 : R417 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1063
-Mouse : R766 : R418 : LeftButtonDown : 0 : 0 : 0
-DELAY : 56
-Mouse : R766 : R418 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3113
-Mouse : R679 : R592 : LeftButtonDown : 0 : 0 : 0
-DELAY : 71
-Mouse : R679 : R592 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R679 : R592 : LeftButtonDown : 0 : 0 : 0
-DELAY : 113
-Mouse : R679 : R592 : LeftButtonUp : 0 : 0 : 0
-DELAY : 735
-Mouse : R682 : R585 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R682 : R585 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R682 : R585 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R682 : R585 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R682 : R585 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R682 : R585 : LeftButtonUp : 0 : 0 : 0
-DELAY : 880
-Mouse : R423 : R329 : LeftButtonDown : 0 : 0 : 0
-DELAY : 121
-Mouse : R421 : R327 : LeftButtonUp : 0 : 0 : 0
-DELAY : 47
-Mouse : R421 : R327 : LeftButtonDown : 0 : 0 : 0
-DELAY : 145
-Mouse : R421 : R327 : LeftButtonUp : 0 : 0 : 0
-DELAY : 952
-Mouse : R518 : R561 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R518 : R562 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R518 : R562 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R518 : R562 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1833
-Mouse : R513 : R514 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R513 : R514 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R513 : R514 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R513 : R514 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R513 : R514 : LeftButtonDown : 0 : 0 : 0
-DELAY : 47
-Mouse : R513 : R514 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1361
-Mouse : R519 : R492 : LeftButtonDown : 0 : 0 : 0
-DELAY : 55
-Mouse : R519 : R492 : LeftButtonUp : 0 : 0 : 0
-DELAY : 113
-Mouse : R519 : R492 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R519 : R492 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R519 : R492 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R519 : R492 : LeftButtonUp : 0 : 0 : 0
-DELAY : 624
-Mouse : R526 : R556 : LeftButtonDown : 0 : 0 : 0
-DELAY : 82
-Mouse : R526 : R556 : LeftButtonUp : 0 : 0 : 0
-DELAY : 78
-Mouse : R526 : R556 : LeftButtonDown : 0 : 0 : 0
-DELAY : 82
-Mouse : R526 : R556 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2270
-Mouse : R652 : R302 : LeftButtonDown : 0 : 0 : 0
-DELAY : 65
-Mouse : R652 : R302 : LeftButtonUp : 0 : 0 : 0
-DELAY : 103
-Mouse : R652 : R302 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R652 : R302 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3815
-Mouse : R765 : R486 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R765 : R486 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4474
-Mouse : R659 : R585 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R659 : R586 : LeftButtonUp : 0 : 0 : 0
-DELAY : 71
-Mouse : R659 : R586 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R659 : R586 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1287
-Mouse : R604 : R493 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R604 : R492 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R604 : R492 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R604 : R492 : LeftButtonUp : 0 : 0 : 0
-DELAY : 73
-Mouse : R604 : R492 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R604 : R492 : LeftButtonUp : 0 : 0 : 0
-DELAY : 648
-Mouse : R575 : R279 : LeftButtonDown : 0 : 0 : 0
-DELAY : 128
-Mouse : R575 : R279 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R574 : R279 : LeftButtonDown : 0 : 0 : 0
-DELAY : 113
-Mouse : R574 : R279 : LeftButtonUp : 0 : 0 : 0
-DELAY : 743
-Mouse : R603 : R456 : LeftButtonDown : 0 : 0 : 0
-DELAY : 56
-Mouse : R603 : R456 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R604 : R457 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R604 : R457 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R604 : R457 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R604 : R457 : LeftButtonUp : 0 : 0 : 0
-DELAY : 536
-Mouse : R654 : R570 : LeftButtonDown : 0 : 0 : 0
-DELAY : 56
-Mouse : R654 : R570 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R654 : R570 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R654 : R570 : LeftButtonUp : 0 : 0 : 0
-DELAY : 113
-Mouse : R654 : R570 : LeftButtonDown : 0 : 0 : 0
-DELAY : 40
-Mouse : R654 : R570 : LeftButtonUp : 0 : 0 : 0
-DELAY : 871
-Mouse : R542 : R274 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R541 : R274 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R541 : R274 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R541 : R274 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1592
-Mouse : R796 : R513 : LeftButtonDown : 0 : 0 : 0
-DELAY : 63
-Mouse : R796 : R514 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R796 : R514 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R796 : R514 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1705
-Mouse : R859 : R651 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R859 : R651 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R859 : R651 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R859 : R651 : LeftButtonUp : 0 : 0 : 0
-DELAY : 41024
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 104
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 71
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 97
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 105
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 63
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 224
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 111
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 73
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 71
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 105
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 63
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 89
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 111
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 128
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 56
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 63
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 71
-Mouse : R621 : R491 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R621 : R491 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1536
-Mouse : R954 : R617 : LeftButtonDown : 0 : 0 : 0
-DELAY : 65
-Mouse : R954 : R617 : LeftButtonUp : 0 : 0 : 0
-DELAY : 87
-Mouse : R954 : R617 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R954 : R617 : LeftButtonUp : 0 : 0 : 0
-DELAY : 6528
-Mouse : R518 : R554 : LeftButtonDown : 0 : 0 : 0
-DELAY : 65
-Mouse : R518 : R554 : LeftButtonUp : 0 : 0 : 0
-DELAY : 95
-Mouse : R518 : R554 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R518 : R554 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1472
-Mouse : R688 : R304 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R688 : R304 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R688 : R304 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R688 : R304 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3896
-Mouse : R776 : R549 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R776 : R549 : LeftButtonUp : 0 : 0 : 0
-DELAY : 735
-Mouse : R776 : R549 : LeftButtonDown : 0 : 0 : 0
-DELAY : 73
-Mouse : R776 : R549 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2983
-Mouse : R683 : R604 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R683 : R603 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R683 : R603 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R682 : R603 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4032
-Mouse : R979 : R63 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R979 : R63 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R979 : R63 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R979 : R63 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1128
-Mouse : R597 : R470 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R597 : R470 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R597 : R470 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R597 : R471 : LeftButtonUp : 0 : 0 : 0
-DELAY : 5951
-Mouse : R572 : R451 : LeftButtonDown : 0 : 0 : 0
-DELAY : 57
-Mouse : R572 : R451 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R572 : R451 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R572 : R451 : LeftButtonUp : 0 : 0 : 0
-DELAY : 482
-Mouse : R572 : R451 : LeftButtonDown : 0 : 0 : 0
-DELAY : 62
-Mouse : R572 : R451 : LeftButtonUp : 0 : 0 : 0
-DELAY : 168
-Mouse : R572 : R451 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R572 : R451 : LeftButtonUp : 0 : 0 : 0
-DELAY : 528
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 878
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1145
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 71
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 97
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 98
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 94
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 71
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 105
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1407
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 90
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 82
-Mouse : R540 : R325 : LeftButtonDown : 0 : 0 : 0
-DELAY : 119
-Mouse : R540 : R325 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2248
-Mouse : R742 : R302 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R742 : R302 : LeftButtonUp : 0 : 0 : 0
-DELAY : 73
-Mouse : R742 : R302 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R742 : R302 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1825
-Mouse : R849 : R591 : LeftButtonDown : 0 : 0 : 0
-DELAY : 111
-Mouse : R849 : R591 : LeftButtonUp : 0 : 0 : 0
-DELAY : 48
-Mouse : R849 : R591 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R849 : R591 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1176
-Mouse : R851 : R587 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R851 : R587 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R852 : R587 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R852 : R586 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R852 : R586 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R852 : R586 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R852 : R586 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R852 : R586 : LeftButtonUp : 0 : 0 : 0
-DELAY : 945
-Mouse : R833 : R662 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R833 : R662 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3063
-Mouse : R961 : R69 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R961 : R69 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R961 : R69 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R961 : R69 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2784
-Mouse : R711 : R475 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R711 : R475 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R711 : R475 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R711 : R475 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R711 : R475 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R711 : R475 : LeftButtonUp : 0 : 0 : 0
-DELAY : 73
-Mouse : R711 : R475 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R711 : R475 : LeftButtonUp : 0 : 0 : 0
-DELAY : 385
-Mouse : R711 : R475 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R711 : R475 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R711 : R475 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R711 : R475 : LeftButtonUp : 0 : 0 : 0
-DELAY : 752
-Mouse : R780 : R627 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R780 : R627 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R780 : R627 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R780 : R627 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1120
-Mouse : R638 : R512 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R638 : R512 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R638 : R512 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R638 : R512 : LeftButtonUp : 0 : 0 : 0
-DELAY : 10575
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 113
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 56
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 120
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 136
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 753
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 111
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 81
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 97
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 104
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 79
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 96
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 56
-Mouse : R716 : R429 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R716 : R429 : LeftButtonUp : 0 : 0 : 0
-DELAY : 944
-Mouse : R573 : R595 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R573 : R595 : LeftButtonUp : 0 : 0 : 0
-DELAY : 81
-Mouse : R573 : R595 : LeftButtonDown : 0 : 0 : 0
-DELAY : 79
-Mouse : R573 : R595 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4521
-Mouse : R654 : R498 : LeftButtonDown : 0 : 0 : 0
-DELAY : 71
-Mouse : R654 : R498 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R654 : R498 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R654 : R498 : LeftButtonUp : 0 : 0 : 0
-DELAY : 888
-Mouse : R550 : R562 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R550 : R562 : LeftButtonUp : 0 : 0 : 0
-DELAY : 95
-Mouse : R550 : R562 : LeftButtonDown : 0 : 0 : 0
-DELAY : 89
-Mouse : R550 : R562 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4992
-Mouse : R651 : R597 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R651 : R597 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R651 : R597 : LeftButtonDown : 0 : 0 : 0
-DELAY : 96
-Mouse : R651 : R597 : LeftButtonUp : 0 : 0 : 0
+Mouse : R575 : R443 : LeftButtonDown : 0 : 0 : 0
+DELAY : 184
+Mouse : R575 : R443 : LeftButtonUp : 0 : 0 : 0
 DELAY : 1376
-Mouse : R542 : R472 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R542 : R472 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R542 : R472 : LeftButtonDown : 0 : 0 : 0
+Mouse : R152 : R243 : LeftButtonDown : 0 : 0 : 0
+DELAY : 144
+Mouse : R152 : R243 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1352
+Mouse : R118 : R212 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R118 : R212 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1505
+Mouse : R840 : R643 : LeftButtonDown : 0 : 0 : 0
+DELAY : 264
+Mouse : R840 : R643 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1391
+Mouse : R516 : R490 : LeftButtonDown : 0 : 0 : 0
+DELAY : 296
+Mouse : R515 : R490 : LeftButtonUp : 0 : 0 : 0
+DELAY : 600
+Mouse : R515 : R490 : LeftButtonDown : 0 : 0 : 0
+DELAY : 304
+Mouse : R515 : R490 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2000
+Mouse : R34 : R64 : LeftButtonDown : 0 : 0 : 0
+DELAY : 160
+Mouse : R34 : R64 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2488
+Mouse : R829 : R420 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R829 : R420 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1617
+Mouse : R729 : R472 : LeftButtonDown : 0 : 0 : 0
+DELAY : 160
+Mouse : R728 : R469 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1520
+Mouse : R885 : R468 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R885 : R468 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1520
+Mouse : R428 : R589 : LeftButtonDown : 0 : 0 : 0
+DELAY : 232
+Mouse : R427 : R587 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1664
+Mouse : R673 : R472 : LeftButtonDown : 0 : 0 : 0
+DELAY : 176
+Mouse : R673 : R472 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1233
+Mouse : R693 : R565 : LeftButtonDown : 0 : 0 : 0
+DELAY : 111
+Mouse : R693 : R565 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1256
+Mouse : R625 : R506 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R624 : R506 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3384
+Mouse : R516 : R562 : LeftButtonDown : 0 : 0 : 0
+DELAY : 144
+Mouse : R516 : R562 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1224
+Mouse : R516 : R535 : LeftButtonDown : 0 : 0 : 0
+DELAY : 144
+Mouse : R516 : R535 : LeftButtonUp : 0 : 0 : 0
+DELAY : 793
+Mouse : R516 : R535 : LeftButtonDown : 0 : 0 : 0
+DELAY : 119
+Mouse : R516 : R536 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1504
+Mouse : R521 : R585 : LeftButtonDown : 0 : 0 : 0
+DELAY : 105
+Mouse : R521 : R585 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1616
+Mouse : R521 : R562 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : R521 : R560 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3376
+Mouse : R672 : R295 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R672 : R295 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1649
+Mouse : R537 : R483 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R537 : R483 : LeftButtonUp : 0 : 0 : 0
+DELAY : 4879
+Mouse : R771 : R322 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R771 : R322 : LeftButtonUp : 0 : 0 : 0
+DELAY : 10016
+Mouse : R214 : R629 : LeftButtonDown : 0 : 0 : 0
+DELAY : 113
+Mouse : R214 : R629 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1751
+Mouse : R564 : R265 : LeftButtonDown : 0 : 0 : 0
+DELAY : 289
+Mouse : R564 : R265 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1351
+Mouse : R697 : R688 : LeftButtonDown : 0 : 0 : 0
+DELAY : 352
+Mouse : R697 : R688 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1263
+Mouse : R468 : R616 : LeftButtonDown : 0 : 0 : 0
+DELAY : 458
+Mouse : R468 : R616 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1631
+Mouse : R603 : R501 : LeftButtonDown : 0 : 0 : 0
+DELAY : 352
+Mouse : R603 : R501 : LeftButtonUp : 0 : 0 : 0
+DELAY : 7360
+Mouse : R968 : R55 : LeftButtonDown : 0 : 0 : 0
+DELAY : 328
+Mouse : R968 : R55 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2472
+Mouse : R523 : R569 : LeftButtonDown : 0 : 0 : 0
+DELAY : 336
+Mouse : R523 : R569 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2312
+Mouse : R681 : R298 : LeftButtonDown : 0 : 0 : 0
+DELAY : 368
+Mouse : R681 : R298 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3640
+Mouse : R769 : R502 : LeftButtonDown : 0 : 0 : 0
+DELAY : 168
+Mouse : R769 : R502 : LeftButtonUp : 0 : 0 : 0
+DELAY : 8352
+Mouse : R646 : R595 : LeftButtonDown : 0 : 0 : 0
+DELAY : 201
+Mouse : R646 : R595 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1960
+Mouse : R329 : R299 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R329 : R299 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1631
+Mouse : R820 : R514 : LeftButtonDown : 0 : 0 : 0
+DELAY : 289
+Mouse : R820 : R514 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1655
+Mouse : R164 : R606 : LeftButtonDown : 0 : 0 : 0
+DELAY : 153
+Mouse : R164 : R606 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1480
+Mouse : R884 : R643 : LeftButtonDown : 0 : 0 : 0
+DELAY : 113
+Mouse : R884 : R643 : LeftButtonUp : 0 : 0 : 0
+DELAY : 35042
+Mouse : R692 : R273 : LeftButtonDown : 0 : 0 : 0
+DELAY : 176
+Mouse : R692 : R273 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3480
+Mouse : R692 : R273 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R692 : R273 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2624
+Mouse : R692 : R273 : LeftButtonDown : 0 : 0 : 0
+DELAY : 151
+Mouse : R692 : R273 : LeftButtonUp : 0 : 0 : 0
+DELAY : 4570
+Mouse : R451 : R485 : LeftButtonDown : 0 : 0 : 0
+DELAY : 129
+Mouse : R451 : R485 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2375
+Mouse : R945 : R597 : LeftButtonDown : 0 : 0 : 0
 DELAY : 112
-Mouse : R542 : R472 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2568
-Mouse : R92 : R59 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R92 : R59 : LeftButtonUp : 0 : 0 : 0
+Mouse : R945 : R597 : LeftButtonUp : 0 : 0 : 0
+DELAY : 9408
+Mouse : R537 : R562 : LeftButtonDown : 0 : 0 : 0
+DELAY : 128
+Mouse : R537 : R562 : LeftButtonUp : 0 : 0 : 0
+DELAY : 4656
+Mouse : R776 : R397 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R776 : R397 : LeftButtonUp : 0 : 0 : 0
+DELAY : 10352
+Mouse : R658 : R601 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R658 : R601 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1328
+Mouse : R577 : R485 : LeftButtonDown : 0 : 0 : 0
+DELAY : 248
+Mouse : R577 : R485 : LeftButtonUp : 0 : 0 : 0
+DELAY : 896
+Mouse : R577 : R485 : LeftButtonDown : 0 : 0 : 0
+DELAY : 200
+Mouse : R577 : R485 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1616
+Mouse : R736 : R264 : LeftButtonDown : 0 : 0 : 0
+DELAY : 137
+Mouse : R736 : R264 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1279
+Mouse : R691 : R332 : LeftButtonDown : 0 : 0 : 0
+DELAY : 152
+Mouse : R691 : R332 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1288
+Mouse : R324 : R261 : LeftButtonDown : 0 : 0 : 0
+DELAY : 392
+Mouse : R324 : R261 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1337
+Mouse : R912 : R652 : LeftButtonDown : 0 : 0 : 0
+DELAY : 431
+Mouse : R912 : R652 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1184
+Mouse : R533 : R507 : LeftButtonDown : 0 : 0 : 0
+DELAY : 432
+Mouse : R533 : R507 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1624
+Mouse : R601 : R286 : LeftButtonDown : 0 : 0 : 0
+DELAY : 232
+Mouse : R601 : R286 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1416
+Mouse : R421 : R261 : LeftButtonDown : 0 : 0 : 0
+DELAY : 320
+Mouse : R421 : R261 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1392
+Mouse : R913 : R629 : LeftButtonDown : 0 : 0 : 0
+DELAY : 280
+Mouse : R913 : R629 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1224
+Mouse : R768 : R599 : LeftButtonDown : 0 : 0 : 0
+DELAY : 409
+Mouse : R768 : R599 : LeftButtonUp : 0 : 0 : 0
+DELAY : 8095
+Mouse : R609 : R541 : LeftButtonDown : 0 : 0 : 0
+DELAY : 215
+Mouse : R609 : R541 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1857
+Mouse : R609 : R541 : LeftButtonDown : 0 : 0 : 0
+DELAY : 295
+Mouse : R609 : R541 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1881
+Mouse : R762 : R264 : LeftButtonDown : 0 : 0 : 0
+DELAY : 168
+Mouse : R762 : R264 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1280
+Mouse : R839 : R317 : LeftButtonDown : 0 : 0 : 0
+DELAY : 232
+Mouse : R839 : R317 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1432
+Mouse : R344 : R263 : LeftButtonDown : 0 : 0 : 0
+DELAY : 208
+Mouse : R344 : R264 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1448
+Mouse : R904 : R653 : LeftButtonDown : 0 : 0 : 0
+DELAY : 305
+Mouse : R904 : R653 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1951
+Mouse : R616 : R265 : LeftButtonDown : 0 : 0 : 0
+DELAY : 201
+Mouse : R616 : R265 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2151
+Mouse : R613 : R267 : LeftButtonDown : 0 : 0 : 0
+DELAY : 216
+Mouse : R613 : R267 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1480
+Mouse : R613 : R267 : LeftButtonDown : 0 : 0 : 0
+DELAY : 240
+Mouse : R613 : R267 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1753
+Mouse : R613 : R267 : LeftButtonDown : 0 : 0 : 0
+DELAY : 295
+Mouse : R613 : R267 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1784
+Mouse : R444 : R272 : LeftButtonDown : 0 : 0 : 0
+DELAY : 153
+Mouse : R444 : R272 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1687
+Mouse : R898 : R628 : LeftButtonDown : 0 : 0 : 0
+DELAY : 168
+Mouse : R898 : R628 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1777
+Mouse : R763 : R603 : LeftButtonDown : 0 : 0 : 0
+DELAY : 142
+Mouse : R763 : R603 : LeftButtonUp : 0 : 0 : 0
+DELAY : 8722
+Mouse : R527 : R590 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R527 : R590 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3800
+Mouse : R526 : R493 : LeftButtonDown : 0 : 0 : 0
+DELAY : 144
+Mouse : R526 : R493 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2848
+Mouse : R525 : R556 : LeftButtonDown : 0 : 0 : 0
+DELAY : 88
+Mouse : R525 : R556 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3888
+Mouse : R675 : R277 : LeftButtonDown : 0 : 0 : 0
+DELAY : 103
+Mouse : R675 : R277 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3049
+Mouse : R774 : R410 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : R774 : R410 : LeftButtonUp : 0 : 0 : 0
+DELAY : 8513
+Mouse : R653 : R589 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R653 : R589 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2200
+Mouse : R679 : R449 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R679 : R449 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1232
+Mouse : R436 : R311 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R436 : R311 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1983
+Mouse : R531 : R572 : LeftButtonDown : 0 : 0 : 0
+DELAY : 129
+Mouse : R531 : R572 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3120
+Mouse : R679 : R466 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R679 : R466 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1096
+Mouse : R679 : R466 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R679 : R466 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3040
+Mouse : R532 : R556 : LeftButtonDown : 0 : 0 : 0
 DELAY : 96
-Mouse : R92 : R59 : LeftButtonDown : 0 : 0 : 0
+Mouse : R532 : R556 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2896
+Mouse : R711 : R298 : LeftButtonDown : 0 : 0 : 0
+DELAY : 128
+Mouse : R711 : R298 : LeftButtonUp : 0 : 0 : 0
+DELAY : 5432
+Mouse : R770 : R465 : LeftButtonDown : 0 : 0 : 0
+DELAY : 143
+Mouse : R770 : R465 : LeftButtonUp : 0 : 0 : 0
+DELAY : 6401
+Mouse : R648 : R593 : LeftButtonDown : 0 : 0 : 0
+DELAY : 144
+Mouse : R648 : R593 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1952
+Mouse : R562 : R501 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R562 : R501 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1648
+Mouse : R557 : R235 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R557 : R235 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1984
+Mouse : R574 : R440 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R574 : R440 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1560
+Mouse : R682 : R583 : LeftButtonDown : 0 : 0 : 0
+DELAY : 152
+Mouse : R682 : R583 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1272
+Mouse : R575 : R266 : LeftButtonDown : 0 : 0 : 0
 DELAY : 96
-Mouse : R92 : R59 : LeftButtonUp : 0 : 0 : 0
-DELAY : 11384
-Mouse : R448 : R692 : LeftButtonDown : 0 : 0 : 0
-DELAY : 72
-Mouse : R448 : R691 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R448 : R691 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R448 : R691 : LeftButtonUp : 0 : 0 : 0
-DELAY : 9728
-Mouse : R448 : R691 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R448 : R691 : LeftButtonUp : 0 : 0 : 0
-DELAY : 88
-Mouse : R448 : R691 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R448 : R691 : LeftButtonUp : 0 : 0 : 0
-DELAY : 9817
-Mouse : R449 : R690 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R449 : R690 : LeftButtonUp : 0 : 0 : 0
-DELAY : 80
-Mouse : R449 : R690 : LeftButtonDown : 0 : 0 : 0
-DELAY : 88
-Mouse : R449 : R690 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4504
-Mouse : R487 : R552 : LeftButtonDown : 0 : 0 : 0
-DELAY : 80
-Mouse : R487 : R552 : LeftButtonUp : 0 : 0 : 0
-DELAY : 72
-Mouse : R488 : R552 : LeftButtonDown : 0 : 0 : 0
+Mouse : R575 : R266 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1432
+Mouse : R820 : R529 : LeftButtonDown : 0 : 0 : 0
+DELAY : 248
+Mouse : R820 : R529 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2969
+Mouse : R869 : R647 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R869 : R647 : LeftButtonUp : 0 : 0 : 0
+DELAY : 43785
+Mouse : R678 : R286 : LeftButtonDown : 0 : 0 : 0
+DELAY : 135
+Mouse : R678 : R286 : LeftButtonUp : 0 : 0 : 0
+DELAY : 4578
+Mouse : R949 : R616 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R949 : R616 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3880
+Mouse : R528 : R556 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R528 : R556 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2768
+Mouse : R703 : R244 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R703 : R244 : LeftButtonUp : 0 : 0 : 0
+DELAY : 4688
+Mouse : R777 : R543 : LeftButtonDown : 0 : 0 : 0
+DELAY : 113
+Mouse : R777 : R543 : LeftButtonUp : 0 : 0 : 0
+DELAY : 6759
+Mouse : R678 : R592 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R678 : R592 : LeftButtonUp : 0 : 0 : 0
+DELAY : 8520
+Mouse : R966 : R61 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R966 : R61 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1384
+Mouse : R592 : R479 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R592 : R479 : LeftButtonUp : 0 : 0 : 0
+DELAY : 4496
+Mouse : R508 : R483 : LeftButtonDown : 0 : 0 : 0
+DELAY : 128
+Mouse : R508 : R483 : LeftButtonUp : 0 : 0 : 0
+DELAY : 5135
+Mouse : R511 : R510 : LeftButtonDown : 0 : 0 : 0
+DELAY : 145
+Mouse : R511 : R510 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2720
+Mouse : R525 : R308 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R525 : R308 : LeftButtonUp : 0 : 0 : 0
+DELAY : 4752
+Mouse : R604 : R377 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R604 : R377 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1848
+Mouse : R741 : R317 : LeftButtonDown : 0 : 0 : 0
+DELAY : 120
+Mouse : R741 : R317 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2463
+Mouse : R854 : R594 : LeftButtonDown : 0 : 0 : 0
 DELAY : 97
-Mouse : R488 : R552 : LeftButtonUp : 0 : 0 : 0
+Mouse : R854 : R594 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3056
+Mouse : R708 : R444 : LeftButtonDown : 0 : 0 : 0
+DELAY : 103
+Mouse : R708 : R444 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1761
+Mouse : R819 : R655 : LeftButtonDown : 0 : 0 : 0
+DELAY : 111
+Mouse : R819 : R655 : LeftButtonUp : 0 : 0 : 0
+DELAY : 10457
+Mouse : R609 : R472 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R609 : R472 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1096
+Mouse : R609 : R472 : LeftButtonDown : 0 : 0 : 0
+DELAY : 136
+Mouse : R609 : R472 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2432
+Mouse : R804 : R618 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R804 : R618 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1168
+Mouse : R630 : R510 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R630 : R510 : LeftButtonUp : 0 : 0 : 0
+DELAY : 18528
+Mouse : R721 : R441 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R721 : R441 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1041
+Mouse : R722 : R441 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R722 : R441 : LeftButtonUp : 0 : 0 : 0
+DELAY : 927
+Mouse : R722 : R441 : LeftButtonDown : 0 : 0 : 0
+DELAY : 97
+Mouse : R722 : R441 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1872
+Mouse : R759 : R339 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R759 : R339 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2136
+Mouse : R571 : R599 : LeftButtonDown : 0 : 0 : 0
+DELAY : 103
+Mouse : R571 : R599 : LeftButtonUp : 0 : 0 : 0
+DELAY : 3880
+Mouse : R528 : R564 : LeftButtonDown : 0 : 0 : 0
+DELAY : 89
+Mouse : R528 : R564 : LeftButtonUp : 0 : 0 : 0
+DELAY : 5472
+Mouse : R643 : R598 : LeftButtonDown : 0 : 0 : 0
+DELAY : 112
+Mouse : R643 : R598 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2232
+Mouse : R93 : R66 : LeftButtonDown : 0 : 0 : 0
+DELAY : 88
+Mouse : R93 : R66 : LeftButtonUp : 0 : 0 : 0
+DELAY : 12903
+Mouse : R450 : R690 : LeftButtonDown : 0 : 0 : 0
+DELAY : 105
+Mouse : R450 : R690 : LeftButtonUp : 0 : 0 : 0
+DELAY : 7583
+Mouse : R452 : R696 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R452 : R696 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1104
+Mouse : R452 : R696 : LeftButtonDown : 0 : 0 : 0
+DELAY : 129
+Mouse : R452 : R696 : LeftButtonUp : 0 : 0 : 0
+DELAY : 11312
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1224
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 127
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 569
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 105
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 88
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 79
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 88
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 81
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 808
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 112
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 103
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 89
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 88
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 90
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 87
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 88
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 88
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 87
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 80
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 97
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 88
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 87
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 88
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 89
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 79
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 73
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 80
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 103
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 121
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 48
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 64
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 73
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 73
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 71
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 89
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 73
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 119
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 145
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 95
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 105
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 73
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 103
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 73
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 79
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 80
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 72
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 113
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 62
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 65
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 87
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 106
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+DELAY : 55
+Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
+DELAY : 87
+Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
