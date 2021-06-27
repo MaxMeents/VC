@@ -4973,6 +4973,11 @@ click up
 Return
 innerarena:
 gosub, PlayerLevelUp
+ImageSearch, OutputVarX, OutputVarY, 205-90, 523-90, 257+90, 552+90, *95 C:\VC\Pictures\2021-06-27 15_59_31-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+settimer, arenainner, off 
+settimer, arena, 100
+}
 ImageSearch, OutputVarX, OutputVarY, 140-90, 582-90, 200+90, 606+90, *95 C:\VC\Pictures\2021-06-27 15_43_03-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
