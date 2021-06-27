@@ -4849,6 +4849,7 @@ ToolTip, %message%, 700,20
 ^6::
 arenatimer:
 gui, destroy
+gosub, ActivateVC
 settimer, arena, 500
 Return
 run, cmd.exe /c C:\Capture2Text\Capture2Text_CLI.exe --scale-factor "5" --screen-rect "382 501 471 519"  --clipboard,, hide
