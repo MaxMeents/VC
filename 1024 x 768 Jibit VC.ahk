@@ -4841,6 +4841,166 @@ sleep, 500
 }
 }
 }
+
 tt(message){
 ToolTip, %message%, 700,20
 }
+^6::
+arenatimer:
+settimer, arena, 500
+Return
+run, cmd.exe /c C:\Capture2Text\Capture2Text_CLI.exe --scale-factor "5" --screen-rect "382 501 471 519"  --clipboard,, hide
+Return
+arena:
+ImageSearch, OutputVarX, OutputVarY, 569-90, 480-90, 627+90, 518+90, *95 C:\VC\Pictures\2021-06-27 15_39_13-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 598,499
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 207-150, 522-150, 263+150, 556+150, *95 C:\VC\Pictures\2021-06-27 15_36_56-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 235,539
+click down
+sleep, 20
+click up
+}
+}else{
+ImageSearch, OutputVarX, OutputVarY, 195-90, 185-90, 264+90, 202+90, *95 C:\VC\Pictures\2021-06-27 15_40_58-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+clipboard :=
+mousemove, 380,497
+click down
+sleep, 60
+click up
+send, !o
+sleep, 1000
+mousemove, 467,518
+click down
+sleep, 60
+click up
+clipwait, 2
+if(clipboard < 10000 && clipboard > 1000){
+mousemove, 417,559
+click down
+sleep, 60
+click up
+mousemove, 417,559
+click down
+sleep, 60
+click up
+mousemove, 417,559
+click down
+sleep, 60
+click up
+settimer, arena, off 
+settimer, innerarena, 100
+goto, innerarena
+}
+clipboard :=
+mousemove, 587,496
+click down
+sleep, 60
+click up
+send, !o
+sleep, 1000
+mousemove, 671,517
+click down
+sleep, 60
+click up
+clipwait, 2
+if(clipboard < 10000 && clipboard > 1000){
+mousemove, 598,554
+click down
+sleep, 60
+click up
+mousemove, 598,554
+click down
+sleep, 60
+click up
+mousemove, 598,554
+click down
+sleep, 60
+click up
+settimer, arena, off 
+settimer, innerarena, 100
+goto, innerarena
+}
+clipboard :=
+mousemove, 791,497
+click down
+sleep, 60
+click up
+send, !o
+sleep, 1000
+mousemove, 877,518
+click down
+sleep, 60
+click up
+clipwait, 2
+if(clipboard < 10000 && clipboard > 1000){
+mousemove, 807,555
+click down
+sleep, 60
+click up
+mousemove, 807,555
+click down
+sleep, 60
+click up
+mousemove, 807,555
+click down
+sleep, 60
+click up
+settimer, arena, off 
+settimer, innerarena, 100
+goto, innerarena
+}else{
+mousemove, 198,443
+click down
+sleep, 60
+click up
+}
+}
+}
+Return
+innerarena:
+gosub, PlayerLevelUp
+ImageSearch, OutputVarX, OutputVarY, 140-90, 582-90, 200+90, 606+90, *95 C:\VC\Pictures\2021-06-27 15_43_03-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 170,594
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 847-90, 622-90, 894+90, 661+90, *95 C:\VC\Pictures\2021-06-27 15_43_09-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 871,642
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 910-90, 566-90, 956+90, 618+90, *95 C:\VC\Pictures\2021-06-27 15_35_38-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 933,592
+click down
+sleep, 20
+click up
+}
+settimer, innerarena, off
+settimer, arena, 100
+}
+Return
