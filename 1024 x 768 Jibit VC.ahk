@@ -12,6 +12,8 @@ IfWinNotExist, Cheat Engine 7.2
 	sleep, 2000
 	WinMaximize, Cheat Engine 7.2
 }
+
+global runningregister := 1
 global ConnectNum := 24
 global stillon := 0
 global accountNum := 10001
@@ -52,7 +54,7 @@ global plusY :=
 global stuck := 0
 global stuckblack := 0
 settimer, RestartCommon2, 1000
-
+settimer, CheckClipboard, 200
 ^w::pause
 ^Right::    send,{end}
 ^Left::     send,{Home}
@@ -62,7 +64,7 @@ settimer, RestartCommon2, 1000
 ^+Left::    send,+{home}
 ^+down::    send,^+{end}
 ^+up::      send,^+{home}
-settimer, CheckClipboard, 200
+
 RestartCommon2:
 ImageSearch, OutputVarXX, OutputVarYY, 352-90, 329-90, 670+90, 384+90, *55 %a_scriptdir%\Pictures\2021-06-26 05_15_29-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
@@ -121,11 +123,26 @@ if(clipboard == "RerollPart1Done"){
 clipboard :=
 settimer, CheckClipboard, off 
 run, %a_scriptdir%\After Startup 6-25-2021.exe
-}
+}6mas9lzotx@baloonmail.com
 if(clipboard == "EnableUntilSoul"){
 clipboard := "UntilSoul"
 settimer, CheckClipboard, off
 gosub, ConnectHostUntilSoulTimer
+}
+if(runningregister == 0 && InStr(clipboard, "baloonmail.com")){	
+runningregister := 0	
+Email := clipboard 
+clipboard := "saved email done"
+FileAppend, %Email%, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Email.txt    		
+run, %a_scriptdir%\GetRecovery.exe   		
+}
+StringLen, L, clipboard
+if(runningregister == 0 && L == 11){
+runningregister := 1	
+Recovery := "`n" . clipboard	
+clipboard := "done with recovery"
+FileAppend, %Recovery%, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Email.txt    		
+run, %a_scriptdir%\FinishRegister.exe
 }
 Return
 IncreaseAccountNum:
@@ -1254,6 +1271,7 @@ Gui, Font, c4287f5
 gui, add, text,gActivateVCOption, ActivateVC
 gui, add, text,gTakeScreenshot, Take Screenshot
 gui, add, text,garenatimer, Arena
+gui, add, text,gRegisterNew, Register
 gui, add, text,gConnectAllTimer, Connect All 
 gui, add, text,gConnectAllTimerSelectNum, Connect All Set Num
 gui, add, text,gCR1024, 1024 x 768 
@@ -5011,4 +5029,13 @@ click up
 settimer, innerarena, off
 settimer, arena, 100
 }
+Return
+RegisterNew:
+gui, destroy 
+gosub, ActivateVC
+sleep, 300
+clipboard := "Notblank"
+runningregister := 0
+run, %a_scriptdir%\RegsiterPart1.exe
+settimer, CheckClipboard, 300
 Return
