@@ -136,7 +136,7 @@ DELAY : 256
 Keyboard : Enter : KeyDown
 DELAY : 112
 Keyboard : Enter : KeyUp
-DELAY : 39220
+DELAY : 55001
 Mouse : R626 : R309 : Wheel : -1 : 0 : 0
 DELAY : 1360
 Mouse : R626 : R309 : Wheel : -1 : 0 : 0
