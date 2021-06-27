@@ -1253,6 +1253,7 @@ Gui, Font, s15
 Gui, Font, c4287f5
 gui, add, text,gActivateVCOption, ActivateVC
 gui, add, text,gTakeScreenshot, Take Screenshot
+gui, add, text,garenatimer, Arena
 gui, add, text,gConnectAllTimer, Connect All 
 gui, add, text,gConnectAllTimerSelectNum, Connect All Set Num
 gui, add, text,gCR1024, 1024 x 768 
