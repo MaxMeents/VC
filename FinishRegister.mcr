@@ -160,6 +160,18 @@ Mouse : R613 : R381 : Wheel : -1 : 0 : 0
 DELAY : 55
 Mouse : R613 : R381 : Wheel : -1 : 0 : 0
 DELAY : 1393
+DELAY : 1397
+Mouse : 701 : 608 : LeftButtonDown : 0 : 0 : 0
+DELAY : 95
+Mouse : R709 : R616 : LeftButtonUp : 0 : 0 : 0
+DELAY : 64
+Mouse : R707 : R615 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R707 : R615 : LeftButtonUp : 0 : 0 : 0
+DELAY : 2033
+Mouse : R510 : R613 : LeftButtonDown : 0 : 0 : 0
+DELAY : 64
+Mouse : R510 : R613 : LeftButtonUp : 0 : 0 : 0
 DELAY : 96
 DELAY : 3168
 Mouse : R451 : R591 : Wheel : -1 : 0 : 0
@@ -174,18 +186,6 @@ Mouse : R451 : R591 : Wheel : -1 : 0 : 0
 DELAY : 81
 Mouse : R452 : R582 : Wheel : -1 : 0 : 0
 DELAY : 3167
-DELAY : 1397
-Mouse : 701 : 608 : LeftButtonDown : 0 : 0 : 0
-DELAY : 95
-Mouse : R709 : R616 : LeftButtonUp : 0 : 0 : 0
-DELAY : 64
-Mouse : R707 : R615 : LeftButtonDown : 0 : 0 : 0
-DELAY : 104
-Mouse : R707 : R615 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2033
-Mouse : R510 : R613 : LeftButtonDown : 0 : 0 : 0
-DELAY : 64
-Mouse : R510 : R613 : LeftButtonUp : 0 : 0 : 0
 Keyboard : ControlLeft : KeyDown
 DELAY : 500
 Keyboard : ControlLeft : KeyDown
