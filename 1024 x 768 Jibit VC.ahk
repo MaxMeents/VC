@@ -53,8 +53,14 @@ global plusX :=
 global plusY :=
 global stuck := 0
 global stuckblack := 0
+global s := 0
 settimer, RestartCommon2, 1000
 settimer, CheckClipboard, 200
+settimer, Verify, 2500
+settimer, counter, 1000
+counter:
+s++
+Return
 ^g::
 IfWinNotExist, GitHub Desktop
 {
@@ -169,8 +175,33 @@ clipboard := "done with recovery"
 FileAppend, %Recovery%, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Email.txt    		
 run, %a_scriptdir%\FinishRegister.exe
 }
+if(clipboard == "DoneWithNewGame"){
+clipboard := "CheckDiamonds"
+gosub, CheckDiamonds
+}
+if(clipboard == "DoneWithRegister"){
+clipboard := "ShowTime"
+MsgBox, , %s%
+}
 StringReplace, clipboard, clipboard, Welcome to AteamID！ Please click the link below to create your account.%A_Space%,,All 
 stringreplace, clipboard, clipboard,  ================================== Sent by: Ateam Inc. URL : http://www.a-tm.co.jp ==================================, , All
+Return
+^2::
+CheckDiamonds:
+clipboard :=
+mousemove, 559,69
+send, !o 
+sleep, 1300
+mousemove, 561,71
+click down
+sleep, 60
+click up
+if(clipboard == "4,200"){
+ImageSearch, OutputVarX, OutputVarY, 963-90, 520-90, 993+90, 539+90, *95 C:\VC\Pictures\2021-06-28 16_48_32-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+gosub, RegisterNew
+}
+}
 Return
 ^4::
 IncreaseAccountNum:
@@ -302,6 +333,7 @@ Return
 ^9::
 Return
 ^0::
+StartOver:
 gosub, closeVC
 sleep, 500
 gosub, RerollVCbat
@@ -4929,8 +4961,37 @@ sleep, 500
 }
 
 tt(message){
-ToolTip, %message%, 700,20
+ToolTip, %message% Sec:%s%, 700,20
 }
+Verify:
+;if(s > ){
+; Reattempt last part of register
+;}
+ImageSearch, OutputVarX, OutputVarY, 411-90, 295-90, 608+90, 385+90, *35 C:\Users\maxme\Documents\GitHub\ValkarieConnect\Pictures\2021-06-28 16_59_04-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 511,491
+click down
+sleep, 60
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 366-90, 308-90, 655+90, 374+90, *35 C:\Users\maxme\Documents\GitHub\ValkarieConnect2\Pictures\2021-06-28 17_06_22-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 516,481
+click down
+sleep, 60
+click up
+}
+gosub, IncreaseAccountNum
+sleep, 300
+s := 0
+goto, StartOver
+}
+Return
 ^6::
 arenatimer:
 gui, destroy

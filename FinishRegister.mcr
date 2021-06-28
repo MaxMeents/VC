@@ -457,3 +457,5 @@ Keyboard : ControlLeft : KeyDown
 Keyboard : ControlLeft : KeyUp
 DELAY : 78
 Keyboard : V : KeyUp
+CLEAR CLIPBOARD
+SET CLIPBOARD : DoneWithRegister

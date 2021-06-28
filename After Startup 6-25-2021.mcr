@@ -698,3 +698,5 @@ DELAY : 55
 Mouse : R448 : R694 : LeftButtonDown : 0 : 0 : 0
 DELAY : 87
 Mouse : R448 : R694 : LeftButtonUp : 0 : 0 : 0
+CLEAR CLIPBOARD
+SET CLIPBOARD : DoneWithNewGame
