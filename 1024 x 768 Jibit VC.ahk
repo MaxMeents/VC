@@ -64,7 +64,7 @@ WinShow, GitHub Desktop
 WinActivate, GitHub Desktop
 Return
 ^!F3::
-send, ^#{f3}
+send, ^{f3}
 sleep, 100
 send, ^m
 Return
