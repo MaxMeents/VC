@@ -181,6 +181,20 @@ DELAY : 241
 Mouse : R380 : R305 : Wheel : -1 : 0 : 0
 DELAY : 1616
 DELAY : 96
+DELAY : 1782
+DELAY : 1033
+Mouse : R710 : R569 : LeftButtonDown : 0 : 0 : 0
+DELAY : 103
+Mouse : R710 : R569 : LeftButtonUp : 0 : 0 : 0
+DELAY : 840
+Mouse : R416 : R587 : LeftButtonDown : 0 : 0 : 0
+DELAY : 104
+Mouse : R416 : R587 : LeftButtonUp : 0 : 0 : 0
+DELAY : 135
+DELAY : 2098
+Keyboard : ControlLeft : KeyDown
+DELAY : 501
+Keyboard : ControlLeft : KeyDown
 DELAY : 3440
 Mouse : R371 : R460 : Wheel : -1 : 0 : 0
 DELAY : 456
