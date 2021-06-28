@@ -119,6 +119,10 @@ WinShow, Cheat Engine 7.2
 WinActivate, Cheat Engine 7.2
 Return
 CheckClipboard:
+if(clipboard == "RegisterPage"){
+clipboard := "Regsitering"
+gosub, RegisterPageSub
+}
 if(clipboard == "RerollPart1Done"){
 clipboard :=
 settimer, CheckClipboard, off 
@@ -1086,7 +1090,46 @@ click up
 }
 
 Return
-
+^+e::
+RegisterPageSub:
+mousemove, 446,137
+click down
+sleep, 60
+click up
+send, {tab 3}
+clipboard :=
+clipboard := "Eight882325"
+clipwait
+send, ^v
+sleep, 100
+send, {tab}
+sleep, 100
+send, ^v
+sleep, 100
+send, {tab}
+sleep, 100
+send, {space}
+sleep, 500
+send, {tab}
+sleep, 100
+send, 1988{tab}
+sleep, 100
+send, jun{tab}
+sleep, 100
+send, 2{tab}
+sleep, 100
+send, {space}
+sleep, 500
+send, {tab}
+sleep, 100
+send, {space}
+sleep, 500
+send, {enter 3}
+sleep, 3000
+clipboard :=
+clipboard := "continueRegister"
+clipwait
+Return
 #s::
 ConnectToHostGameTimer:
 gui, destroy
