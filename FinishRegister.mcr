@@ -608,6 +608,26 @@ DELAY : 71
 Mouse : R538 : R382 : LeftButtonDown : 0 : 0 : 0
 DELAY : 96
 Mouse : R538 : R382 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1136
+Mouse : R757 : R338 : LeftButtonDown : 0 : 0 : 0
+DELAY : 85
+Mouse : R757 : R338 : LeftButtonUp : 0 : 0 : 0
+DELAY : 400
+Mouse : R757 : R338 : LeftButtonDown : 0 : 0 : 0
+DELAY : 96
+Mouse : R757 : R338 : LeftButtonUp : 0 : 0 : 0
+DELAY : 86
+Mouse : R757 : R338 : LeftButtonDown : 0 : 0 : 0
+DELAY : 75
+Mouse : R757 : R338 : LeftButtonUp : 0 : 0 : 0
+DELAY : 876
+Mouse : R720 : R399 : LeftButtonDown : 0 : 0 : 0
+DELAY : 92
+Mouse : R720 : R399 : LeftButtonUp : 0 : 0 : 0
+DELAY : 407
+Mouse : R720 : R399 : LeftButtonDown : 0 : 0 : 0
+DELAY : 99
+Mouse : R720 : R399 : LeftButtonUp : 0 : 0 : 0
 DELAY : 2119
 Keyboard : LWindows : KeyDown
 DELAY : 501
