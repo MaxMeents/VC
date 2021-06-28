@@ -152,7 +152,6 @@ gosub, RegisterPageSub
 }
 if(clipboard == "RerollPart1Done"){
 clipboard :=
-settimer, CheckClipboard, off 
 run, %a_scriptdir%\After Startup 6-25-2021.exe
 }6mas9lzotx@baloonmail.com
 if(clipboard == "EnableUntilSoul"){
@@ -189,10 +188,10 @@ Return
 ^2::
 CheckDiamonds:
 clipboard :=
-mousemove, 494,41
+mousemove, 563,41
 send, !o 
 sleep, 1300
-mousemove, 561,71
+mousemove, 629,67
 click down
 sleep, 60
 click up

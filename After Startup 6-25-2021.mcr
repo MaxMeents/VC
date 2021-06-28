@@ -398,19 +398,19 @@ DELAY : 2969
 Mouse : R869 : R647 : LeftButtonDown : 0 : 0 : 0
 DELAY : 112
 Mouse : R869 : R647 : LeftButtonUp : 0 : 0 : 0
-DELAY : 43785
+DELAY : 47000
 Mouse : R678 : R286 : LeftButtonDown : 0 : 0 : 0
 DELAY : 135
 Mouse : R678 : R286 : LeftButtonUp : 0 : 0 : 0
-DELAY : 4578
+DELAY : 6000
 Mouse : R949 : R616 : LeftButtonDown : 0 : 0 : 0
 DELAY : 112
 Mouse : R949 : R616 : LeftButtonUp : 0 : 0 : 0
-DELAY : 3880
+DELAY : 6000
 Mouse : R528 : R556 : LeftButtonDown : 0 : 0 : 0
 DELAY : 120
 Mouse : R528 : R556 : LeftButtonUp : 0 : 0 : 0
-DELAY : 2768
+DELAY : 4000
 Mouse : R703 : R244 : LeftButtonDown : 0 : 0 : 0
 DELAY : 112
 Mouse : R703 : R244 : LeftButtonUp : 0 : 0 : 0
@@ -478,7 +478,7 @@ DELAY : 1168
 Mouse : R630 : R510 : LeftButtonDown : 0 : 0 : 0
 DELAY : 104
 Mouse : R630 : R510 : LeftButtonUp : 0 : 0 : 0
-DELAY : 18528
+DELAY : 18000
 Mouse : R721 : R441 : LeftButtonDown : 0 : 0 : 0
 DELAY : 112
 Mouse : R721 : R441 : LeftButtonUp : 0 : 0 : 0
