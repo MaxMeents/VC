@@ -145,6 +145,7 @@ FileAppend, %Recovery%, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Email.tx
 run, %a_scriptdir%\FinishRegister.exe
 }
 Return
+
 IncreaseAccountNum:
 accountNum++
 FileDelete, %CID_Loc%\VC Accounts\accountNum.txt

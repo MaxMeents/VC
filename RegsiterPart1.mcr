@@ -6,7 +6,7 @@ DELAY : 80
 Mouse : R988 : R532 : LeftButtonDown : 0 : 0 : 0
 DELAY : 87
 Mouse : R988 : R532 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1673
+DELAY : 3000
 Mouse : R276 : R420 : LeftButtonDown : 0 : 0 : 0
 DELAY : 80
 Mouse : R276 : R420 : LeftButtonUp : 0 : 0 : 0
