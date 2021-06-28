@@ -144,6 +144,8 @@ clipboard := "done with recovery"
 FileAppend, %Recovery%, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Email.txt    		
 run, %a_scriptdir%\FinishRegister.exe
 }
+StringReplace, clipboard, clipboard, Welcome to AteamID！ Please click the link below to create your account.%A_Space%,,All 
+stringreplace, clipboard, clipboard,  ================================== Sent by: Ateam Inc. URL : http://www.a-tm.co.jp ==================================, , All
 Return
 ^4::
 IncreaseAccountNum:
