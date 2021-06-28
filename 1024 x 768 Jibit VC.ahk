@@ -55,6 +55,19 @@ global stuck := 0
 global stuckblack := 0
 settimer, RestartCommon2, 1000
 settimer, CheckClipboard, 200
+^g::
+IfWinNotExist, GitHub Desktop
+{
+	run, %a_scriptdir%\GH Shortcut.lnk
+}
+WinShow, GitHub Desktop
+WinActivate, GitHub Desktop
+Return
+^!F3::
+send, ^#{f3}
+sleep, 100
+send, ^m
+Return
 ^w::pause
 ^Right::    send,{end}
 ^Left::     send,{Home}
@@ -1312,7 +1325,7 @@ Return
 #m::
 XButton1::
 Gui, -Caption +AlwaysOnTop
-Gui, Font, s15
+Gui, Font, s12
 Gui, Font, c4287f5
 gui, add, text,gActivateVCOption, ActivateVC
 gui, add, text,gTakeScreenshot, Take Screenshot
