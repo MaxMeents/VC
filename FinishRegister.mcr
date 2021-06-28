@@ -49,17 +49,21 @@ Keyboard : ControlLeft : KeyUp
 DELAY : 49
 Keyboard : V : KeyUp
 DELAY : 2031
-DELAY : 593
-DELAY : 1046
-Mouse : 792 : 355 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R800 : R363 : LeftButtonUp : 0 : 0 : 0
-DELAY : 73
-Mouse : R800 : R363 : LeftButtonDown : 0 : 0 : 0
-DELAY : 87
-Mouse : R800 : R363 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1993
 DELAY : 121
+DELAY : 1745
+DELAY : 81
+DELAY : 2239
+Keyboard : Tab : KeyDown
+DELAY : 127
+Keyboard : Tab : KeyUp
+DELAY : 1064
+Keyboard : Enter : KeyDown
+DELAY : 96
+Keyboard : Enter : KeyUp
+DELAY : 2433
+Keyboard : ControlLeft : KeyDown
+DELAY : 500
+Keyboard : ControlLeft : KeyDown
 DELAY : 2770
 Keyboard : ControlLeft : KeyDown
 DELAY : 499
