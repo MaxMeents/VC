@@ -4962,11 +4962,12 @@ sleep, 500
 tt(message){
 ToolTip, %message% Sec:%s%, 700,20
 }
+^i::
 Verify:
 ;if(s > ){
 ; Reattempt last part of register
 ;}
-ImageSearch, OutputVarX, OutputVarY, 411-90, 295-90, 608+90, 385+90, *35 C:\Users\maxme\Documents\GitHub\ValkarieConnect\Pictures\2021-06-28 16_59_04-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 411-90, 295-90, 608+90, 385+90, *35 %a_scriptdir%\Pictures\2021-06-28 16_59_04-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -4976,7 +4977,17 @@ sleep, 60
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 366-90, 308-90, 655+90, 374+90, *35 C:\Users\maxme\Documents\GitHub\ValkarieConnect2\Pictures\2021-06-28 17_06_22-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 361-90, 307-90, 658+90, 383+90, *35 %a_scriptdir%\Pictures\2021-06-28 17_51_01-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 510,345
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 366-90, 308-90, 655+90, 374+90, *35 %a_scriptdir%2\Pictures\2021-06-28 17_06_22-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
