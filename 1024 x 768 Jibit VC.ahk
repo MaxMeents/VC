@@ -142,7 +142,7 @@ runningregister := 1
 Recovery := "`n" . clipboard	
 clipboard := "done with recovery"
 FileAppend, %Recovery%, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Email.txt    		
-;run, %a_scriptdir%\FinishRegister.exe
+run, %a_scriptdir%\FinishRegister.exe
 }
 Return
 ^4::
