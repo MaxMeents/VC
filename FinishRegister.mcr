@@ -199,140 +199,29 @@ Mouse : R371 : R460 : Wheel : -1 : 0 : 0
 DELAY : 711
 Mouse : R371 : R460 : Wheel : -1 : 0 : 0
 DELAY : 1208
-DELAY : 1063
-DELAY : 80
-DELAY : 1066
+DELAY : 2037
+Mouse : R397 : R629 : LeftButtonDown : 0 : 0 : 0
+DELAY : 76
+Mouse : R397 : R629 : LeftButtonUp : 0 : 0 : 0
+DELAY : 260
+Mouse : R397 : R629 : LeftButtonDown : 0 : 0 : 0
+DELAY : 121
+Mouse : R397 : R629 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1143
 Keyboard : ControlLeft : KeyDown
-DELAY : 497
-Keyboard : ControlLeft : KeyDown
-DELAY : 34
-Keyboard : ControlLeft : KeyDown
-DELAY : 2
-Keyboard : A : KeyDown
-DELAY : 95
-Keyboard : ControlLeft : KeyUp
-DELAY : 65
-Keyboard : A : KeyUp
-DELAY : 674
-Keyboard : ControlLeft : KeyDown
-DELAY : 500
-Keyboard : ControlLeft : KeyDown
-DELAY : 31
-Keyboard : ControlLeft : KeyDown
-DELAY : 34
+DELAY : 501
 Keyboard : ControlLeft : KeyDown
 DELAY : 32
 Keyboard : ControlLeft : KeyDown
 DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 34
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 31
 Keyboard : ControlLeft : KeyDown
 DELAY : 36
 Keyboard : ControlLeft : KeyDown
-DELAY : 30
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 34
-Keyboard : ControlLeft : KeyDown
-DELAY : 32
-Keyboard : ControlLeft : KeyDown
-DELAY : 34
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 42
-Keyboard : ControlLeft : KeyDown
-DELAY : 23
-Keyboard : ControlLeft : KeyDown
-DELAY : 34
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 2
-Keyboard : C : KeyDown
-DELAY : 143
-Keyboard : ControlLeft : KeyUp
-DELAY : 67
-Keyboard : C : KeyUp
-DELAY : 1245
-Keyboard : ControlLeft : KeyDown
-DELAY : 501
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 32
-Keyboard : ControlLeft : KeyDown
-DELAY : 35
-Keyboard : ControlLeft : KeyDown
 DELAY : 31
 Keyboard : ControlLeft : KeyDown
-DELAY : 35
+DELAY : 32
 Keyboard : ControlLeft : KeyDown
 DELAY : 34
-Keyboard : ControlLeft : KeyDown
-DELAY : 30
-Keyboard : ControlLeft : KeyDown
-DELAY : 35
-Keyboard : ControlLeft : KeyDown
-DELAY : 31
-Keyboard : ControlLeft : KeyDown
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 34
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 1621
-Keyboard : ControlLeft : KeyDown
-DELAY : 500
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
 Keyboard : ControlLeft : KeyDown
 DELAY : 33
 Keyboard : ControlLeft : KeyDown
@@ -340,23 +229,19 @@ DELAY : 34
 Keyboard : ControlLeft : KeyDown
 DELAY : 32
 Keyboard : ControlLeft : KeyDown
+DELAY : 36
+Keyboard : ControlLeft : KeyDown
+DELAY : 29
+Keyboard : ControlLeft : KeyDown
 DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 4
-Keyboard : C : KeyDown
-DELAY : 79
-Keyboard : ControlLeft : KeyUp
-DELAY : 89
-Keyboard : C : KeyUp
-DELAY : 1626
-DELAY : 96
-DELAY : 518
-Keyboard : ControlLeft : KeyDown
-DELAY : 500
 Keyboard : ControlLeft : KeyDown
 DELAY : 33
 Keyboard : ControlLeft : KeyDown
 DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
 Keyboard : ControlLeft : KeyDown
 DELAY : 32
 Keyboard : ControlLeft : KeyDown
@@ -364,46 +249,153 @@ DELAY : 33
 Keyboard : ControlLeft : KeyDown
 DELAY : 33
 Keyboard : ControlLeft : KeyDown
-DELAY : 33
+DELAY : 46
+Keyboard : ControlLeft : KeyDown
+DELAY : 20
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
 Keyboard : ControlLeft : KeyDown
 DELAY : 33
 Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
 DELAY : 33
 Keyboard : ControlLeft : KeyDown
-DELAY : 4
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 35
+Keyboard : ControlLeft : KeyDown
+DELAY : 37
+Keyboard : ControlLeft : KeyDown
 Keyboard : A : KeyDown
 DELAY : 96
 Keyboard : ControlLeft : KeyUp
 DELAY : 64
 Keyboard : A : KeyUp
-DELAY : 383
+DELAY : 703
+Keyboard : ControlLeft : KeyDown
+DELAY : 500
+Keyboard : ControlLeft : KeyDown
+DELAY : 35
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 31
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 31
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 37
+Keyboard : ControlLeft : KeyDown
+DELAY : 28
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 2
+Keyboard : C : KeyDown
+DELAY : 111
+Keyboard : ControlLeft : KeyUp
+DELAY : 56
+Keyboard : C : KeyUp
+DELAY : 1608
+Mouse : R409 : R67 : LeftButtonDown : 0 : 0 : 0
+DELAY : 72
+Mouse : R409 : R67 : LeftButtonUp : 0 : 0 : 0
+DELAY : 77
+Mouse : R409 : R67 : LeftButtonDown : 0 : 0 : 0
+DELAY : 83
+Mouse : R409 : R67 : LeftButtonUp : 0 : 0 : 0
+DELAY : 664
 Keyboard : ControlLeft : KeyDown
 DELAY : 501
 Keyboard : ControlLeft : KeyDown
-DELAY : 33
+DELAY : 31
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
 Keyboard : ControlLeft : KeyDown
 DELAY : 33
 Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 33
-Keyboard : ControlLeft : KeyDown
-DELAY : 23
-Keyboard : V : KeyDown
-DELAY : 64
+DELAY : 9
+Keyboard : A : KeyDown
+DELAY : 80
 Keyboard : ControlLeft : KeyUp
-DELAY : 48
+DELAY : 64
+Keyboard : A : KeyUp
+DELAY : 240
+Keyboard : ControlLeft : KeyDown
+DELAY : 500
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 36
+Keyboard : ControlLeft : KeyDown
+DELAY : 8
+Keyboard : V : KeyDown
+DELAY : 94
+Keyboard : ControlLeft : KeyUp
+DELAY : 64
 Keyboard : V : KeyUp
-DELAY : 1177
+DELAY : 1927
 Keyboard : Enter : KeyDown
 DELAY : 79
 Keyboard : Enter : KeyUp
-DELAY : 7289
-Mouse : R436 : R368 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-DELAY : 87
-Mouse : R436 : R368 : LeftButtonUp : 0 : 0 : 0
-DELAY : 1387
+DELAY : 4565
+Mouse : R375 : R385 : LeftButtonDown : 0 : 0 : 0
+DELAY : 75
+Mouse : R375 : R385 : LeftButtonUp : 0 : 0 : 0
+DELAY : 74
+Mouse : R375 : R385 : LeftButtonDown : 0 : 0 : 0
+DELAY : 108
+Mouse : R376 : R385 : LeftButtonUp : 0 : 0 : 0
+DELAY : 975
+Keyboard : ControlLeft : KeyDown
+DELAY : 501
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 39
+Keyboard : ControlLeft : KeyDown
+DELAY : 24
+Keyboard : A : KeyDown
+DELAY : 96
+Keyboard : ControlLeft : KeyUp
+DELAY : 72
+Keyboard : A : KeyUp
 Keyboard : ShiftRight : KeyDown
 Keyboard : E : KeyDown
 DELAY : 95
