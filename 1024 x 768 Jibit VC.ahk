@@ -189,7 +189,7 @@ Return
 ^2::
 CheckDiamonds:
 clipboard :=
-mousemove, 559,69
+mousemove, 494,41
 send, !o 
 sleep, 1300
 mousemove, 561,71
