@@ -63,6 +63,14 @@ IfWinNotExist, GitHub Desktop
 WinShow, GitHub Desktop
 WinActivate, GitHub Desktop
 Return
+#d::
+IfWinNotExist,  Discord.exe
+{
+	run, %a_scriptdir%\Discord.lnk
+}
+WinShow,  Discord.exe
+WinActivate,  Discord.exe
+Return
 ^!F3::
 send, ^{f3}
 sleep, 100
