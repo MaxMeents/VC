@@ -432,6 +432,15 @@ DELAY : 79
 Mouse : R513 : R638 : LeftButtonDown : 0 : 0 : 0
 DELAY : 72
 Mouse : R513 : R638 : LeftButtonUp : 0 : 0 : 0
+DELAY : 624
+Mouse : R513 : R638 : LeftButtonDown : 0 : 0 : 0
+DELAY : 73
+Mouse : R513 : R638 : LeftButtonUp : 0 : 0 : 0
+DELAY : 79
+Mouse : R513 : R638 : LeftButtonDown : 0 : 0 : 0
+DELAY : 72
+Mouse : R513 : R638 : LeftButtonUp : 0 : 0 : 0
+Mouse : R513 : R638 : LeftButtonUp : 0 : 0 : 0
 Mouse : R513 : R638 : LeftButtonUp : 0 : 0 : 0
 DELAY : 1472
 Mouse : R643 : R598 : LeftButtonDown : 0 : 0 : 0
