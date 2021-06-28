@@ -50,6 +50,54 @@ DELAY : 49
 Keyboard : V : KeyUp
 DELAY : 2031
 DELAY : 593
+DELAY : 1046
+Mouse : 792 : 355 : LeftButtonDown : 0 : 0 : 0
+DELAY : 87
+Mouse : R800 : R363 : LeftButtonUp : 0 : 0 : 0
+DELAY : 73
+Mouse : R800 : R363 : LeftButtonDown : 0 : 0 : 0
+DELAY : 87
+Mouse : R800 : R363 : LeftButtonUp : 0 : 0 : 0
+DELAY : 1993
+DELAY : 121
+DELAY : 2770
+Keyboard : ControlLeft : KeyDown
+DELAY : 499
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 33
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
+DELAY : 32
+Keyboard : ControlLeft : KeyDown
+DELAY : 34
+Keyboard : ControlLeft : KeyDown
 DELAY : 3864
 Keyboard : ControlLeft : KeyDown
 DELAY : 368
