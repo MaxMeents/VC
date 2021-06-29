@@ -217,9 +217,8 @@ ImageSearch, OutputVarX, OutputVarY, 967-90, 114-90, 992+90, 148+90, *95 C:\VC\P
 if(ErrorLevel == 0){
 goto, RegisterNew
 }
-}else{
-	goto, CheckDiamonds
 }
+goto, CheckDiamonds
 Return
 ^4::
 IncreaseAccountNum:
