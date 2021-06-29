@@ -12,6 +12,7 @@ IfWinNotExist, Cheat Engine 7.2
 	sleep, 2000
 	WinMaximize, Cheat Engine 7.2
 }
+global RN := 0
 global v := 0
 global runningregister := 1
 global ConnectNum := 24
@@ -4971,6 +4972,9 @@ ToolTip, %message% Sec:%s%, 700,20
 }
 ^i::
 Verify:
+if(s > 1250){
+RN := 2
+}
 if(v == 10){
 ImageSearch, OutputVarX, OutputVarY, 238-90, 390-90, 335+90, 454+90, *95 C:\VC\Pictures\2021-06-28 19_11_37-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
@@ -4978,11 +4982,12 @@ clipboard :=
 run, %a_scriptdir%\RetryRegister.exe
 }
 }
-if(v > 40){
+if(v > 40 && RN != 1){
 FileDelete, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Email.txt  	
 sleep, 300
 s := 0
 v := 0
+RN := 0
 settimer, VerifyCounter, off
 goto, StartOver
 }
@@ -4995,6 +5000,7 @@ click down
 sleep, 80
 click up
 }
+RN++
 sleep, 800
 mousemove, 90,60
 click down
@@ -5026,6 +5032,7 @@ gosub, IncreaseAccountNum
 sleep, 300
 s := 0
 v := 0
+RN := 0
 settimer, VerifyCounter, off
 goto, StartOver
 }
@@ -5042,6 +5049,7 @@ gosub, IncreaseAccountNum
 sleep, 300
 s := 0
 v := 0
+RN := 0
 settimer, VerifyCounter, off
 goto, StartOver
 }
