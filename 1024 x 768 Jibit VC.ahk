@@ -199,6 +199,7 @@ mousemove, 629,67
 click down
 sleep, 60
 click up
+clipwait
 if(clipboard == "4,200"){
 ImageSearch, OutputVarX, OutputVarY, 963-90, 520-90, 993+90, 539+90, *95 C:\VC\Pictures\2021-06-28 16_48_32-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
@@ -209,6 +210,10 @@ if(ErrorLevel == 0){
 goto, RegisterNew
 }
 ImageSearch, OutputVarX, OutputVarY, 961-90, 514-90, 998+90, 540+90, *95 C:\VC\Pictures\2021-06-28 19_46_50-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+goto, RegisterNew
+}
+ImageSearch, OutputVarX, OutputVarY, 967-90, 114-90, 992+90, 148+90, *95 C:\VC\Pictures\2021-06-28 19_53_11-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 goto, RegisterNew
 }
