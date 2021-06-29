@@ -12,7 +12,7 @@ IfWinNotExist, Cheat Engine 7.2
 	sleep, 2000
 	WinMaximize, Cheat Engine 7.2
 }
-
+global v := 0
 global runningregister := 1
 global ConnectNum := 24
 global stillon := 0
@@ -180,10 +180,13 @@ gosub, CheckDiamonds
 }
 if(clipboard == "DoneWithRegister"){
 clipboard := "ShowTime"
-MsgBox, , %s%
+settimer, VerifyCounter, 1000
 }
 StringReplace, clipboard, clipboard, Welcome to AteamID！ Please click the link below to create your account.%A_Space%,,All 
 stringreplace, clipboard, clipboard,  ================================== Sent by: Ateam Inc. URL : http://www.a-tm.co.jp ==================================, , All
+Return
+VerifyCounter:
+v++
 Return
 ^2::
 CheckDiamonds:
@@ -4968,9 +4971,38 @@ ToolTip, %message% Sec:%s%, 700,20
 }
 ^i::
 Verify:
-;if(s > ){
-; Reattempt last part of register
-;}
+if(v == 10){
+ImageSearch, OutputVarX, OutputVarY, 238-90, 390-90, 335+90, 454+90, *95 C:\VC\Pictures\2021-06-28 19_11_37-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+clipboard :=
+run, %a_scriptdir%\RetryRegister.exe
+}
+}
+if(v > 40){
+FileDelete, %CID_Loc%\VC Accounts\%ComputerID% %accountNum% Email.txt  	
+sleep, 300
+s := 0
+v := 0
+settimer, VerifyCounter, off
+goto, StartOver
+}
+ImageSearch, OutputVarX, OutputVarY, 325-90, 256-90, 693+90, 423+90, *95 C:\VC\Pictures\2021-06-28 19_09_24-Valkyrie Connect WW.png
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 465,491
+click down
+sleep, 80
+click up
+}
+sleep, 800
+mousemove, 90,60
+click down
+sleep, 80
+click up
+sleep, 4000
+gosub, RegisterNew
+}
 ImageSearch, OutputVarX, OutputVarY, 411-90, 295-90, 608+90, 385+90, *45 %a_scriptdir%\Pictures\2021-06-28 16_59_04-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -4993,6 +5025,8 @@ click up
 gosub, IncreaseAccountNum
 sleep, 300
 s := 0
+v := 0
+settimer, VerifyCounter, off
 goto, StartOver
 }
 ImageSearch, OutputVarX, OutputVarY, 366-90, 308-90, 655+90, 374+90, *45 %a_scriptdir%\Pictures\2021-06-28 17_06_22-Valkyrie Connect WW.png 
@@ -5007,6 +5041,8 @@ click up
 gosub, IncreaseAccountNum
 sleep, 300
 s := 0
+v := 0
+settimer, VerifyCounter, off
 goto, StartOver
 }
 Return
