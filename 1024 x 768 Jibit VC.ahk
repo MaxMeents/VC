@@ -63,8 +63,8 @@ global plusY :=
 global stuck := 0
 global stuckblack := 0
 global s := 0
-settimer, RestartCommon2, 1000
-settimer, CheckClipboard, 200
+settimer, RestartCommon2, 3000
+settimer, CheckClipboard, 500
 settimer, Verify, 2500
 settimer, counter, 1000
 counter:
