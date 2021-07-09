@@ -65,7 +65,7 @@ global stuckblack := 0
 global s := 0
 ;settimer, RestartCommon2, 3000
 settimer, CheckClipboard, 500
-settimer, Verify, 2500
+;settimer, Verify, 2500
 settimer, counter, 1000
 counter:
 s++
@@ -590,7 +590,8 @@ settimer, ConnectBattleRepat, 800
 }
 if(RN > 12){
 RN := 0
-send, {wheelup 200}
+send, {wheelup 100}
+sleep, 1000
 }
 Return
 RestartCommon2:
