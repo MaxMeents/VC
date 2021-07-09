@@ -590,8 +590,10 @@ settimer, ConnectBattleRepat, 800
 }
 if(RN > 12){
 RN := 0
-send, {wheelup 100}
-sleep, 1000
+mousemove, 99,62
+click down
+sleep, 60
+click up
 }
 Return
 RestartCommon2:
