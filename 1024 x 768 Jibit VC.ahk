@@ -88,6 +88,7 @@ WinShow,  Discord.exe
 WinActivate,  Discord.exe
 Return
 restartcommon3:
+gosub, ActivateVC
 ImageSearch, OutputVarX, OutputVarY, 488-90, 609-90, 538+90, 644+90, *95 C:\VC\Pictures\2021-07-09 15_14_39-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
