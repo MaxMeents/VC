@@ -531,7 +531,7 @@ click up
 ImageSearch, OutputVarX, OutputVarY, 957-90, 35-90, 993+90, 66+90, *95 C:\VC\Pictures\2021-07-09 12_31_47-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 mousemove, 619,130
-send, {wheeldown 5}
+send, {wheeldown 3}
 sleep, 500
 }
 ImageSearch, OutputVarX, OutputVarY, 393, 88, 508, 708, *95 C:\VC\Pictures\2021-07-09 12_32_55-Valkyrie Connect WW.png 
