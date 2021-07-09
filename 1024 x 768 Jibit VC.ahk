@@ -15,7 +15,9 @@ Process, Priority,, H
 IfWinNotExist, Cheat Engine 7.2
 {
 	run, %a_scriptdir%\Cheat Engine.lnk
-	sleep, 2000
+	sleep, 3000
+	WinMaximize, Cheat Engine 7.2
+	sleep, 1000
 	WinMaximize, Cheat Engine 7.2
 }
 global RN := 0
@@ -281,6 +283,13 @@ accountNum++
 FileDelete, %CID_Loc%\VC Accounts\accountNum.txt
 sleep, 100
 FileAppend, %accountNum%, %CID_Loc%\VC Accounts\accountNum.txt
+Return
+closeCE:
+gui, destroy
+DllCall("EndTask"
+, Ptr , WinExist("Cheat Engine 7.2")
+, UInt, false
+, UInt, true) 
 Return
 f7::
 closeVC:
@@ -1050,6 +1059,7 @@ Return
 EnableCE:
 gui, destroy
 gosub, ActivateVC
+sleep, 3000
 run, %a_scriptdir%\CE.exe
 Return
 !c::
@@ -1455,6 +1465,7 @@ settimer, ConnectedToHostGame, off
 settimer, ConnectToHostGame, 100
 }
 Return
+
 #m::
 XButton1::
 Gui, -Caption +AlwaysOnTop
@@ -1463,6 +1474,7 @@ Gui, Font, c4287f5
 gui, add, text,gActivateVCOption, ActivateVC
 gui, add, text,gTakeScreenshot, Take Screenshot
 gui, add, text,garenatimer, Arena
+gui, add, text,gcloseCE, Close Cheat Engine
 gui, add, text,gRegisterNew, Register
 gui, add, text,gConnectAllTimer, Connect All 
 gui, add, text,gConnectAllTimerSelectNum, Connect All Set Num
