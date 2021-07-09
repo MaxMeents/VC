@@ -87,6 +87,13 @@ IfWinNotExist,  Discord.exe
 WinShow,  Discord.exe
 WinActivate,  Discord.exe
 Return
+^F12::
+exit 
+ExitApp
+Return
+^r::
+settimer, restartcommon3, off
+Return
 restartcommon3:
 gosub, ActivateVC
 ImageSearch, OutputVarX, OutputVarY, 357-90, 335-90, 410+90, 378+90, *95 C:\VC\Pictures\2021-07-09 16_48_49-Valkyrie Connect WW.png 
