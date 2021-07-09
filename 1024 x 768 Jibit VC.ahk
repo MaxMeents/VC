@@ -486,6 +486,7 @@ settimer, GoToRukia, 100
 Return
 GoToRukia:
 settimer, RestartCommon2, off
+RN++
 ImageSearch, OutputVarX, OutputVarY, 781-90, 455-90, 851+90, 490+90, *95 C:\VC\Pictures\2021-07-09 12_43_44-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -531,7 +532,7 @@ ImageSearch, OutputVarX, OutputVarY, 957-90, 35-90, 993+90, 66+90, *95 C:\VC\Pic
 if(ErrorLevel == 0){
 mousemove, 619,130
 send, {wheeldown 5}
-sleep, 300
+sleep, 500
 }
 ImageSearch, OutputVarX, OutputVarY, 393, 88, 508, 708, *95 C:\VC\Pictures\2021-07-09 12_32_55-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
@@ -583,10 +584,14 @@ sleep, 80
 click up
 sleep, 100
 }
+RN := 0
 settimer, GoToRukia, off
 settimer, ConnectBattleRepat, 800
 }
-
+if(RN > 12){
+RN := 0
+send, {wheelup 200}
+}
 Return
 RestartCommon2:
 ImageSearch, OutputVarXx, OutputVarYy, 796-200, 542-200, 862+200, 570+200, *95 %a_scriptdir%\Pictures\2021-07-09 00_27_04-Valkyrie Connect WW.png 
