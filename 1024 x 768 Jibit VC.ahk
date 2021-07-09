@@ -91,6 +91,9 @@ Return
 exit 
 ExitApp
 Return
+^r::
+settimer, restartcommon3, off
+Return
 restartcommon3:
 gosub, ActivateVC
 ImageSearch, OutputVarXX, OutputVarYY, 408-90, 455-90, 476+90, 491+90, *95 C:\VC\Pictures\2021-07-09 16_44_39-Valkyrie Connect WW.png 
