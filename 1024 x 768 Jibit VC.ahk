@@ -379,7 +379,7 @@ clipboard = run, cmd.exe /c C:\Capture2Text\Capture2Text_CLI.exe --scale-factor 
 Return
 ^9::
 Return
-^!+0::
+^0::
 StartOver:
 gosub, closeVC
 sleep, 500
