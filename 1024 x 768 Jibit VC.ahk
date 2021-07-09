@@ -544,6 +544,17 @@ sleep, 60
 click up
 }
 }
+ImageSearch, OutputVarX, OutputVarY, 393, 88, 508, 708, *95 C:\VC\Pictures\2021-07-09 15_06_27-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, %OutputVarX%, %OutputVarY%
+click down
+sleep, 60
+click up
+}
+}
+
 ImageSearch, OutputVarX, OutputVarY, 664-90, 530-90, 732+90, 575+90, *95 C:\VC\Pictures\2021-07-09 12_34_57-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
