@@ -100,16 +100,7 @@ Return
 ^+up::      send,^+{home}
 
 RestartCommon2:
-ImageSearch, OutputVarXX, OutputVarYY, 90-90, 95-90, 123+90, 124+90, *95 C:\Pictures\2021-07-08 17_16_06-Window.png 
-if(ErrorLevel == 0){
-Loop, 1
-{
-mousemove, 107,110
-click down
-sleep, 20
-click up
-}
-}
+
 ImageSearch, OutputVarXX, OutputVarYY, 368-90, 588-90, 446+90, 623+90, *95 C:\Pictures\2021-07-08 16_35_44-Window.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -5289,7 +5280,7 @@ runningregister := 0
 run, %a_scriptdir%\RegsiterPart1.exe
 settimer, CheckClipboard, 300
 Return
-^8::
+^!8::
 a := clipboard 
 b = 90000
 inputbox, num, Adjust by percent
