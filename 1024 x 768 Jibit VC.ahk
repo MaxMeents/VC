@@ -1033,6 +1033,16 @@ settimer, ConnectHost, 100
 Return
 ConnectHost:
 gosub, PlayerLevelUp
+ImageSearch, OutputVarX, OutputVarY, 374-90, 589-90, 451+90, 628+90, *95 C:\VC\Pictures\2021-07-08 22_42_35-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 413,609
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 492-90, 269-90, 610+90, 300+90, *95 %a_scriptdir%\Pictures\2021-06-24 01_16_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
