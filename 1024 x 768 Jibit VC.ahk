@@ -63,7 +63,7 @@ global plusY :=
 global stuck := 0
 global stuckblack := 0
 global s := 0
-settimer, RestartCommon2, 3000
+;settimer, RestartCommon2, 3000
 settimer, CheckClipboard, 500
 settimer, Verify, 2500
 settimer, counter, 1000
@@ -116,6 +116,11 @@ click down
 sleep, 60
 click up
 sleep, 400
+ImageSearch, OutputVarX, OutputVarY, 331-90, 280-90, 646+90, 403+90, *95 C:\VC\Pictures\2021-07-09 11_43_56-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+settimer, ConnectBattleRepat, off
+settimer, GoSellAtBlacksmith, 100
+}
 mousemove, 407,606
 click down
 sleep, 20
@@ -126,6 +131,462 @@ click down
 sleep, 60
 click up
 sleep, 400
+Return
+GoSellAtBlacksmithTimer:
+gui, destroy
+gosub, ActivateVC
+settimer, GoSellAtBlacksmith, 100
+Return
+GoSellAtBlacksmith:
+ImageSearch, OutputVarX, OutputVarY, 299-90, 217-90, 331+90, 245+90, *95 C:\VC\Pictures\2021-07-09 11_45_53-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 315,231
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 220-90, 164-90, 221+90, 165+90, *95 C:\VC\Pictures\2021-07-09 11_45_58-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 221,165
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 918-90, 578-90, 959+90, 628+90, *35 C:\VC\Pictures\2021-07-09 11_46_08-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 939,603
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 75-90, 39-90, 100+90, 65+90, *95 C:\VC\Pictures\2021-07-09 11_46_51-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 88,52
+click down
+sleep, 20
+click up
+}
+}
+
+ImageSearch, OutputVarX, OutputVarY, 970-90, 188-90, 988+90, 214+90, *95 C:\VC\Pictures\2021-07-09 11_54_16-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+mousemove, 990,208
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 990,208
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 990,208
+click down
+sleep, 60
+click up	
+RN := 0
+settimer, GoSellAtBlacksmith, off 
+settimer, AtBlackSmith, 100
+}
+
+Return
+AtBlackSmith:
+
+
+ImageSearch, OutputVarX, OutputVarY, 730-10, 232-10, 817+10, 274+10, *35 C:\VC\Pictures\2021-07-09 11_48_49-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 774,253
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 660-10, 430-10, 711+10, 472+10, *35 C:\VC\Pictures\2021-07-09 11_48_54-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 686,451
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 887-10, 624-10, 938+10, 661+10, *35 C:\VC\Pictures\2021-07-09 11_49_29-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+	sleep, 300
+Loop, 1
+{
+mousemove, 913,643
+click down
+sleep, 20
+click up
+}
+sleep, 800
+}
+ImageSearch, OutputVarX, OutputVarY, 632-10, 637-10, 669+10, 668+10, *35 C:\VC\Pictures\2021-07-09 11_49_34-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 651,653
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 596-10, 565-10, 647+10, 600+10, *35 C:\VC\Pictures\2021-07-09 11_50_19-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 622,583
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 398-10, 320-10, 621+10, 361+10, *35 C:\VC\Pictures\2021-07-09 12_02_08-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+RN++
+mousemove, 531,478
+click down
+sleep, 80
+click up
+sleep, 100
+mousemove, 531,478
+click down
+sleep, 60
+click up
+sleep, 300
+mousemove, 144,136
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 144,136
+click down
+sleep, 60
+click up
+sleep, 300
+mousemove, 911,295
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 911,295
+click down
+sleep, 60
+click up
+}
+ImageSearch, OutputVarX, OutputVarY, 587-10, 476-10, 624+10, 507+10, *35 C:\VC\Pictures\2021-07-09 12_07_00-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 606,492
+click down
+sleep, 20
+click up
+}
+}
+if(RN > 2){
+settimer, AtBlackSmith, off 
+settimer, GoOpenBoxes, 100
+tt("Done with blacksmith")
+}
+Return
+GoOpenBoxesTimer:
+gui, destroy
+gosub, ActivateVC
+settimer, GoOpenBoxes, 100
+Return
+GoOpenBoxes:
+ImageSearch, OutputVarX, OutputVarY, 74-90, 35-90, 99+90, 67+90, *95 C:\VC\Pictures\2021-07-09 12_12_40-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 87,51
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 170-90, 115-90, 196+90, 147+90, *95 C:\VC\Pictures\2021-07-09 12_12_58-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 183,131
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 963-90, 506-90, 989+90, 534+90, *95 C:\VC\Pictures\2021-07-09 12_13_10-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 976,520
+click down
+sleep, 80
+click up
+sleep, 100
+}
+settimer, GoOpenBoxes, off 
+settimer, OpenBoxes2, 100
+}
+Return
+OpenBoxes2:
+ImageSearch, OutputVarX, OutputVarY, 280-90, 162-90, 302+90, 183+90, *95 C:\VC\Pictures\2021-07-09 12_14_24-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 291,173
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 484-90, 488-90, 534+90, 516+90, *95 C:\VC\Pictures\2021-07-09 12_20_39-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 509,502
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 941-90, 641-90, 979+90, 681+90, *95 C:\VC\Pictures\2021-07-09 12_20_44-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 960,661
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 492-90, 567-90, 714+90, 749+90, *95 C:\VC\Pictures\2021-07-09 12_21_43-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 603,658
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 336-90, 627-90, 386+90, 660+90, *95 C:\VC\Pictures\2021-07-09 12_14_34-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 361,644
+click down
+sleep, 80
+click up
+}
+sleep, 500
+mousemove, 624,435
+click down
+sleep, 60
+click up
+sleep, 300
+mousemove, 530,587
+click down
+sleep, 60
+click up
+sleep, 800
+mousemove, 960,70
+click down
+sleep, 60
+click up
+sleep, 400
+mousemove, 960,70
+click down
+sleep, 60
+click up
+sleep, 1200
+mousemove, 958,668
+click down
+sleep, 60
+click up
+sleep, 1000
+mousemove, 958,668
+click down
+sleep, 60
+click up
+sleep, 1000
+mousemove, 958,668
+click down
+sleep, 60
+click up
+}
+ImageSearch, OutputVarX, OutputVarY, 270-90, 355-90, 614+90, 409+90, *95 C:\VC\Pictures\2021-07-09 12_22_43-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+settimer, OpenBoxes2, off 
+settimer, GetStamina, 100
+}
+Return
+GetStamina:
+ImageSearch, OutputVarX, OutputVarY, 70-90, 41-90, 102+90, 70+90, *95 C:\VC\Pictures\2021-07-09 12_23_33-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 86,56
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 169-90, 114-90, 196+90, 141+90, *95 C:\VC\Pictures\2021-07-09 12_23_42-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 183,128
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 27-90, 421-90, 68+90, 443+90, *35 C:\VC\Pictures\2021-07-09 12_24_02-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 48,432
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 723-90, 580-90, 806+90, 603+90, *95 C:\VC\Pictures\2021-07-09 12_24_34-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 765,592
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 358-90, 373-90, 358+90, 373+90, *95 C:\VC\Pictures\2021-07-09 12_42_08-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+settimer, GetStamina, off 
+settimer, GoToRukia, 100
+}
+Return
+GoToRukia:
+settimer, RestartCommon2, off
+ImageSearch, OutputVarX, OutputVarY, 781-90, 455-90, 851+90, 490+90, *95 C:\VC\Pictures\2021-07-09 12_43_44-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 816,473
+click down
+sleep, 20
+click up
+}
+}
+
+ImageSearch, OutputVarX, OutputVarY, 223-90, 178-90, 254+90, 213+90, *95 C:\VC\Pictures\2021-07-09 12_28_36-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 239,196
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 120-90, 110-90, 164+90, 152+90, *95 C:\VC\Pictures\2021-07-09 12_28_41-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 142,131
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 666-90, 605-90, 710+90, 647+90, *95 C:\VC\Pictures\2021-07-09 12_28_49-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 688,626
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 957-90, 35-90, 993+90, 66+90, *95 C:\VC\Pictures\2021-07-09 12_31_47-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+mousemove, 619,130
+send, {wheeldown 5}
+sleep, 300
+}
+ImageSearch, OutputVarX, OutputVarY, 393, 88, 508, 708, *95 C:\VC\Pictures\2021-07-09 12_32_55-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, %OutputVarX%, %OutputVarY%
+click down
+sleep, 60
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 664-90, 530-90, 732+90, 575+90, *95 C:\VC\Pictures\2021-07-09 12_34_57-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 698,553
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 368-90, 449-90, 401+90, 478+90, *95 C:\VC\Pictures\2021-07-09 12_35_05-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 385,464
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 816-150, 487-150, 444+150, 261+150, *95 C:\VC\Pictures\2021-07-09 12_35_13-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 630,374
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 865-90, 631-90, 890+90, 660+90, *95 C:\VC\Pictures\2021-07-09 12_36_14-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, 878,646
+click down
+sleep, 80
+click up
+sleep, 100
+}
+settimer, GoToRukia, off
+settimer, ConnectBattleRepat, 800
+}
+
 Return
 RestartCommon2:
 ImageSearch, OutputVarXx, OutputVarYy, 796-200, 542-200, 862+200, 570+200, *95 %a_scriptdir%\Pictures\2021-07-09 00_27_04-Valkyrie Connect WW.png 
@@ -2068,7 +2529,9 @@ gui, add, text,gConnectHostUntilSoulTimer, Host Connect Till Soul
 gui, add, text,gConnectToHostGameTimer, Connect To Host Game
 gui, add, text,gFreeSummonAfterStartup, Free Summon After Startup
 gui, add, text,gHeroQuestTimer, Hero Quest 
-gui, add, text,gStoryMissions, StoryMission 
+gui, add, text,gStoryMissions, StoryMission
+gui, add, text,gGoSellAtBlacksmithTimer, Go Sell At At BlackSmith
+gui, add, text,gGoOpenBoxesTimer, Go Open Boxes
 gui, add, text,gPromoteLevelUpOrbs, Promote-Level Up-Orbs 
 gui, add, text,gHeroQuestInnerTimer, HeroQuestInner
 gui, show 
