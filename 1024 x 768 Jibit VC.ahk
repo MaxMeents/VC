@@ -98,9 +98,44 @@ Return
 ^+Left::    send,+{home}
 ^+down::    send,^+{end}
 ^+up::      send,^+{home}
-
+ConnectBattleRepeatTimer:
+gui,destroy
+gosub, ActivateVC
+settimer, ConnectBattleRepat, 100
+Return
+ConnectBattleRepat:
+mousemove, 941,484
+click down
+sleep, 60
+click up
+sleep, 300
+mousemove, 679,475
+click down
+sleep, 60
+click up
+sleep, 300
+mousemove, 407,606
+click down
+sleep, 20
+click up
+sleep, 300
+mousemove, 305,151
+click down
+sleep, 60
+click up
+sleep, 300
+Return
 RestartCommon2:
-
+ImageSearch, OutputVarXx, OutputVarYy, 796-200, 542-200, 862+200, 570+200, *95 C:\Pictures\2021-07-09 00_27_04-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 3
+{
+mousemove, %OutputVarXx%,%OutputVarYy%
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarXX, OutputVarYY, 368-90, 588-90, 446+90, 623+90, *95 C:\Pictures\2021-07-08 16_35_44-Window.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -197,7 +232,7 @@ run, %a_scriptdir%\FinishRegister.exe
 }
 if(clipboard == "DoneWithNewGame"){
 clipboard := "CheckDiamonds"
-gosub, CheckDiamonds
+;gosub, CheckDiamonds
 }
 if(clipboard == "DoneWithRegister"){
 clipboard := "ShowTime"
@@ -1435,6 +1470,7 @@ gui, add, text,gCR1024, 1024 x 768
 gui, add, text,gCR3840, 3840 x 2160
 gui, add, text,gEnableCE, Enable CE
 gui, add, text,gEnableCEScript, Join Battle Then Cheat Engine 
+gui, add, text,gConnectBattleRepeatTimer, Repeat Connect Battle
 gui, add, text,gConnectHostTimer, Host Connect
 gui, add, text,gConnectHostUntilSoulTimer, Host Connect Till Soul
 gui, add, text,gConnectToHostGameTimer, Connect To Host Game
