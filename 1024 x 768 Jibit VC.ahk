@@ -110,22 +110,22 @@ mousemove, 941,484
 click down
 sleep, 60
 click up
-sleep, 300
+sleep, 400
 mousemove, 679,475
 click down
 sleep, 60
 click up
-sleep, 300
+sleep, 400
 mousemove, 407,606
 click down
 sleep, 20
 click up
-sleep, 300
+sleep, 400
 mousemove, 305,151
 click down
 sleep, 60
 click up
-sleep, 300
+sleep, 400
 Return
 RestartCommon2:
 ImageSearch, OutputVarXx, OutputVarYy, 796-200, 542-200, 862+200, 570+200, *95 %a_scriptdir%\Pictures\2021-07-09 00_27_04-Valkyrie Connect WW.png 
