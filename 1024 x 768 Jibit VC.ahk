@@ -387,7 +387,7 @@ gosub, RerollVCbat
 sleep, 500
 gosub, RunVC
 sleep, 8000
-run, %a_scriptdir%\RerollPart1 20 percent slower.exe
+run, %a_scriptdir%\RerollPart1 40 percent slower.exe
 settimer, CheckClipboard, 100
 Return
 
@@ -5289,7 +5289,23 @@ runningregister := 0
 run, %a_scriptdir%\RegsiterPart1.exe
 settimer, CheckClipboard, 300
 Return
-^n::
+^8::
+a := clipboard 
+b = 90000
+inputbox, num, Adjust by percent
+Loop, %b%
+{
+b--
+c := Round(num * b)
+StringReplace,a,a, DELAY : %b%,DELAY : --- %c%,All 
+}
+StringReplace,a,a, DELAY : ---,DELAY :,All 
+clipboard :=
+clipboard := a
+clipwait, 5
+tooltip, done
+Return
+^!+n::
 a := clipboard 
 b = 10000
 c = 1
