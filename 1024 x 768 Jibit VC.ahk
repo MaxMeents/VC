@@ -12,6 +12,7 @@ SetKeyDelay, -1, -1
 SetWinDelay, -1 ; Sets the delay that will occur after each windowing command, such as WinActivate.
 SetControlDelay, -1 ;
 Process, Priority,, H
+settimer, restartcommon3, 4000
 IfWinNotExist, Cheat Engine 7.2
 {
 	run, %a_scriptdir%\Cheat Engine.lnk
@@ -85,6 +86,18 @@ IfWinNotExist,  Discord.exe
 }
 WinShow,  Discord.exe
 WinActivate,  Discord.exe
+Return
+restartcommon3:
+ImageSearch, OutputVarX, OutputVarY, 488-90, 609-90, 538+90, 644+90, *95 C:\VC\Pictures\2021-07-09 15_14_39-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 513,627
+click down
+sleep, 20
+click up
+}
+}
 Return
 ^!F3::
 send, ^{f3}
