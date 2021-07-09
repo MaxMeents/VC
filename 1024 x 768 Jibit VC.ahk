@@ -2,10 +2,16 @@
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+SleepDuration = 1
 #NoEnv
 #InstallMouseHook 
 #SingleInstance, Force
 #MaxHotkeysPerInterval, 5000
+SetBatchLines, -1 ; Use SetBatchLines -1 to never sleep (i.e. have the script run at maximum speed). The default setting is 10m
+SetKeyDelay, -1, -1
+SetWinDelay, -1 ; Sets the delay that will occur after each windowing command, such as WinActivate.
+SetControlDelay, -1 ;
+Process, Priority,, H
 IfWinNotExist, Cheat Engine 7.2
 {
 	run, %a_scriptdir%\Cheat Engine.lnk
@@ -94,7 +100,27 @@ Return
 ^+up::      send,^+{home}
 
 RestartCommon2:
-ImageSearch, OutputVarXX, OutputVarYY, 352-90, 329-90, 670+90, 384+90, *55 %a_scriptdir%\Pictures\2021-06-26 05_15_29-Valkyrie Connect WW.png 
+ImageSearch, OutputVarXX, OutputVarYY, 90-90, 95-90, 123+90, 124+90, *95 C:\Pictures\2021-07-08 17_16_06-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 107,110
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarXX, OutputVarYY, 368-90, 588-90, 446+90, 623+90, *95 C:\Pictures\2021-07-08 16_35_44-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 407,606
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarXXX, OutputVarYYY, 352-90, 329-90, 670+90, 384+90, *55 %a_scriptdir%\Pictures\2021-06-26 05_15_29-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 3
 {
@@ -141,6 +167,9 @@ click up
 }
 }
 Return
+^!0::
+;send, {tab 12}1.00{tab 2}{down 2}{tab 11}{enter}
+Return
 #c::
 activateCE:
 WinShow, Cheat Engine 7.2
@@ -153,7 +182,7 @@ gosub, RegisterPageSub
 }
 if(clipboard == "RerollPart1Done"){
 clipboard :=
-run, %a_scriptdir%\After Startup 6-25-2021.exe
+run, %a_scriptdir%\After Startup 6-25-2021 20 percent slower.exe
 }
 if(clipboard == "EnableUntilSoul"){
 clipboard := "UntilSoul"
@@ -277,6 +306,7 @@ clipboard :=
 sleep, 100
 send, ^{space} 
 ~^space::
+clipboard :=
 reset := 0
 Loop{
 if GetKeyState("Lbutton") ; While left mouse button is being held:
@@ -349,7 +379,7 @@ clipboard = run, cmd.exe /c C:\Capture2Text\Capture2Text_CLI.exe --scale-factor 
 Return
 ^9::
 Return
-^0::
+^!+0::
 StartOver:
 gosub, closeVC
 sleep, 500
@@ -357,7 +387,7 @@ gosub, RerollVCbat
 sleep, 500
 gosub, RunVC
 sleep, 8000
-run, %a_scriptdir%\RerollPart1.exe
+run, %a_scriptdir%\RerollPart1 20 percent slower.exe
 settimer, CheckClipboard, 100
 Return
 
@@ -637,6 +667,16 @@ settimer, HeroQuestInner, 100
 Return
 HeroQuestInner:
 tt("HeroQuestInner")
+ImageSearch, OutputVarX, OutputVarY, 550-90, 455-90, 587+90, 529+90, *95 C:\Pictures\2021-07-08 17_58_28-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 569,492
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 140-25, 636-25, 187+25, 684+25, *80 %a_scriptdir%\Pictures\2021-06-12 07_13_43-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 settimer, HeroQuestInner, off 
@@ -1976,6 +2016,16 @@ gosub, CloseButton
 gosub, CharacterMinimize
 gosub, UnlockedFeatureOk
 gosub, HelTo4star
+ImageSearch, OutputVarX, OutputVarY, 799-90, 537-90, 614+90, 698+90, *95 C:\Pictures\2021-07-08 19_10_14-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 707,618
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 794-25, 535-25, 842+25, 572+25, *50 %a_scriptdir%\Pictures\2021-06-12 09_54_42-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -5239,3 +5289,225 @@ runningregister := 0
 run, %a_scriptdir%\RegsiterPart1.exe
 settimer, CheckClipboard, 300
 Return
+^n::
+a := clipboard 
+b = 10000
+c = 1
+;inputbox, num, Adjust by percent
+Loop, %b%
+{
+b--	
+StringReplace,a,a, Mouse : R%b%, mousemove`, %b%,All
+StringReplace,a,a, Mouse : %b%, mousemove`, %b%,All
+StringReplace,a,a, : R%b%, `,%b%,All
+stringreplace,a,a,DELAY : %b%,sleep`, %b%, All
+StringReplace,a,a, : %b% : L, `,%b% : L,All
+}
+stringreplace, a,a,  : LeftButtonUp : 0 : 0 : 0, `nclick up,All
+stringreplace, a,a,  : LeftButtonDown : 0 : 0 : 0, `nclick down,All
+stringreplace,a,a, Keyboard : A : KeyDown, send`, {a down},All
+stringreplace,a,a, Keyboard : A : KeyUp, send`, {a up},All
+stringreplace,a,a, Keyboard : B : KeyDown, send`, {b down},All
+stringreplace,a,a, Keyboard : B : KeyUp, send`, {b up},All
+stringreplace,a,a, Keyboard : C : KeyDown, send`, {c down},All
+stringreplace,a,a, Keyboard : C : KeyUp, send`, {c up},All
+stringreplace,a,a, Keyboard : D : KeyDown, send`, {d down},All
+stringreplace,a,a, Keyboard : D : KeyUp, send`, {d up},All
+stringreplace,a,a, Keyboard : E : KeyDown, send`, {e down},All
+stringreplace,a,a, Keyboard : E : KeyUp, send`, {e up},All
+stringreplace,a,a, Keyboard : F : KeyDown, send`, {f down},All
+stringreplace,a,a, Keyboard : F : KeyUp, send`, {f up},All
+stringreplace,a,a, Keyboard : G : KeyDown, send`, {g down},All
+stringreplace,a,a, Keyboard : G : KeyUp, send`, {g up},All
+stringreplace,a,a, Keyboard : H : KeyDown, send`, {h down},All
+stringreplace,a,a, Keyboard : H : KeyUp, send`, {h up},All
+stringreplace,a,a, Keyboard : I : KeyDown, send`, {i down},All
+stringreplace,a,a, Keyboard : I : KeyUp, send`, {i up},All
+stringreplace,a,a, Keyboard : J : KeyDown, send`, {j down},All
+stringreplace,a,a, Keyboard : J : KeyUp, send`, {j up},All
+stringreplace,a,a, Keyboard : K : KeyDown, send`, {k down},All
+stringreplace,a,a, Keyboard : K : KeyUp, send`, {k up},All
+stringreplace,a,a, Keyboard : L : KeyDown, send`, {l down},All
+stringreplace,a,a, Keyboard : L : KeyUp, send`, {l up},All
+stringreplace,a,a, Keyboard : M : KeyDown, send`, {m down},All
+stringreplace,a,a, Keyboard : M : KeyUp, send`, {m up},All
+stringreplace,a,a, Keyboard : N : KeyDown, send`, {n down},All
+stringreplace,a,a, Keyboard : N : KeyUp, send`, {n up},All
+stringreplace,a,a, Keyboard : O : KeyDown, send`, {o down},All
+stringreplace,a,a, Keyboard : O : KeyUp, send`, {o up},All
+stringreplace,a,a, Keyboard : P : KeyDown, send`, {p down},All
+stringreplace,a,a, Keyboard : P : KeyUp, send`, {p up},All
+stringreplace,a,a, Keyboard : Q : KeyDown, send`, {q down},All
+stringreplace,a,a, Keyboard : Q : KeyUp, send`, {q up},All
+stringreplace,a,a, Keyboard : R : KeyDown, send`, {r down},All
+stringreplace,a,a, Keyboard : R : KeyUp, send`, {r up},All
+stringreplace,a,a, Keyboard : S : KeyDown, send`, {s down},All
+stringreplace,a,a, Keyboard : S : KeyUp, send`, {s up},All
+stringreplace,a,a, Keyboard : T : KeyDown, send`, {t down},All
+stringreplace,a,a, Keyboard : T : KeyUp, send`, {t up},All
+stringreplace,a,a, Keyboard : U : KeyDown, send`, {u down},All
+stringreplace,a,a, Keyboard : U : KeyUp, send`, {u up},All
+stringreplace,a,a, Keyboard : V : KeyDown, send`, {v down},All
+stringreplace,a,a, Keyboard : V : KeyUp, send`, {v up},All
+stringreplace,a,a, Keyboard : W : KeyDown, send`, {w down},All
+stringreplace,a,a, Keyboard : W : KeyUp, send`, {w up},All
+stringreplace,a,a, Keyboard : X : KeyDown, send`, {x down},All
+stringreplace,a,a, Keyboard : X : KeyUp, send`, {x up},All
+stringreplace,a,a, Keyboard : Y : KeyDown, send`, {y down},All
+stringreplace,a,a, Keyboard : Y : KeyUp, send`, {y up},All
+stringreplace,a,a, Keyboard : Z : KeyDown, send`, {z down},All
+stringreplace,a,a, Keyboard : Z : KeyUp, send`, {z up},All
+stringreplace,a,a, Keyboard : ShiftLeft : KeyDown, send`, {shiftdown},All
+stringreplace,a,a, Keyboard : ShiftLeft : KeyUp, send`, {shiftup},All
+stringreplace,a,a, Keyboard : Enter : KeyDown, send`, {enter down},All
+stringreplace,a,a, Keyboard : Enter : KeyUp, send`, {enter up},All
+
+stringreplace,a,a, Keyboard : D0 : KeyDown, send`, {0 down},All
+stringreplace,a,a, Keyboard : D0 : KeyUp, send`, {0 up},All
+stringreplace,a,a, Keyboard : D1 : KeyDown, send`, {1 down},All
+stringreplace,a,a, Keyboard : D1 : KeyUp, send`, {1 up},All
+stringreplace,a,a, Keyboard : D2 : KeyDown, send`, {2 down},All
+stringreplace,a,a, Keyboard : D2 : KeyUp, send`, {2 up},All
+stringreplace,a,a, Keyboard : D3 : KeyDown, send`, {3 down},All
+stringreplace,a,a, Keyboard : D3 : KeyUp, send`, {3 up},All
+stringreplace,a,a, Keyboard : D4 : KeyDown, send`, {4 down},All
+stringreplace,a,a, Keyboard : D4 : KeyUp, send`, {4 up},All
+stringreplace,a,a, Keyboard : D5 : KeyDown, send`, {5 down},All
+stringreplace,a,a, Keyboard : D5 : KeyUp, send`, {5 up},All
+stringreplace,a,a, Keyboard : D6 : KeyDown, send`, {6 down},All
+stringreplace,a,a, Keyboard : D6 : KeyUp, send`, {6 up},All
+stringreplace,a,a, Keyboard : D7 : KeyDown, send`, {7 down},All
+stringreplace,a,a, Keyboard : D7 : KeyUp, send`, {7 up},All
+stringreplace,a,a, Keyboard : D8 : KeyDown, send`, {8 down},All
+stringreplace,a,a, Keyboard : D8 : KeyUp, send`, {8 up},All
+stringreplace,a,a, Keyboard : D9 : KeyDown, send`, {9 down},All
+stringreplace,a,a, Keyboard : D9 : KeyUp, send`, {9 up},All
+
+clipboard :=
+clipboard := a
+clipwait, 5
+tooltip, done
+Return
+send, {a down}
+SleepSleep(103)
+send, {a up}
+SleepSleep(163)
+send, {b down}
+SleepSleep(86)
+send, {b up}
+SleepSleep(161)
+send, {c down}
+SleepSleep(108)
+send, {c up}
+SleepSleep(159)
+send, {d down}
+SleepSleep(72)
+send, {d up}
+SleepSleep(149)
+send, {e down}
+SleepSleep(94)
+send, {e up}
+SleepSleep(120)
+send, {f down}
+SleepSleep(78)
+send, {f up}
+SleepSleep(142)
+send, {g down}
+SleepSleep(87)
+send, {g up}
+SleepSleep(96)
+send, {h down}
+SleepSleep(103)
+send, {h up}
+SleepSleep(51)
+send, {i down}
+SleepSleep(104)
+send, {i up}
+SleepSleep(94)
+send, {j down}
+SleepSleep(91)
+send, {j up}
+SleepSleep(57)
+send, {k down}
+SleepSleep(102)
+send, {k up}
+SleepSleep(53)
+send, {l down}
+SleepSleep(123)
+send, {l up}
+SleepSleep(121)
+send, {m down}
+SleepSleep(84)
+send, {m up}
+SleepSleep(136)
+send, {n down}
+SleepSleep(82)
+send, {n up}
+SleepSleep(144)
+send, {o down}
+SleepSleep(103)
+send, {o up}
+SleepSleep(185)
+send, {p down}
+SleepSleep(110)
+send, {p up}
+SleepSleep(362)
+send, {q down}
+SleepSleep(115)
+send, {q up}
+SleepSleep(65)
+send, {r down}
+SleepSleep(110)
+send, {r up}
+SleepSleep(150)
+send, {s down}
+SleepSleep(109)
+send, {s up}
+SleepSleep(104)
+send, {t down}
+SleepSleep(93)
+send, {t up}
+SleepSleep(142)
+send, {u down}
+SleepSleep(101)
+send, {u up}
+SleepSleep(34)
+send, {v down}
+SleepSleep(111)
+send, {v up}
+SleepSleep(161)
+send, {w down}
+SleepSleep(88)
+send, {w up}
+SleepSleep(202)
+send, {x down}
+SleepSleep(106)
+send, {x up}
+SleepSleep(123)
+send, {y down}
+SleepSleep(93)
+send, {y up}
+SleepSleep(99)
+send, {z down}
+SleepSleep(94)
+send, {z up}
+
+Return
+SleepSleep(time) {
+  /* WARNING: This function is CPU heavy.
+     WARNING: If you call it several times per second
+              you will get a noticeable CPU load increase.
+  */
+  static freq
+  , hQPC := DllCall("GetProcAddress", "Ptr", DllCall("GetModuleHandle", "Str", "kernel32", "Ptr"), "AStr", "QueryPerformanceCounter", "Ptr")
+  , _ := DllCall("QueryPerformanceFrequency", "Int64*", freq)
+
+  DllCall(hQPC, "Int64*", start)
+  if (time > 100)
+    Sleep % time - 60
+  Loop {
+    DllCall(hQPC, "Int64*", now)
+    if ( now - start >= ( time / 1000 ) * freq )
+      break
+  }
+}
