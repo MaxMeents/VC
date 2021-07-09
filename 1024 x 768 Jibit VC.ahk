@@ -89,6 +89,23 @@ WinActivate,  Discord.exe
 Return
 restartcommon3:
 gosub, ActivateVC
+ImageSearch, OutputVarX, OutputVarY, 357-90, 335-90, 410+90, 378+90, *95 C:\VC\Pictures\2021-07-09 16_48_49-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 516,475
+click down
+sleep, 60
+click up
+}
+sleep, 500
+mousemove, 84,58
+click down
+sleep, 60
+click up
+settimer, ConnectBattleRepat, off 
+settimer, GoToRukia,100
+}
 ImageSearch, OutputVarXX, OutputVarYY, 408-90, 455-90, 476+90, 491+90, *95 C:\VC\Pictures\2021-07-09 16_44_39-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
