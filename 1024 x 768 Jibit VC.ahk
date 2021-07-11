@@ -96,7 +96,17 @@ settimer, restartcommon3, off
 Return
 restartcommon3:
 gosub, ActivateVC
-ImageSearch, OutputVarX, OutputVarY, 357-90, 335-90, 410+90, 378+90, *95 C:\VC\Pictures\2021-07-09 16_48_49-Valkyrie Connect WW.png 
+ImageSearch, OutputVarXX, OutputVarYY, 485-90, 456-90, 539+90, 490+90, *95 C:\VC\Pictures\2021-07-10 19_53_51-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 512,473
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarXX, OutputVarYY, 357-90, 335-90, 410+90, 378+90, *95 C:\VC\Pictures\2021-07-09 16_48_49-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -113,7 +123,7 @@ click up
 settimer, ConnectBattleRepat, off 
 settimer, GoToRukia,100
 }
-ImageSearch, OutputVarXX, OutputVarYY, 408-90, 455-90, 476+90, 491+90, *95 C:\VC\Pictures\2021-07-09 16_44_39-Valkyrie Connect WW.png 
+ImageSearch, OutputVarXXX, OutputVarYYY, 408-90, 455-90, 476+90, 491+90, *95 C:\VC\Pictures\2021-07-09 16_44_39-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -123,7 +133,7 @@ sleep, 20
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 169-90, 682-90, 211+90, 710+90, *95 C:\VC\Pictures\2021-07-09 16_45_59-Valkyrie Connect WW.png 
+ImageSearch, OutputVarXX, OutputVarYY, 169-90, 682-90, 211+90, 710+90, *95 C:\VC\Pictures\2021-07-09 16_45_59-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
