@@ -6793,11 +6793,36 @@ SleepSleep(time) {
 ^8::
 RaidTimer:
 gui, destroy
+settimer, restartcommon3, off
 sleep, 4000
 settimer, Raid, 100
 Return
 Raid:
 gosub, PlayerLevelUp
+ImageSearch, OutputVarX, OutputVarY, 554-90, 451-90, 605+90, 489+90, *95 C:\VC\Pictures\2021-07-11 02_54_06-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 580,470
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 728-90, 576-90, 817+90, 604+90, *95 C:\VC\Pictures\2021-07-11 02_54_11-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 773,590
+click down
+sleep, 20
+click up
+}
+sleep, 500
+settimer, restartcommon3, 100
+sleep, 5000
+settimer, restartcommon3, off
+}
 ImageSearch, OutputVarX, OutputVarY, 409-90, 460-90, 476+90, 488+90, *95 C:\VC\Pictures\2021-07-11 02_43_14-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
