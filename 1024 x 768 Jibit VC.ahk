@@ -649,14 +649,29 @@ sleep, 20
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 368-90, 449-90, 401+90, 478+90, *95 C:\VC\Pictures\2021-07-09 12_35_05-Valkyrie Connect WW.png 
+ImageSearch, OutputVarX, OutputVarY, 895-90, 634-90, 979+90, 674+90, *95 C:\VC\Pictures\2021-07-10 23_34_40-Window.png 
 if(ErrorLevel == 0){
-Loop, 1
-{
-mousemove, 385,464
+if(ComputerID == "Foxtrot"){
+	mousemove, 514,590
+	click down
+	sleep, 60
+	click up
+}else{
+send, {wheelup 40}
+sleep, 4000
+send, {wheeldown 5}
+sleep, 400
+mousemove, 488,572
 click down
-sleep, 20
+sleep, 60
 click up
+sleep, 100
+mousemove, 488,572
+click down
+sleep, 60
+click up
+SetDefaultMouseSpeed, 0
+SetMouseDelay, -1
 }
 }
 ImageSearch, OutputVarX, OutputVarY, 816-150, 487-150, 444+150, 261+150, *95 C:\VC\Pictures\2021-07-09 12_35_13-Valkyrie Connect WW.png 
