@@ -2655,6 +2655,7 @@ gosub, ActivateVC
 settimer, plo, 100
 Return
 plo:
+tt("plo")
 ImageSearch, OutputVarX, OutputVarY, 88, 668, 957, 704, *50 %a_scriptdir%\Pictures\2021-06-12 07_48_11-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 5
@@ -2674,6 +2675,7 @@ sleep, 1000
 }
 Return
 ploinner:
+tt("ploinner")
 mousemove, 359,356
 click down
 sleep, 60
@@ -2713,6 +2715,7 @@ settimer, Promote, 100
 }
 Return
 orbsinner:
+tt("orbsinner")
 ImageSearch, OutputVarX, OutputVarY, 478-90, 431-90, 544+90, 474+90, *95 C:\VC\Pictures\2021-06-26 10_37_19-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -2793,6 +2796,7 @@ settimer, ToMaxLvL, 100
 }
 Return
 ToMaxLvL:
+tt("ToMaxLvL")
 ImageSearch, OutputVarX, OutputVarY, 164-25, 457-25, 204+25, 479+25, *30 %a_scriptdir%\Pictures\2021-06-12 07_58_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
@@ -2810,6 +2814,19 @@ settimer, Promote, 100
 }
 Return
 Promote:
+tt("Promote")
+ImageSearch, OutputVarX, OutputVarY, 661-90, 534-90, 760+90, 575+90, *95 C:\VC\Pictures\2021-07-10 20_14_09-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 711,555
+click down
+sleep, 20
+click up
+}
+settimer, Promote,off 
+settimer, orbsinner, 100
+}
 ImageSearch, OutputVarX, OutputVarY, 491-25, 545-25, 529+25, 574+25, *50 %a_scriptdir%\Pictures\2021-06-12 08_09_05-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
