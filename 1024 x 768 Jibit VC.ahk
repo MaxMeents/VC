@@ -2677,6 +2677,7 @@ gui, add, text,gGoSellAtBlacksmithTimer, Go Sell At At BlackSmith
 gui, add, text,gGoOpenBoxesTimer, Go Open Boxes
 gui, add, text,gPromoteLevelUpOrbs, Promote-Level Up-Orbs 
 gui, add, text,gHeroQuestInnerTimer, HeroQuestInner
+gui, add, text,gRaidTimer, Raid
 gui, show 
 Return
 FreeSummonAfterStartup:
@@ -6791,6 +6792,7 @@ SleepSleep(time) {
 }
 ^8::
 RaidTimer:
+sleep, 4000
 settimer, Raid, 100
 Return
 Raid:
