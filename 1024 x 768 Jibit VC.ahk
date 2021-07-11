@@ -6797,6 +6797,18 @@ gui, destroy
 settimer, Raid, 100
 Return
 Raid:
+ImageSearch, OutputVarX, OutputVarY, 519-90, 327-90, 585+90, 354+90, *95 C:\VC\Pictures\2021-07-11 02_41_57-Window.png 
+if(ErrorLevel == 0){
+mousemove, 535,488
+click down
+sleep, 60
+click up
+sleep, 900
+mousemove, 930,606
+click down
+sleep, 60
+click up
+}
 ImageSearch, OutputVarX, OutputVarY, 897-10, 456-10, 950+10, 508+10, *35 C:\VC\Pictures\2021-07-11 02_11_58-Window.png 
 if(ErrorLevel == 0){
 mousemove, 931,597
