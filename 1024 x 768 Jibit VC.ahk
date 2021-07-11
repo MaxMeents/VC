@@ -6794,14 +6794,14 @@ RaidTimer:
 settimer, Raid, 100
 Return
 Raid:
-ImageSearch, OutputVarX, OutputVarY, 897-90, 456-90, 950+90, 508+90, *95 C:\VC\Pictures\2021-07-11 02_11_58-Window.png 
+ImageSearch, OutputVarX, OutputVarY, 897-10, 456-10, 950+10, 508+10, *35 C:\VC\Pictures\2021-07-11 02_11_58-Window.png 
 if(ErrorLevel == 0){
 mousemove, 931,597
 click down
 sleep, 60
 click up
 }
-ImageSearch, OutputVarX, OutputVarY, 908-90, 452-90, 955+90, 492+90, *95 C:\VC\Pictures\2021-07-11 02_09_24-Window.png 
+ImageSearch, OutputVarX, OutputVarY, 908-90, 452-90, 955+90, 492+90, *45 C:\VC\Pictures\2021-07-11 02_09_24-Window.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -6811,7 +6811,7 @@ sleep, 20
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 750-90, 548-90, 881+90, 596+90, *95 C:\VC\Pictures\2021-07-11 02_09_29-Window.png 
+ImageSearch, OutputVarX, OutputVarY, 750-90, 548-90, 881+90, 596+90, *45 C:\VC\Pictures\2021-07-11 02_09_29-Window.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -6821,7 +6821,7 @@ sleep, 20
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 311-90, 555-90, 354+90, 596+90, *95 C:\VC\Pictures\2021-07-11 02_08_35-Window.png 
+ImageSearch, OutputVarX, OutputVarY, 311-90, 555-90, 354+90, 596+90, *45 C:\VC\Pictures\2021-07-11 02_08_35-Window.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -6830,8 +6830,9 @@ click down
 sleep, 20
 click up
 }
+sleep, 300
 }
-ImageSearch, OutputVarX, OutputVarY, 375-90, 306-90, 436+90, 369+90, *95 C:\VC\Pictures\2021-07-11 02_08_39-Window.png 
+ImageSearch, OutputVarX, OutputVarY, 375-90, 306-90, 436+90, 369+90, *45 C:\VC\Pictures\2021-07-11 02_08_39-Window.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -6841,7 +6842,7 @@ sleep, 20
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 790-90, 432-90, 858+90, 468+90, *95 C:\VC\Pictures\2021-07-11 02_08_43-Window.png 
+ImageSearch, OutputVarX, OutputVarY, 790-90, 432-90, 858+90, 468+90, *45 C:\VC\Pictures\2021-07-11 02_08_43-Window.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
@@ -6851,7 +6852,7 @@ sleep, 20
 click up
 }
 }
-ImageSearch, OutputVarX, OutputVarY, 845-90, 629-90, 908+90, 661+90, *95 C:\VC\Pictures\2021-07-11 02_08_47-Window.png 
+ImageSearch, OutputVarX, OutputVarY, 845-90, 629-90, 908+90, 661+90, *45 C:\VC\Pictures\2021-07-11 02_08_47-Window.png 
 if(ErrorLevel == 0){
 Loop, 1
 {
