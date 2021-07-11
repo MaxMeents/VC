@@ -6797,6 +6797,7 @@ sleep, 4000
 settimer, Raid, 100
 Return
 Raid:
+gosub, PlayerLevelUp
 ImageSearch, OutputVarX, OutputVarY, 409-90, 460-90, 476+90, 488+90, *95 C:\VC\Pictures\2021-07-11 02_43_14-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
