@@ -6862,4 +6862,34 @@ sleep, 20
 click up
 }
 }
+ImageSearch, OutputVarX, OutputVarY, 455-90, 229-90, 468+90, 247+90, *95 C:\VC\Pictures\2021-07-11 02_21_35-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 462,238
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 546-90, 453-90, 611+90, 483+90, *95 C:\VC\Pictures\2021-07-11 02_21_45-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 579,468
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 676-90, 189-90, 723+90, 233+90, *95 C:\VC\Pictures\2021-07-11 02_21_50-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 700,211
+click down
+sleep, 20
+click up
+}
+}
 Return
