@@ -544,6 +544,10 @@ settimer, GetStamina, off
 settimer, GoToRukia, 100
 }
 Return
+^o::
+GoToRukiaTimer:
+settimer, GoToRukia, 100
+Return
 GoToRukia:
 settimer, RestartCommon2, off
 RN++
@@ -675,6 +679,11 @@ mousemove, 99,62
 click down
 sleep, 60
 click up
+}
+ImageSearch, OutputVarX, OutputVarY, 919-90, 580-90, 964+90, 633+90, *95 C:\VC\Pictures\2021-07-10 19_50_35-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+settimer, GoToRukia, off
+settimer, ConnectBattleRepat, 800
 }
 Return
 RestartCommon2:
