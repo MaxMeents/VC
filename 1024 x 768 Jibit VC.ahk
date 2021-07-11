@@ -139,6 +139,75 @@ Return
 ^r::
 settimer, restartcommon3, off
 Return
+FlipCardsTimer:
+gui, destroy
+gosub, ActivateVC
+settimer, restartcommon3, off
+sleep, 4000
+settimer, FlipCards, 100
+Return
+FlipCards:
+ImageSearch, OutputVarX, OutputVarY, 558-90, 452-90, 603+90, 487+90, *95 C:\VC\Pictures\2021-07-11 18_23_38-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 581,470
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 490-90, 459-90, 531+90, 493+90, *95 C:\VC\Pictures\2021-07-11 18_23_45-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 511,476
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 693-90, 579-90, 746+90, 626+90, *95 C:\VC\Pictures\2021-07-11 18_22_08-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 720,603
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 485-90, 537-90, 539+90, 566+90, *95 C:\VC\Pictures\2021-07-11 18_22_20-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 512,552
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 640-90, 563-90, 683+90, 605+90, *95 C:\VC\Pictures\2021-07-11 18_22_26-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 662,584
+click down
+sleep, 20
+click up
+}
+}
+ImageSearch, OutputVarX, OutputVarY, 560-90, 456-90, 603+90, 484+90, *95 C:\VC\Pictures\2021-07-11 18_22_34-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 582,470
+click down
+sleep, 20
+click up
+}
+}
+Return
 restartcommon3:
 gosub, ActivateVC
 ImageSearch, OutputVarX, OutputVarY, 209-90, 684-90, 277+90, 708+90, *95 C:\VC\Pictures\2021-07-11 04_17_27-Window.png 
@@ -2748,6 +2817,7 @@ gui, add, text,gGoOpenBoxesTimer, Go Open Boxes
 gui, add, text,gPromoteLevelUpOrbs, Promote-Level Up-Orbs 
 gui, add, text,gHeroQuestInnerTimer, HeroQuestInner
 gui, add, text,gRaidTimer, Raid
+gui, add, text,gFlipCardsTimer, Flip Cards
 gui, show 
 Return
 FreeSummonAfterStartup:
