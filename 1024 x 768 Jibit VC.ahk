@@ -68,6 +68,51 @@ global s := 0
 settimer, CheckClipboard, 500
 ;settimer, Verify, 2500
 settimer, counter, 1000
+Return
+TurnOffAllTimers:
+settimer, restartcommon3, off
+settimer, ConnectBattleRepat, off
+settimer, GoSellAtBlacksmith, off
+settimer, AtBlackSmith, off
+settimer, GoOpenBoxes, off
+settimer, OpenBoxes2, off
+settimer, GetStamina, off
+settimer, RestartCommon2, off
+settimer, GoToRukia, off
+settimer, CheckClipboard, off
+settimer, HeroQuest, off
+settimer, HeroQuestSelectLock, off
+settimer, HeroQuestInner, off
+settimer, Questions, off
+settimer, CheckForSoul, off
+settimer, ConnectHostUntilSoul, off
+settimer, ExitToNextBattle, off
+settimer, ConnectToHostGame, off
+settimer, ConnectedToHostGame, off
+settimer, plo, off
+settimer, orbsinner, off
+settimer, ToMaxLvL, off
+settimer, Promote,off
+settimer, Promote, off
+settimer, JoinBattleThenCheatEngine, off
+settimer, NewGameTimer, off
+settimer, NewGamePart2, off
+settimer, CollectDiamonds, off
+settimer, SummonSkuld, off
+settimer, CollectMission, off
+settimer, CollectMission2, off
+settimer, GoToHero, off
+settimer, GoSummonNow, off
+settimer, OpenBoxes, off
+settimer, GetReadyForATeam, off
+settimer, Register, off
+settimer, Ateam, off
+settimer, GoToTakePictures, off
+settimer, ConnectAllSelect, off
+settimer, VerifyCounter, off
+settimer, arena, off
+settimer, innerarena, off
+Return
 counter:
 s++
 Return
@@ -96,6 +141,19 @@ settimer, restartcommon3, off
 Return
 restartcommon3:
 gosub, ActivateVC
+ImageSearch, OutputVarX, OutputVarY, 347-90, 409-90, 487+90, 456+90, *95 C:\VC\Pictures\2021-07-11 04_07_24-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 417,433
+click down
+sleep, 20
+click up
+}
+gosub, TurnOffAllTimers
+settimer, restartcommon3, 4000
+settimer, AtBlackSmith, 100
+}
 ImageSearch, OutputVarX, OutputVarY, 190-90, 116-90, 222+90, 147+90, *95 C:\VC\Pictures\2021-07-11 00_12_34-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
