@@ -6792,8 +6792,8 @@ SleepSleep(time) {
 }
 ^8::
 RaidTimer:
-sleep, 4000
 gui, destroy
+sleep, 4000
 settimer, Raid, 100
 Return
 Raid:
