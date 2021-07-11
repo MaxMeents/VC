@@ -2812,6 +2812,16 @@ settimer, ToMaxLvL, 100
 Return
 ToMaxLvL:
 tt("ToMaxLvL")
+ImageSearch, OutputVarX, OutputVarY, 487-90, 544-90, 538+90, 571+90, *95 C:\VC\Pictures\2021-07-10 22_26_44-Window.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 513,558
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 164-25, 457-25, 204+25, 479+25, *30 %a_scriptdir%\Pictures\2021-06-12 07_58_54-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
