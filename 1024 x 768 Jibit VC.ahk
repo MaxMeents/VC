@@ -6797,6 +6797,16 @@ gui, destroy
 settimer, Raid, 100
 Return
 Raid:
+ImageSearch, OutputVarX, OutputVarY, 409-90, 460-90, 476+90, 488+90, *95 C:\VC\Pictures\2021-07-11 02_43_14-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 443,474
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 519-90, 327-90, 585+90, 354+90, *95 C:\VC\Pictures\2021-07-11 02_41_57-Window.png 
 if(ErrorLevel == 0){
 mousemove, 535,488
