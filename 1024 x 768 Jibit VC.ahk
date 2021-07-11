@@ -96,6 +96,16 @@ settimer, restartcommon3, off
 Return
 restartcommon3:
 gosub, ActivateVC
+ImageSearch, OutputVarX, OutputVarY, 190-90, 116-90, 222+90, 147+90, *95 C:\VC\Pictures\2021-07-11 00_12_34-Valkyrie Connect WW.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 206,132
+click down
+sleep, 20
+click up
+}
+}
 ImageSearch, OutputVarX, OutputVarY, 126-90, 121-90, 152+90, 149+90, *95 C:\VC\Pictures\2021-07-11 00_10_48-Valkyrie Connect WW.png 
 if(ErrorLevel == 0){
 Loop, 1
