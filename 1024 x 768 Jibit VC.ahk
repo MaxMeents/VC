@@ -2790,6 +2790,11 @@ Return
 
 #m::
 XButton1::
+Loop{
+	click
+	sleep, 2
+}
+Return
 Gui, -Caption +AlwaysOnTop
 Gui, Font, s8
 Gui, Font, c4287f5
