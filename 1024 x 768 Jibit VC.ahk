@@ -1,4 +1,6851 @@
-﻿
+﻿sleep(135,"p")
+mousemove, 1003 ,280 
+sleep(5,"p")
+mousemove, 1003 ,281 
+mousemove, 1002 ,281 
+sleep(4,"p")
+mousemove, 1001 ,282 
+sleep(2,"p")
+mousemove, 1000 ,282 
+sleep(2,"p")
+mousemove, 1000 ,283 
+mousemove, 999 ,283 
+sleep(2,"p")
+mousemove, 998 ,284 
+sleep(2,"p")
+mousemove, 997 ,284 
+mousemove, 996 ,285 
+sleep(3,"p")
+mousemove, 995 ,286 
+mousemove, 994 ,286 
+mousemove, 994 ,287 
+sleep(2,"p")
+mousemove, 993 ,287 
+mousemove, 992 ,287 
+mousemove, 992 ,288 
+mousemove, 991 ,289 
+mousemove, 990 ,289 
+mousemove, 989 ,290 
+sleep(2,"p")
+mousemove, 988 ,291 
+sleep(3,"p")
+mousemove, 987 ,291 
+mousemove, 986 ,292 
+sleep(2,"p")
+mousemove, 985 ,293 
+mousemove, 984 ,294 
+sleep(2,"p")
+mousemove, 983 ,295 
+mousemove, 981 ,296 
+sleep(2,"p")
+mousemove, 980 ,296 
+mousemove, 979 ,297 
+mousemove, 978 ,298 
+mousemove, 977 ,299 
+mousemove, 977 ,300 
+mousemove, 976 ,300 
+mousemove, 975 ,301 
+mousemove, 974 ,302 
+sleep(2,"p")
+mousemove, 972 ,303 
+sleep(2,"p")
+mousemove, 971 ,304 
+mousemove, 969 ,305 
+sleep(2,"p")
+mousemove, 968 ,307 
+mousemove, 967 ,308 
+mousemove, 966 ,309 
+mousemove, 965 ,310 
+sleep(2,"p")
+mousemove, 964 ,311 
+mousemove, 963 ,312 
+mousemove, 962 ,313 
+mousemove, 961 ,313 
+mousemove, 960 ,315 
+mousemove, 959 ,316 
+mousemove, 957 ,318 
+sleep(2,"p")
+mousemove, 956 ,319 
+mousemove, 955 ,320 
+sleep(2,"p")
+mousemove, 953 ,322 
+sleep(2,"p")
+mousemove, 951 ,324 
+mousemove, 950 ,325 
+mousemove, 949 ,326 
+mousemove, 948 ,327 
+mousemove, 947 ,329 
+mousemove, 946 ,330 
+mousemove, 945 ,331 
+mousemove, 944 ,332 
+mousemove, 943 ,333 
+mousemove, 942 ,334 
+sleep(3,"p")
+mousemove, 939 ,338 
+sleep(2,"p")
+mousemove, 937 ,341 
+mousemove, 936 ,342 
+mousemove, 935 ,343 
+mousemove, 934 ,345 
+mousemove, 933 ,346 
+mousemove, 932 ,347 
+mousemove, 931 ,348 
+mousemove, 930 ,350 
+mousemove, 929 ,351 
+mousemove, 928 ,353 
+mousemove, 927 ,355 
+mousemove, 926 ,356 
+mousemove, 925 ,358 
+sleep(2,"p")
+mousemove, 923 ,360 
+sleep(2,"p")
+mousemove, 922 ,362 
+mousemove, 921 ,363 
+mousemove, 919 ,367 
+mousemove, 918 ,368 
+mousemove, 917 ,370 
+sleep(2,"p")
+mousemove, 916 ,372 
+mousemove, 915 ,374 
+mousemove, 914 ,376 
+mousemove, 912 ,379 
+mousemove, 911 ,380 
+mousemove, 910 ,382 
+mousemove, 910 ,383 
+mousemove, 909 ,385 
+mousemove, 908 ,387 
+sleep(2,"p")
+mousemove, 906 ,390 
+sleep(2,"p")
+mousemove, 905 ,393 
+sleep(2,"p")
+mousemove, 904 ,395 
+mousemove, 903 ,397 
+mousemove, 902 ,398 
+mousemove, 902 ,400 
+sleep(2,"p")
+mousemove, 901 ,401 
+mousemove, 900 ,403 
+mousemove, 900 ,404 
+mousemove, 899 ,406 
+mousemove, 898 ,408 
+sleep(2,"p")
+mousemove, 897 ,411 
+mousemove, 896 ,413 
+sleep(4,"p")
+mousemove, 894 ,420 
+mousemove, 893 ,421 
+sleep(2,"p")
+mousemove, 892 ,425 
+mousemove, 892 ,426 
+mousemove, 891 ,428 
+mousemove, 891 ,430 
+mousemove, 890 ,432 
+mousemove, 890 ,434 
+mousemove, 890 ,436 
+mousemove, 889 ,439 
+sleep(2,"p")
+mousemove, 888 ,441 
+sleep(3,"p")
+mousemove, 888 ,447 
+sleep(2,"p")
+mousemove, 887 ,449 
+mousemove, 886 ,454 
+sleep(2,"p")
+mousemove, 886 ,456 
+mousemove, 886 ,459 
+mousemove, 886 ,461 
+mousemove, 885 ,463 
+mousemove, 885 ,465 
+mousemove, 885 ,468 
+mousemove, 885 ,470 
+sleep(2,"p")
+mousemove, 885 ,472 
+mousemove, 884 ,475 
+mousemove, 884 ,477 
+sleep(2,"p")
+mousemove, 884 ,482 
+sleep(2,"p")
+mousemove, 883 ,487 
+sleep(2,"p")
+mousemove, 883 ,492 
+sleep(2,"p")
+mousemove, 883 ,495 
+mousemove, 883 ,501 
+mousemove, 883 ,503 
+mousemove, 883 ,506 
+mousemove, 883 ,508 
+mousemove, 883 ,510 
+mousemove, 883 ,512 
+sleep(2,"p")
+mousemove, 883 ,515 
+mousemove, 883 ,520 
+mousemove, 883 ,523 
+mousemove, 883 ,525 
+sleep(3,"p")
+mousemove, 883 ,532 
+mousemove, 883 ,534 
+mousemove, 883 ,536 
+sleep(2,"p")
+mousemove, 883 ,540 
+mousemove, 883 ,542 
+mousemove, 883 ,544 
+mousemove, 883 ,546 
+sleep(2,"p")
+mousemove, 884 ,549 
+mousemove, 884 ,550 
+sleep(2,"p")
+mousemove, 884 ,551 
+mousemove, 884 ,554 
+sleep(2,"p")
+mousemove, 884 ,555 
+mousemove, 885 ,556 
+mousemove, 885 ,557 
+mousemove, 885 ,558 
+mousemove, 886 ,560 
+mousemove, 886 ,561 
+mousemove, 886 ,562 
+sleep(2,"p")
+mousemove, 886 ,563 
+mousemove, 887 ,564 
+sleep(2,"p")
+mousemove, 887 ,565 
+sleep(2,"p")
+mousemove, 887 ,566 
+sleep(2,"p")
+mousemove, 887 ,567 
+mousemove, 888 ,568 
+sleep(2,"p")
+mousemove, 888 ,569 
+sleep(6,"p")
+mousemove, 888 ,570 
+sleep(2,"p")
+mousemove, 889 ,570 
+mousemove, 889 ,571 
+sleep(5,"p")
+mousemove, 889 ,572 
+mousemove, 890 ,572 
+sleep(3,"p")
+mousemove, 890 ,573 
+sleep(5,"p")
+mousemove, 890 ,574 
+sleep(2,"p")
+mousemove, 891 ,574 
+mousemove, 891 ,575 
+sleep(2,"p")
+mousemove, 892 ,575 
+mousemove, 892 ,576 
+sleep(5,"p")
+mousemove, 892 ,577 
+sleep(3,"p")
+mousemove, 893 ,577 
+mousemove, 893 ,578 
+sleep(1091,"p")
+send, {Lctrl down}
+sleep(328,"p")
+send, {n down}
+sleep(102,"p")
+send, {n up}
+sleep(19,"p")
+send, {Lctrl up}
+sleep(913,"p")
+send, {t down}
+sleep(120,"p")
+send, {t up}
+sleep(72,"p")
+send, {e down}
+sleep(147,"p")
+send, {s down}
+sleep(69,"p")
+send, {e up}
+sleep(37,"p")
+send, {t down}
+sleep(42,"p")
+send, {s up}
+sleep(84,"p")
+send, {t up}
+sleep(977,"p")
+send, {space down}
+sleep(75,"p")
+send, {space up}
+sleep(574,"p")
+send, {enter down}
+sleep(103,"p")
+send, {enter up}
+sleep(1391,"p")
+mousemove, 893 ,578 
+send
+sleep(19,"p")
+mousemove, 893 ,578 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 893 ,578 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 893 ,578 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 893 ,578 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 893 ,578 , Wheel , -1 , 0 , 0
+sleep(6,"p")
+mousemove, 893 ,579 
+sleep(2,"p")
+mousemove, 893 ,579 , Wheel , -1 , 0 , 0
+sleep(2,"p")
+mousemove, 894 ,579 
+sleep(3,"p")
+mousemove, 894 ,580 
+mousemove, 895 ,580 
+mousemove, 896 ,581 
+mousemove, 896 ,581 , Wheel , -1 , 0 , 0
+mousemove, 897 ,582 
+sleep(3,"p")
+mousemove, 898 ,582 
+mousemove, 898 ,583 
+mousemove, 899 ,583 
+sleep(2,"p")
+mousemove, 900 ,584 
+sleep(2,"p")
+mousemove, 901 ,585 
+mousemove, 901 ,585 , Wheel , -1 , 0 , 0
+mousemove, 902 ,585 
+mousemove, 902 ,586 
+mousemove, 903 ,586 
+mousemove, 904 ,586 
+mousemove, 904 ,587 
+mousemove, 905 ,587 
+mousemove, 906 ,587 
+mousemove, 906 ,588 
+mousemove, 906 ,588 , Wheel , -1 , 0 , 0
+mousemove, 907 ,589 
+sleep(2,"p")
+mousemove, 908 ,589 
+mousemove, 908 ,590 
+mousemove, 909 ,590 
+sleep(2,"p")
+mousemove, 909 ,591 
+mousemove, 909 ,591 , Wheel , -1 , 0 , 0
+mousemove, 910 ,591 
+mousemove, 910 ,592 
+mousemove, 911 ,592 
+sleep(2,"p")
+mousemove, 911 ,593 
+sleep(6,"p")
+mousemove, 912 ,594 
+mousemove, 912 ,594 , Wheel , -1 , 0 , 0
+sleep(3,"p")
+mousemove, 912 ,595 
+sleep(5,"p")
+mousemove, 912 ,596 
+sleep(2,"p")
+mousemove, 913 ,596 
+sleep(2,"p")
+mousemove, 913 ,596 , Wheel , -1 , 0 , 0
+sleep(3,"p")
+mousemove, 913 ,597 
+sleep(4,"p")
+mousemove, 913 ,597 , Wheel , -1 , 0 , 0
+sleep(3,"p")
+mousemove, 913 ,598 
+sleep(6,"p")
+mousemove, 913 ,598 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 913 ,598 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 913 ,598 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 913 ,598 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 913 ,598 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 913 ,599 
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(9,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(11,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(9,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(9,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(8,"p")
+mousemove, 913 ,599 , Wheel , -1 , 0 , 0
+sleep(233,"p")
+mousemove, 913 ,600 
+sleep(318,"p")
+mousemove, 912 ,600 
+sleep(3,"p")
+mousemove, 911 ,601 
+sleep(2,"p")
+mousemove, 910 ,601 
+mousemove, 909 ,601 
+sleep(2,"p")
+mousemove, 908 ,602 
+mousemove, 907 ,602 
+mousemove, 906 ,603 
+mousemove, 905 ,603 
+mousemove, 904 ,604 
+mousemove, 903 ,604 
+mousemove, 902 ,605 
+sleep(2,"p")
+mousemove, 901 ,605 
+mousemove, 900 ,606 
+mousemove, 899 ,606 
+mousemove, 898 ,607 
+sleep(4,"p")
+mousemove, 894 ,608 
+sleep(5,"p")
+mousemove, 888 ,610 
+sleep(4,"p")
+mousemove, 883 ,611 
+sleep(7,"p")
+mousemove, 878 ,612 
+sleep(10,"p")
+mousemove, 862 ,615 
+sleep(7,"p")
+mousemove, 852 ,617 
+sleep(8,"p")
+mousemove, 832 ,620 
+sleep(7,"p")
+mousemove, 817 ,622 
+sleep(13,"p")
+mousemove, 788 ,625 
+sleep(11,"p")
+mousemove, 763 ,626 
+mousemove, 757 ,626 
+sleep(2,"p")
+mousemove, 755 ,626 
+mousemove, 751 ,626 
+sleep(2,"p")
+mousemove, 749 ,626 
+mousemove, 745 ,626 
+sleep(3,"p")
+mousemove, 740 ,626 
+sleep(3,"p")
+mousemove, 735 ,626 
+sleep(3,"p")
+mousemove, 726 ,626 
+mousemove, 724 ,626 
+sleep(2,"p")
+mousemove, 718 ,626 
+mousemove, 716 ,625 
+sleep(2,"p")
+mousemove, 714 ,625 
+mousemove, 711 ,625 
+mousemove, 710 ,625 
+sleep(4,"p")
+mousemove, 704 ,625 
+sleep(2,"p")
+mousemove, 703 ,624 
+sleep(2,"p")
+mousemove, 696 ,623 
+sleep(2,"p")
+mousemove, 693 ,622 
+mousemove, 689 ,621 
+mousemove, 687 ,621 
+sleep(2,"p")
+mousemove, 685 ,620 
+mousemove, 683 ,619 
+sleep(2,"p")
+mousemove, 680 ,618 
+sleep(2,"p")
+mousemove, 677 ,617 
+sleep(3,"p")
+mousemove, 671 ,615 
+sleep(2,"p")
+mousemove, 666 ,613 
+mousemove, 664 ,613 
+mousemove, 663 ,612 
+mousemove, 661 ,612 
+sleep(2,"p")
+mousemove, 658 ,611 
+sleep(2,"p")
+mousemove, 656 ,611 
+mousemove, 655 ,611 
+sleep(3,"p")
+mousemove, 653 ,610 
+sleep(3,"p")
+mousemove, 651 ,610 
+sleep(8,"p")
+mousemove, 645 ,610 
+sleep(9,"p")
+mousemove, 643 ,610 
+sleep(6,"p")
+mousemove, 640 ,610 
+sleep(10,"p")
+mousemove, 636 ,611 
+sleep(3,"p")
+mousemove, 635 ,612 
+mousemove, 634 ,612 
+sleep(2,"p")
+mousemove, 633 ,612 
+sleep(2,"p")
+mousemove, 632 ,613 
+mousemove, 631 ,613 
+sleep(2,"p")
+mousemove, 630 ,613 
+mousemove, 629 ,613 
+sleep(2,"p")
+mousemove, 628 ,613 
+sleep(2,"p")
+mousemove, 627 ,614 
+sleep(2,"p")
+mousemove, 626 ,614 
+mousemove, 624 ,614 
+sleep(2,"p")
+mousemove, 622 ,615 
+sleep(2,"p")
+mousemove, 621 ,615 
+sleep(2,"p")
+mousemove, 620 ,615 
+mousemove, 619 ,615 
+mousemove, 618 ,615 
+mousemove, 617 ,615 
+sleep(2,"p")
+mousemove, 616 ,615 
+mousemove, 615 ,616 
+mousemove, 613 ,616 
+sleep(2,"p")
+mousemove, 612 ,616 
+mousemove, 611 ,616 
+mousemove, 610 ,617 
+mousemove, 609 ,617 
+mousemove, 607 ,617 
+sleep(2,"p")
+mousemove, 606 ,617 
+mousemove, 605 ,617 
+mousemove, 604 ,617 
+sleep(2,"p")
+mousemove, 603 ,617 
+mousemove, 602 ,617 
+sleep(3,"p")
+mousemove, 601 ,617 
+mousemove, 600 ,617 
+sleep(2,"p")
+mousemove, 599 ,618 
+mousemove, 598 ,618 
+mousemove, 597 ,618 
+sleep(3,"p")
+mousemove, 596 ,618 
+mousemove, 595 ,618 
+sleep(3,"p")
+mousemove, 594 ,618 
+mousemove, 593 ,618 
+mousemove, 592 ,618 
+sleep(2,"p")
+mousemove, 591 ,618 
+sleep(2,"p")
+mousemove, 590 ,618 
+sleep(2,"p")
+mousemove, 589 ,618 
+mousemove, 588 ,618 
+sleep(3,"p")
+mousemove, 587 ,618 
+mousemove, 586 ,618 
+sleep(3,"p")
+mousemove, 585 ,618 
+sleep(7,"p")
+mousemove, 584 ,618 
+sleep(89,"p")
+mousemove, 583 ,618 
+sleep(6,"p")
+mousemove, 582 ,618 
+sleep(3,"p")
+mousemove, 581 ,618 
+sleep(3,"p")
+mousemove, 580 ,618 
+sleep(3,"p")
+mousemove, 579 ,618 
+sleep(3,"p")
+mousemove, 578 ,618 
+sleep(2,"p")
+mousemove, 577 ,618 
+sleep(3,"p")
+mousemove, 576 ,618 
+sleep(2,"p")
+mousemove, 575 ,618 
+mousemove, 574 ,618 
+sleep(2,"p")
+mousemove, 573 ,618 
+sleep(2,"p")
+mousemove, 572 ,619 
+sleep(3,"p")
+mousemove, 571 ,619 
+sleep(2,"p")
+mousemove, 570 ,619 
+sleep(3,"p")
+mousemove, 569 ,619 
+sleep(2,"p")
+mousemove, 568 ,619 
+sleep(3,"p")
+mousemove, 567 ,619 
+sleep(4,"p")
+mousemove, 566 ,619 
+sleep(3,"p")
+mousemove, 565 ,619 
+sleep(2,"p")
+mousemove, 564 ,619 
+sleep(2,"p")
+mousemove, 563 ,619 
+sleep(2,"p")
+mousemove, 562 ,619 
+sleep(2,"p")
+mousemove, 561 ,619 
+mousemove, 560 ,619 
+mousemove, 559 ,619 
+sleep(2,"p")
+mousemove, 558 ,619 
+sleep(2,"p")
+mousemove, 557 ,619 
+sleep(2,"p")
+mousemove, 556 ,619 
+mousemove, 555 ,619 
+mousemove, 553 ,619 
+sleep(2,"p")
+mousemove, 552 ,619 
+sleep(2,"p")
+mousemove, 551 ,619 
+mousemove, 550 ,619 
+mousemove, 549 ,619 
+mousemove, 547 ,619 
+mousemove, 546 ,619 
+mousemove, 545 ,618 
+sleep(2,"p")
+mousemove, 544 ,618 
+mousemove, 542 ,618 
+mousemove, 541 ,618 
+sleep(2,"p")
+mousemove, 540 ,618 
+sleep(3,"p")
+mousemove, 537 ,617 
+mousemove, 536 ,617 
+mousemove, 534 ,617 
+mousemove, 533 ,617 
+sleep(3,"p")
+mousemove, 531 ,616 
+mousemove, 530 ,616 
+mousemove, 529 ,616 
+mousemove, 528 ,616 
+mousemove, 527 ,615 
+mousemove, 526 ,615 
+mousemove, 525 ,615 
+mousemove, 524 ,615 
+mousemove, 523 ,615 
+mousemove, 522 ,614 
+mousemove, 521 ,614 
+mousemove, 520 ,614 
+mousemove, 519 ,614 
+sleep(2,"p")
+mousemove, 518 ,613 
+mousemove, 516 ,613 
+sleep(2,"p")
+mousemove, 515 ,613 
+mousemove, 514 ,612 
+sleep(2,"p")
+mousemove, 513 ,612 
+mousemove, 512 ,611 
+sleep(3,"p")
+mousemove, 511 ,611 
+sleep(2,"p")
+mousemove, 510 ,610 
+sleep(2,"p")
+mousemove, 509 ,610 
+sleep(3,"p")
+mousemove, 508 ,610 
+mousemove, 508 ,609 
+mousemove, 507 ,609 
+sleep(3,"p")
+mousemove, 507 ,608 
+sleep(6,"p")
+mousemove, 506 ,608 
+mousemove, 506 ,607 
+sleep(2,"p")
+mousemove, 506 ,606 
+mousemove, 505 ,606 
+mousemove, 505 ,605 
+mousemove, 504 ,604 
+sleep(3,"p")
+mousemove, 504 ,603 
+mousemove, 503 ,602 
+mousemove, 503 ,601 
+sleep(2,"p")
+mousemove, 502 ,600 
+mousemove, 502 ,599 
+sleep(2,"p")
+mousemove, 502 ,598 
+mousemove, 501 ,598 
+sleep(2,"p")
+mousemove, 501 ,597 
+mousemove, 500 ,596 
+sleep(4,"p")
+mousemove, 499 ,595 
+sleep(2,"p")
+mousemove, 499 ,594 
+sleep(3,"p")
+mousemove, 499 ,593 
+mousemove, 498 ,593 
+mousemove, 498 ,592 
+mousemove, 497 ,592 
+sleep(4,"p")
+mousemove, 497 ,591 
+sleep(2,"p")
+mousemove, 496 ,590 
+sleep(4,"p")
+mousemove, 496 ,589 
+mousemove, 495 ,589 
+sleep(2,"p")
+mousemove, 495 ,588 
+mousemove, 494 ,588 
+sleep(2,"p")
+mousemove, 494 ,587 
+sleep(2,"p")
+mousemove, 493 ,587 
+sleep(3,"p")
+mousemove, 493 ,586 
+mousemove, 492 ,586 
+sleep(2,"p")
+mousemove, 492 ,585 
+mousemove, 491 ,585 
+sleep(4,"p")
+mousemove, 490 ,584 
+sleep(5,"p")
+mousemove, 489 ,584 
+sleep(2,"p")
+mousemove, 489 ,583 
+sleep(2,"p")
+mousemove, 488 ,583 
+sleep(4,"p")
+mousemove, 487 ,583 
+sleep(4,"p")
+mousemove, 487 ,582 
+sleep(6,"p")
+mousemove, 486 ,582 
+sleep(42,"p")
+mousemove, 485 ,582 
+sleep(7,"p")
+mousemove, 485 ,581 
+sleep(4,"p")
+mousemove, 484 ,581 
+mousemove, 484 ,580 
+sleep(2,"p")
+mousemove, 483 ,580 
+sleep(3,"p")
+mousemove, 482 ,579 
+sleep(2,"p")
+mousemove, 481 ,579 
+mousemove, 481 ,578 
+sleep(2,"p")
+mousemove, 480 ,578 
+mousemove, 480 ,577 
+mousemove, 479 ,577 
+sleep(2,"p")
+mousemove, 478 ,576 
+mousemove, 478 ,575 
+mousemove, 477 ,575 
+sleep(2,"p")
+mousemove, 476 ,575 
+mousemove, 475 ,574 
+mousemove, 474 ,573 
+mousemove, 473 ,572 
+mousemove, 473 ,571 
+mousemove, 472 ,570 
+mousemove, 471 ,570 
+mousemove, 470 ,568 
+mousemove, 469 ,568 
+mousemove, 468 ,567 
+sleep(2,"p")
+mousemove, 467 ,566 
+mousemove, 466 ,565 
+mousemove, 465 ,564 
+mousemove, 464 ,563 
+mousemove, 463 ,562 
+mousemove, 463 ,561 
+mousemove, 462 ,560 
+mousemove, 461 ,560 
+sleep(2,"p")
+mousemove, 460 ,559 
+mousemove, 458 ,558 
+mousemove, 458 ,557 
+mousemove, 457 ,557 
+mousemove, 457 ,556 
+mousemove, 456 ,556 
+mousemove, 456 ,555 
+mousemove, 455 ,555 
+mousemove, 455 ,554 
+sleep(3,"p")
+mousemove, 454 ,554 
+mousemove, 454 ,553 
+sleep(3,"p")
+mousemove, 453 ,553 
+sleep(2,"p")
+mousemove, 453 ,552 
+sleep(9,"p")
+mousemove, 453 ,551 
+sleep(5,"p")
+mousemove, 452 ,551 
+sleep(3,"p")
+mousemove, 452 ,550 
+sleep(4,"p")
+mousemove, 452 ,549 
+sleep(4,"p")
+mousemove, 451 ,548 
+sleep(4,"p")
+mousemove, 451 ,547 
+sleep(6,"p")
+mousemove, 450 ,546 
+sleep(6,"p")
+mousemove, 450 ,545 
+sleep(4,"p")
+mousemove, 449 ,545 
+sleep(4,"p")
+mousemove, 449 ,544 
+sleep(18,"p")
+mousemove, 449 ,543 
+sleep(16,"p")
+mousemove, 449 ,542 
+sleep(3,"p")
+mousemove, 449 ,541 
+sleep(2,"p")
+mousemove, 449 ,540 
+sleep(2,"p")
+mousemove, 449 ,539 
+sleep(2,"p")
+mousemove, 449 ,538 
+mousemove, 449 ,537 
+sleep(3,"p")
+mousemove, 450 ,536 
+mousemove, 450 ,535 
+sleep(4,"p")
+mousemove, 450 ,534 
+mousemove, 450 ,533 
+sleep(2,"p")
+mousemove, 450 ,532 
+mousemove, 451 ,532 
+sleep(2,"p")
+mousemove, 451 ,531 
+sleep(3,"p")
+mousemove, 451 ,530 
+sleep(4,"p")
+mousemove, 451 ,529 
+sleep(2,"p")
+mousemove, 452 ,529 
+mousemove, 452 ,528 
+sleep(5,"p")
+mousemove, 452 ,527 
+sleep(3,"p")
+mousemove, 452 ,526 
+mousemove, 453 ,526 
+sleep(6,"p")
+mousemove, 453 ,525 
+sleep(9,"p")
+mousemove, 453 ,524 
+sleep(182,"p")
+mousemove, 453 ,524 
+click down
+sleep(88,"p")
+mousemove, 453 ,524 
+click up
+sleep(493,"p")
+mousemove, 453 ,525 
+sleep(54,"p")
+mousemove, 453 ,526 
+sleep(7,"p")
+mousemove, 454 ,526 
+sleep(3,"p")
+mousemove, 454 ,527 
+sleep(3,"p")
+mousemove, 455 ,527 
+sleep(4,"p")
+mousemove, 456 ,528 
+sleep(4,"p")
+mousemove, 457 ,529 
+sleep(2,"p")
+mousemove, 458 ,529 
+sleep(2,"p")
+mousemove, 458 ,530 
+sleep(2,"p")
+mousemove, 459 ,530 
+mousemove, 460 ,530 
+sleep(2,"p")
+mousemove, 461 ,531 
+mousemove, 461 ,532 
+mousemove, 462 ,532 
+mousemove, 463 ,532 
+sleep(2,"p")
+mousemove, 464 ,532 
+mousemove, 464 ,533 
+mousemove, 465 ,533 
+sleep(2,"p")
+mousemove, 466 ,533 
+mousemove, 467 ,533 
+mousemove, 467 ,534 
+sleep(2,"p")
+mousemove, 468 ,534 
+sleep(2,"p")
+mousemove, 469 ,534 
+mousemove, 470 ,535 
+sleep(2,"p")
+mousemove, 471 ,535 
+mousemove, 472 ,535 
+sleep(2,"p")
+mousemove, 473 ,536 
+sleep(2,"p")
+mousemove, 474 ,536 
+sleep(2,"p")
+mousemove, 475 ,536 
+sleep(2,"p")
+mousemove, 476 ,536 
+sleep(2,"p")
+mousemove, 477 ,537 
+mousemove, 478 ,537 
+sleep(2,"p")
+mousemove, 479 ,537 
+mousemove, 479 ,538 
+mousemove, 480 ,538 
+sleep(2,"p")
+mousemove, 481 ,538 
+sleep(3,"p")
+mousemove, 482 ,538 
+mousemove, 483 ,538 
+sleep(2,"p")
+mousemove, 484 ,539 
+sleep(3,"p")
+mousemove, 485 ,539 
+sleep(2,"p")
+mousemove, 486 ,539 
+sleep(2,"p")
+mousemove, 486 ,540 
+sleep(2,"p")
+mousemove, 487 ,540 
+sleep(4,"p")
+mousemove, 488 ,540 
+sleep(4,"p")
+mousemove, 489 ,540 
+sleep(6,"p")
+mousemove, 490 ,540 
+sleep(8,"p")
+mousemove, 491 ,540 
+sleep(12,"p")
+mousemove, 492 ,540 
+sleep(10,"p")
+mousemove, 493 ,540 
+sleep(4,"p")
+mousemove, 494 ,540 
+sleep(5,"p")
+mousemove, 495 ,540 
+sleep(4,"p")
+mousemove, 496 ,540 
+sleep(3,"p")
+mousemove, 497 ,540 
+sleep(5,"p")
+mousemove, 498 ,540 
+sleep(2,"p")
+mousemove, 499 ,540 
+mousemove, 499 ,539 
+sleep(2,"p")
+mousemove, 500 ,539 
+mousemove, 501 ,539 
+sleep(3,"p")
+mousemove, 502 ,539 
+sleep(2,"p")
+mousemove, 503 ,538 
+mousemove, 504 ,538 
+sleep(2,"p")
+mousemove, 505 ,538 
+sleep(2,"p")
+mousemove, 506 ,538 
+mousemove, 507 ,537 
+sleep(2,"p")
+mousemove, 508 ,537 
+mousemove, 509 ,537 
+mousemove, 510 ,537 
+sleep(2,"p")
+mousemove, 511 ,536 
+mousemove, 512 ,536 
+mousemove, 513 ,536 
+mousemove, 513 ,535 
+mousemove, 514 ,535 
+mousemove, 515 ,535 
+mousemove, 516 ,535 
+sleep(2,"p")
+mousemove, 517 ,534 
+mousemove, 518 ,534 
+mousemove, 519 ,534 
+mousemove, 520 ,534 
+mousemove, 520 ,533 
+mousemove, 521 ,533 
+sleep(2,"p")
+mousemove, 522 ,533 
+mousemove, 523 ,533 
+sleep(2,"p")
+mousemove, 524 ,532 
+mousemove, 525 ,532 
+mousemove, 526 ,532 
+sleep(2,"p")
+mousemove, 527 ,532 
+mousemove, 528 ,532 
+sleep(2,"p")
+mousemove, 529 ,531 
+mousemove, 530 ,531 
+mousemove, 531 ,531 
+sleep(2,"p")
+mousemove, 532 ,530 
+sleep(2,"p")
+mousemove, 533 ,530 
+mousemove, 534 ,530 
+sleep(2,"p")
+mousemove, 535 ,530 
+sleep(2,"p")
+mousemove, 536 ,530 
+mousemove, 536 ,529 
+mousemove, 537 ,529 
+mousemove, 538 ,529 
+sleep(2,"p")
+mousemove, 539 ,529 
+sleep(2,"p")
+mousemove, 540 ,529 
+mousemove, 540 ,528 
+sleep(2,"p")
+mousemove, 541 ,528 
+sleep(3,"p")
+mousemove, 542 ,528 
+sleep(5,"p")
+mousemove, 543 ,528 
+sleep(3,"p")
+mousemove, 544 ,528 
+sleep(5,"p")
+mousemove, 545 ,527 
+sleep(4,"p")
+mousemove, 546 ,527 
+sleep(6,"p")
+mousemove, 547 ,527 
+sleep(7,"p")
+mousemove, 548 ,527 
+sleep(8,"p")
+mousemove, 549 ,527 
+sleep(7,"p")
+mousemove, 549 ,526 
+sleep(2,"p")
+mousemove, 550 ,526 
+sleep(11,"p")
+mousemove, 551 ,526 
+sleep(10,"p")
+mousemove, 552 ,526 
+sleep(9,"p")
+mousemove, 553 ,526 
+sleep(7,"p")
+mousemove, 554 ,526 
+sleep(2,"p")
+mousemove, 554 ,525 
+sleep(2,"p")
+mousemove, 555 ,525 
+sleep(5,"p")
+mousemove, 556 ,525 
+sleep(3,"p")
+mousemove, 557 ,525 
+sleep(3,"p")
+mousemove, 558 ,525 
+mousemove, 559 ,525 
+sleep(3,"p")
+mousemove, 560 ,525 
+sleep(2,"p")
+mousemove, 561 ,525 
+sleep(2,"p")
+mousemove, 562 ,525 
+sleep(4,"p")
+mousemove, 563 ,525 
+sleep(2,"p")
+mousemove, 564 ,525 
+sleep(2,"p")
+mousemove, 565 ,525 
+sleep(2,"p")
+mousemove, 566 ,525 
+mousemove, 567 ,525 
+sleep(3,"p")
+mousemove, 568 ,525 
+sleep(2,"p")
+mousemove, 569 ,525 
+sleep(2,"p")
+mousemove, 570 ,525 
+mousemove, 571 ,525 
+sleep(2,"p")
+mousemove, 572 ,525 
+sleep(2,"p")
+mousemove, 573 ,525 
+sleep(2,"p")
+mousemove, 574 ,525 
+mousemove, 575 ,525 
+mousemove, 576 ,525 
+sleep(2,"p")
+mousemove, 577 ,525 
+sleep(2,"p")
+mousemove, 578 ,525 
+sleep(2,"p")
+mousemove, 579 ,525 
+mousemove, 580 ,525 
+sleep(2,"p")
+mousemove, 581 ,525 
+sleep(2,"p")
+mousemove, 582 ,525 
+sleep(2,"p")
+mousemove, 583 ,525 
+sleep(2,"p")
+mousemove, 584 ,525 
+sleep(2,"p")
+mousemove, 585 ,525 
+sleep(2,"p")
+mousemove, 586 ,525 
+mousemove, 587 ,525 
+sleep(2,"p")
+mousemove, 588 ,525 
+sleep(2,"p")
+mousemove, 589 ,525 
+sleep(2,"p")
+mousemove, 590 ,525 
+sleep(2,"p")
+mousemove, 591 ,525 
+mousemove, 592 ,525 
+sleep(2,"p")
+mousemove, 593 ,525 
+sleep(3,"p")
+mousemove, 594 ,525 
+mousemove, 595 ,525 
+sleep(2,"p")
+mousemove, 596 ,525 
+sleep(2,"p")
+mousemove, 597 ,525 
+sleep(2,"p")
+mousemove, 598 ,525 
+mousemove, 599 ,525 
+sleep(2,"p")
+mousemove, 600 ,525 
+sleep(2,"p")
+mousemove, 601 ,525 
+mousemove, 602 ,525 
+sleep(2,"p")
+mousemove, 603 ,525 
+sleep(2,"p")
+mousemove, 604 ,525 
+sleep(2,"p")
+mousemove, 605 ,525 
+sleep(3,"p")
+mousemove, 606 ,525 
+mousemove, 607 ,525 
+sleep(3,"p")
+mousemove, 608 ,525 
+sleep(2,"p")
+mousemove, 609 ,525 
+sleep(2,"p")
+mousemove, 610 ,525 
+sleep(2,"p")
+mousemove, 611 ,525 
+sleep(2,"p")
+mousemove, 612 ,525 
+mousemove, 613 ,525 
+sleep(2,"p")
+mousemove, 614 ,525 
+mousemove, 615 ,525 
+sleep(2,"p")
+mousemove, 616 ,525 
+sleep(2,"p")
+mousemove, 617 ,525 
+sleep(2,"p")
+mousemove, 618 ,524 
+mousemove, 619 ,524 
+sleep(2,"p")
+mousemove, 620 ,524 
+mousemove, 621 ,524 
+mousemove, 622 ,524 
+sleep(2,"p")
+mousemove, 623 ,524 
+mousemove, 624 ,524 
+sleep(2,"p")
+mousemove, 625 ,524 
+mousemove, 626 ,524 
+sleep(2,"p")
+mousemove, 627 ,524 
+sleep(2,"p")
+mousemove, 628 ,524 
+mousemove, 629 ,524 
+mousemove, 630 ,524 
+mousemove, 631 ,524 
+mousemove, 632 ,524 
+mousemove, 632 ,523 
+sleep(2,"p")
+mousemove, 633 ,523 
+sleep(2,"p")
+mousemove, 634 ,523 
+mousemove, 635 ,523 
+mousemove, 636 ,523 
+mousemove, 637 ,523 
+mousemove, 638 ,523 
+mousemove, 639 ,523 
+sleep(2,"p")
+mousemove, 640 ,523 
+mousemove, 641 ,523 
+sleep(2,"p")
+mousemove, 642 ,523 
+mousemove, 643 ,523 
+sleep(2,"p")
+mousemove, 644 ,523 
+mousemove, 645 ,522 
+sleep(2,"p")
+mousemove, 646 ,522 
+mousemove, 647 ,522 
+mousemove, 648 ,522 
+mousemove, 649 ,522 
+mousemove, 650 ,522 
+mousemove, 651 ,522 
+mousemove, 652 ,522 
+sleep(2,"p")
+mousemove, 653 ,522 
+mousemove, 654 ,522 
+sleep(2,"p")
+mousemove, 655 ,521 
+mousemove, 656 ,521 
+mousemove, 657 ,521 
+sleep(2,"p")
+mousemove, 658 ,521 
+mousemove, 659 ,521 
+sleep(2,"p")
+mousemove, 660 ,521 
+mousemove, 661 ,521 
+sleep(2,"p")
+mousemove, 662 ,521 
+mousemove, 663 ,521 
+sleep(3,"p")
+mousemove, 664 ,521 
+mousemove, 665 ,520 
+sleep(2,"p")
+mousemove, 666 ,520 
+sleep(2,"p")
+mousemove, 667 ,520 
+mousemove, 668 ,520 
+sleep(2,"p")
+mousemove, 669 ,520 
+sleep(2,"p")
+mousemove, 670 ,520 
+sleep(2,"p")
+mousemove, 671 ,520 
+mousemove, 671 ,519 
+mousemove, 672 ,519 
+sleep(2,"p")
+mousemove, 673 ,519 
+sleep(2,"p")
+mousemove, 674 ,519 
+sleep(2,"p")
+mousemove, 675 ,519 
+sleep(2,"p")
+mousemove, 676 ,519 
+sleep(2,"p")
+mousemove, 677 ,519 
+sleep(3,"p")
+mousemove, 678 ,519 
+sleep(3,"p")
+mousemove, 679 ,518 
+sleep(4,"p")
+mousemove, 680 ,518 
+sleep(7,"p")
+mousemove, 681 ,518 
+sleep(38,"p")
+mousemove, 682 ,518 
+sleep(2,"p")
+mousemove, 682 ,517 
+sleep(2,"p")
+mousemove, 683 ,517 
+mousemove, 683 ,516 
+sleep(2,"p")
+mousemove, 684 ,516 
+sleep(3,"p")
+mousemove, 685 ,516 
+mousemove, 685 ,515 
+mousemove, 686 ,515 
+mousemove, 686 ,514 
+mousemove, 687 ,514 
+sleep(2,"p")
+mousemove, 688 ,514 
+sleep(2,"p")
+mousemove, 689 ,513 
+mousemove, 690 ,513 
+mousemove, 691 ,512 
+sleep(2,"p")
+mousemove, 692 ,511 
+mousemove, 693 ,511 
+mousemove, 694 ,511 
+mousemove, 695 ,510 
+mousemove, 696 ,509 
+sleep(2,"p")
+mousemove, 697 ,509 
+mousemove, 698 ,509 
+mousemove, 699 ,508 
+mousemove, 700 ,508 
+mousemove, 701 ,507 
+sleep(2,"p")
+mousemove, 703 ,507 
+sleep(2,"p")
+mousemove, 704 ,506 
+sleep(2,"p")
+mousemove, 705 ,506 
+mousemove, 707 ,505 
+mousemove, 708 ,505 
+mousemove, 709 ,505 
+mousemove, 710 ,505 
+mousemove, 711 ,504 
+mousemove, 712 ,504 
+mousemove, 713 ,503 
+mousemove, 714 ,503 
+mousemove, 715 ,503 
+mousemove, 716 ,503 
+mousemove, 718 ,502 
+mousemove, 719 ,502 
+mousemove, 721 ,502 
+mousemove, 722 ,501 
+mousemove, 723 ,501 
+mousemove, 725 ,501 
+mousemove, 726 ,501 
+mousemove, 727 ,500 
+mousemove, 729 ,500 
+mousemove, 730 ,500 
+mousemove, 731 ,499 
+mousemove, 733 ,499 
+mousemove, 734 ,499 
+sleep(2,"p")
+mousemove, 736 ,499 
+mousemove, 737 ,499 
+mousemove, 739 ,498 
+mousemove, 740 ,498 
+mousemove, 741 ,498 
+mousemove, 743 ,497 
+mousemove, 744 ,497 
+mousemove, 746 ,497 
+mousemove, 747 ,497 
+mousemove, 749 ,497 
+mousemove, 750 ,497 
+mousemove, 751 ,497 
+mousemove, 752 ,496 
+sleep(2,"p")
+mousemove, 754 ,496 
+mousemove, 755 ,496 
+mousemove, 756 ,496 
+sleep(2,"p")
+mousemove, 757 ,496 
+mousemove, 759 ,496 
+sleep(2,"p")
+mousemove, 760 ,496 
+mousemove, 761 ,496 
+mousemove, 762 ,495 
+sleep(2,"p")
+mousemove, 765 ,495 
+sleep(2,"p")
+mousemove, 767 ,495 
+mousemove, 768 ,495 
+mousemove, 769 ,495 
+mousemove, 770 ,495 
+mousemove, 771 ,495 
+mousemove, 772 ,495 
+mousemove, 773 ,495 
+mousemove, 775 ,495 
+sleep(2,"p")
+mousemove, 776 ,495 
+mousemove, 777 ,495 
+mousemove, 778 ,495 
+mousemove, 779 ,495 
+mousemove, 780 ,495 
+mousemove, 781 ,495 
+mousemove, 782 ,495 
+mousemove, 783 ,495 
+mousemove, 784 ,495 
+mousemove, 785 ,495 
+mousemove, 786 ,495 
+mousemove, 787 ,495 
+mousemove, 788 ,495 
+mousemove, 789 ,495 
+mousemove, 790 ,495 
+mousemove, 791 ,495 
+mousemove, 792 ,495 
+mousemove, 793 ,495 
+mousemove, 794 ,496 
+sleep(2,"p")
+mousemove, 795 ,496 
+sleep(2,"p")
+mousemove, 797 ,496 
+mousemove, 798 ,496 
+mousemove, 799 ,496 
+mousemove, 800 ,496 
+mousemove, 800 ,497 
+mousemove, 802 ,497 
+sleep(2,"p")
+mousemove, 803 ,497 
+mousemove, 804 ,497 
+mousemove, 805 ,497 
+mousemove, 806 ,497 
+sleep(2,"p")
+mousemove, 807 ,497 
+mousemove, 809 ,498 
+mousemove, 810 ,498 
+mousemove, 811 ,498 
+mousemove, 812 ,498 
+sleep(2,"p")
+mousemove, 813 ,499 
+mousemove, 814 ,499 
+mousemove, 815 ,499 
+mousemove, 816 ,499 
+sleep(2,"p")
+mousemove, 817 ,499 
+mousemove, 818 ,499 
+sleep(2,"p")
+mousemove, 819 ,499 
+sleep(2,"p")
+mousemove, 820 ,500 
+mousemove, 821 ,500 
+sleep(2,"p")
+mousemove, 822 ,500 
+sleep(3,"p")
+mousemove, 823 ,500 
+sleep(2,"p")
+mousemove, 824 ,500 
+sleep(4,"p")
+mousemove, 825 ,500 
+sleep(5,"p")
+mousemove, 826 ,500 
+sleep(4,"p")
+mousemove, 827 ,500 
+sleep(7,"p")
+mousemove, 828 ,500 
+sleep(4,"p")
+mousemove, 829 ,500 
+sleep(11,"p")
+mousemove, 830 ,500 
+sleep(10,"p")
+mousemove, 831 ,500 
+sleep(5,"p")
+mousemove, 832 ,500 
+sleep(4,"p")
+mousemove, 832 ,499 
+mousemove, 833 ,499 
+sleep(3,"p")
+mousemove, 834 ,499 
+sleep(3,"p")
+mousemove, 835 ,499 
+sleep(2,"p")
+mousemove, 836 ,499 
+sleep(3,"p")
+mousemove, 837 ,498 
+sleep(2,"p")
+mousemove, 838 ,498 
+mousemove, 839 ,498 
+sleep(2,"p")
+mousemove, 840 ,497 
+sleep(2,"p")
+mousemove, 841 ,497 
+mousemove, 842 ,497 
+sleep(2,"p")
+mousemove, 843 ,497 
+sleep(2,"p")
+mousemove, 844 ,497 
+mousemove, 845 ,497 
+sleep(2,"p")
+mousemove, 845 ,496 
+mousemove, 846 ,496 
+mousemove, 847 ,496 
+mousemove, 848 ,496 
+sleep(2,"p")
+mousemove, 849 ,496 
+sleep(2,"p")
+mousemove, 850 ,496 
+mousemove, 851 ,496 
+mousemove, 852 ,496 
+sleep(2,"p")
+mousemove, 853 ,496 
+mousemove, 854 ,496 
+mousemove, 854 ,495 
+mousemove, 855 ,495 
+sleep(2,"p")
+mousemove, 856 ,495 
+mousemove, 857 ,495 
+sleep(2,"p")
+mousemove, 859 ,495 
+sleep(2,"p")
+mousemove, 860 ,495 
+mousemove, 861 ,495 
+sleep(2,"p")
+mousemove, 862 ,495 
+mousemove, 863 ,495 
+mousemove, 864 ,495 
+sleep(2,"p")
+mousemove, 865 ,495 
+mousemove, 866 ,495 
+mousemove, 867 ,495 
+sleep(2,"p")
+mousemove, 869 ,495 
+sleep(2,"p")
+mousemove, 870 ,495 
+mousemove, 871 ,495 
+mousemove, 872 ,495 
+sleep(2,"p")
+mousemove, 873 ,495 
+mousemove, 874 ,495 
+sleep(2,"p")
+mousemove, 875 ,495 
+sleep(2,"p")
+mousemove, 876 ,495 
+mousemove, 877 ,495 
+sleep(3,"p")
+mousemove, 878 ,495 
+sleep(2,"p")
+mousemove, 879 ,495 
+sleep(4,"p")
+mousemove, 880 ,495 
+sleep(4,"p")
+mousemove, 881 ,495 
+sleep(108,"p")
+mousemove, 881 ,495 , Wheel , -1 , 0 , 0
+sleep(25,"p")
+mousemove, 881 ,495 , Wheel , -1 , 0 , 0
+sleep(14,"p")
+mousemove, 881 ,495 , Wheel , -1 , 0 , 0
+sleep(22,"p")
+mousemove, 881 ,495 , Wheel , -1 , 0 , 0
+sleep(14,"p")
+mousemove, 881 ,495 , Wheel , -1 , 0 , 0
+sleep(9,"p")
+mousemove, 881 ,496 
+sleep(7,"p")
+mousemove, 881 ,496 , Wheel , -1 , 0 , 0
+sleep(3,"p")
+mousemove, 881 ,497 
+sleep(3,"p")
+mousemove, 880 ,497 
+sleep(8,"p")
+mousemove, 880 ,498 
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(14,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(17,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(17,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(19,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(17,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(17,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(51,"p")
+mousemove, 880 ,498 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 880 ,499 
+sleep(10,"p")
+mousemove, 880 ,500 
+sleep(5,"p")
+mousemove, 879 ,500 
+sleep(12,"p")
+mousemove, 879 ,501 
+sleep(14,"p")
+mousemove, 879 ,502 
+sleep(56,"p")
+mousemove, 879 ,502 
+send
+sleep(195,"p")
+mousemove, 879 ,502 , Wheel , -1 , 0 , 0
+sleep(245,"p")
+mousemove, 879 ,502 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 879 ,503 
+sleep(17,"p")
+mousemove, 879 ,504 
+sleep(4,"p")
+mousemove, 879 ,504 , Wheel , -1 , 0 , 0
+sleep(65,"p")
+mousemove, 879 ,505 
+sleep(5,"p")
+mousemove, 879 ,506 
+mousemove, 879 ,506 , Wheel , -1 , 0 , 0
+sleep(5,"p")
+mousemove, 879 ,507 
+sleep(6,"p")
+mousemove, 878 ,508 
+sleep(43,"p")
+mousemove, 878 ,508 , Wheel , -1 , 0 , 0
+sleep(66,"p")
+mousemove, 878 ,508 , Wheel , -1 , 0 , 0
+sleep(102,"p")
+mousemove, 878 ,508 , Wheel , -1 , 0 , 0
+sleep(60,"p")
+mousemove, 878 ,508 , Wheel , -1 , 0 , 0
+sleep(361,"p")
+mousemove, 878 ,508 , Wheel , -1 , 0 , 0
+sleep(144,"p")
+mousemove, 878 ,509 
+sleep(3,"p")
+mousemove, 878 ,510 
+sleep(2,"p")
+mousemove, 878 ,511 
+sleep(2,"p")
+mousemove, 878 ,512 
+sleep(3,"p")
+mousemove, 879 ,513 
+sleep(3,"p")
+mousemove, 879 ,514 
+sleep(4,"p")
+mousemove, 879 ,515 
+sleep(4,"p")
+mousemove, 879 ,516 
+sleep(7,"p")
+mousemove, 879 ,517 
+sleep(6,"p")
+mousemove, 879 ,518 
+sleep(3,"p")
+mousemove, 880 ,518 
+mousemove, 880 ,519 
+sleep(5,"p")
+mousemove, 880 ,520 
+sleep(4,"p")
+mousemove, 881 ,521 
+sleep(6,"p")
+mousemove, 881 ,522 
+sleep(5,"p")
+mousemove, 881 ,523 
+sleep(8,"p")
+mousemove, 881 ,524 
+mousemove, 882 ,524 
+sleep(7,"p")
+mousemove, 882 ,525 
+sleep(9,"p")
+mousemove, 883 ,525 
+sleep(4,"p")
+mousemove, 883 ,526 
+sleep(73,"p")
+mousemove, 883 ,527 
+sleep(5,"p")
+mousemove, 883 ,528 
+sleep(3,"p")
+mousemove, 883 ,529 
+sleep(3,"p")
+mousemove, 883 ,530 
+sleep(2,"p")
+mousemove, 884 ,531 
+sleep(3,"p")
+mousemove, 884 ,532 
+sleep(2,"p")
+mousemove, 884 ,533 
+sleep(2,"p")
+mousemove, 884 ,534 
+mousemove, 884 ,535 
+sleep(2,"p")
+mousemove, 884 ,536 
+sleep(2,"p")
+mousemove, 885 ,536 
+mousemove, 885 ,537 
+sleep(2,"p")
+mousemove, 885 ,538 
+sleep(2,"p")
+mousemove, 885 ,539 
+sleep(2,"p")
+mousemove, 886 ,540 
+mousemove, 886 ,541 
+sleep(2,"p")
+mousemove, 886 ,542 
+sleep(3,"p")
+mousemove, 886 ,543 
+mousemove, 887 ,544 
+sleep(2,"p")
+mousemove, 887 ,545 
+sleep(2,"p")
+mousemove, 887 ,546 
+sleep(2,"p")
+mousemove, 887 ,547 
+mousemove, 888 ,548 
+sleep(2,"p")
+mousemove, 888 ,549 
+mousemove, 888 ,550 
+mousemove, 888 ,551 
+mousemove, 889 ,551 
+mousemove, 889 ,552 
+mousemove, 889 ,554 
+sleep(2,"p")
+mousemove, 889 ,555 
+mousemove, 889 ,556 
+sleep(2,"p")
+mousemove, 889 ,557 
+mousemove, 889 ,558 
+mousemove, 889 ,559 
+mousemove, 890 ,560 
+sleep(2,"p")
+mousemove, 890 ,561 
+sleep(2,"p")
+mousemove, 890 ,562 
+mousemove, 890 ,563 
+mousemove, 890 ,564 
+mousemove, 890 ,565 
+mousemove, 890 ,566 
+mousemove, 891 ,567 
+sleep(2,"p")
+mousemove, 891 ,568 
+mousemove, 891 ,569 
+mousemove, 891 ,570 
+mousemove, 891 ,571 
+sleep(2,"p")
+mousemove, 891 ,573 
+sleep(2,"p")
+mousemove, 892 ,575 
+sleep(2,"p")
+mousemove, 892 ,577 
+sleep(2,"p")
+mousemove, 892 ,578 
+mousemove, 892 ,580 
+sleep(2,"p")
+mousemove, 893 ,582 
+mousemove, 893 ,584 
+sleep(2,"p")
+mousemove, 893 ,586 
+mousemove, 893 ,587 
+mousemove, 894 ,587 
+mousemove, 894 ,589 
+sleep(2,"p")
+mousemove, 894 ,591 
+sleep(2,"p")
+mousemove, 895 ,592 
+mousemove, 895 ,594 
+mousemove, 896 ,595 
+sleep(2,"p")
+mousemove, 896 ,596 
+sleep(2,"p")
+mousemove, 897 ,598 
+mousemove, 897 ,599 
+mousemove, 898 ,600 
+sleep(2,"p")
+mousemove, 899 ,603 
+mousemove, 899 ,604 
+mousemove, 900 ,606 
+mousemove, 901 ,607 
+mousemove, 901 ,608 
+mousemove, 902 ,609 
+mousemove, 902 ,610 
+mousemove, 903 ,612 
+mousemove, 904 ,613 
+mousemove, 904 ,614 
+mousemove, 905 ,615 
+mousemove, 906 ,617 
+mousemove, 907 ,618 
+sleep(2,"p")
+mousemove, 908 ,619 
+sleep(4,"p")
+mousemove, 912 ,625 
+sleep(3,"p")
+mousemove, 915 ,629 
+mousemove, 917 ,632 
+mousemove, 918 ,633 
+mousemove, 919 ,634 
+mousemove, 921 ,636 
+mousemove, 922 ,637 
+mousemove, 923 ,639 
+mousemove, 925 ,641 
+mousemove, 926 ,642 
+mousemove, 928 ,643 
+mousemove, 929 ,645 
+mousemove, 930 ,646 
+mousemove, 931 ,647 
+mousemove, 933 ,649 
+mousemove, 934 ,650 
+mousemove, 935 ,651 
+mousemove, 936 ,653 
+mousemove, 938 ,654 
+sleep(2,"p")
+mousemove, 939 ,655 
+mousemove, 940 ,657 
+mousemove, 941 ,658 
+mousemove, 943 ,659 
+mousemove, 943 ,660 
+mousemove, 945 ,662 
+mousemove, 945 ,663 
+mousemove, 947 ,664 
+mousemove, 948 ,666 
+mousemove, 948 ,667 
+mousemove, 950 ,668 
+mousemove, 950 ,669 
+mousemove, 952 ,670 
+mousemove, 952 ,671 
+mousemove, 953 ,673 
+mousemove, 954 ,674 
+mousemove, 955 ,675 
+mousemove, 956 ,676 
+mousemove, 956 ,677 
+mousemove, 957 ,678 
+mousemove, 958 ,679 
+mousemove, 959 ,681 
+sleep(2,"p")
+mousemove, 960 ,683 
+mousemove, 960 ,684 
+mousemove, 961 ,685 
+mousemove, 962 ,686 
+mousemove, 962 ,687 
+mousemove, 963 ,688 
+mousemove, 963 ,689 
+sleep(2,"p")
+mousemove, 964 ,690 
+mousemove, 964 ,691 
+mousemove, 964 ,692 
+mousemove, 965 ,692 
+mousemove, 965 ,693 
+mousemove, 966 ,694 
+mousemove, 966 ,695 
+sleep(2,"p")
+mousemove, 966 ,696 
+mousemove, 967 ,698 
+sleep(2,"p")
+mousemove, 967 ,699 
+sleep(2,"p")
+mousemove, 967 ,700 
+mousemove, 968 ,701 
+sleep(2,"p")
+mousemove, 968 ,702 
+mousemove, 968 ,703 
+mousemove, 968 ,704 
+mousemove, 968 ,705 
+mousemove, 969 ,705 
+mousemove, 969 ,706 
+mousemove, 969 ,707 
+mousemove, 969 ,708 
+sleep(2,"p")
+mousemove, 969 ,709 
+mousemove, 970 ,710 
+mousemove, 970 ,711 
+sleep(2,"p")
+mousemove, 970 ,712 
+mousemove, 970 ,713 
+sleep(2,"p")
+mousemove, 970 ,714 
+mousemove, 971 ,715 
+sleep(2,"p")
+mousemove, 971 ,716 
+mousemove, 971 ,717 
+sleep(2,"p")
+mousemove, 971 ,718 
+mousemove, 972 ,718 
+sleep(2,"p")
+mousemove, 972 ,719 
+mousemove, 973 ,720 
+mousemove, 973 ,721 
+sleep(2,"p")
+mousemove, 973 ,722 
+sleep(2,"p")
+mousemove, 974 ,723 
+sleep(2,"p")
+mousemove, 974 ,724 
+sleep(2,"p")
+mousemove, 974 ,725 
+mousemove, 975 ,726 
+sleep(2,"p")
+mousemove, 976 ,727 
+sleep(4,"p")
+mousemove, 976 ,728 
+mousemove, 977 ,728 
+sleep(2,"p")
+mousemove, 978 ,729 
+sleep(2,"p")
+mousemove, 978 ,730 
+sleep(2,"p")
+mousemove, 979 ,730 
+sleep(2,"p")
+mousemove, 979 ,731 
+mousemove, 980 ,731 
+mousemove, 980 ,732 
+sleep(2,"p")
+mousemove, 981 ,732 
+sleep(2,"p")
+mousemove, 981 ,733 
+mousemove, 982 ,733 
+sleep(2,"p")
+mousemove, 983 ,733 
+sleep(2,"p")
+mousemove, 983 ,734 
+sleep(2,"p")
+mousemove, 984 ,734 
+sleep(2,"p")
+mousemove, 984 ,735 
+mousemove, 985 ,735 
+sleep(4,"p")
+mousemove, 986 ,735 
+sleep(5,"p")
+mousemove, 986 ,736 
+mousemove, 987 ,736 
+sleep(5,"p")
+mousemove, 988 ,736 
+sleep(5,"p")
+mousemove, 989 ,736 
+sleep(3,"p")
+mousemove, 989 ,737 
+mousemove, 990 ,737 
+sleep(4,"p")
+mousemove, 991 ,737 
+sleep(3,"p")
+mousemove, 991 ,738 
+sleep(2,"p")
+mousemove, 992 ,738 
+sleep(2,"p")
+mousemove, 993 ,738 
+sleep(2,"p")
+mousemove, 993 ,739 
+mousemove, 994 ,739 
+sleep(3,"p")
+mousemove, 995 ,739 
+sleep(2,"p")
+mousemove, 996 ,740 
+sleep(3,"p")
+mousemove, 997 ,741 
+sleep(3,"p")
+mousemove, 998 ,741 
+mousemove, 999 ,741 
+sleep(2,"p")
+mousemove, 1000 ,741 
+mousemove, 1000 ,742 
+sleep(2,"p")
+mousemove, 1001 ,742 
+mousemove, 1001 ,743 
+mousemove, 1002 ,743 
+mousemove, 1003 ,743 
+sleep(2,"p")
+mousemove, 1004 ,743 
+mousemove, 1005 ,744 
+sleep(2,"p")
+mousemove, 1006 ,745 
+mousemove, 1007 ,745 
+mousemove, 1008 ,745 
+mousemove, 1008 ,746 
+mousemove, 1009 ,746 
+mousemove, 1010 ,746 
+mousemove, 1011 ,747 
+sleep(2,"p")
+mousemove, 1012 ,747 
+mousemove, 1013 ,748 
+sleep(2,"p")
+mousemove, 1014 ,749 
+mousemove, 1015 ,749 
+mousemove, 1016 ,749 
+mousemove, 1017 ,750 
+mousemove, 1018 ,750 
+mousemove, 1019 ,751 
+sleep(2,"p")
+mousemove, 1020 ,751 
+mousemove, 1021 ,752 
+sleep(2,"p")
+mousemove, 1022 ,752 
+mousemove, 1023 ,753 
+sleep(2,"p")
+mousemove, 1024 ,754 
+sleep(2,"p")
+mousemove, 1025 ,754 
+mousemove, 1026 ,755 
+sleep(4,"p")
+mousemove, 1027 ,756 
+mousemove, 1028 ,756 
+sleep(2,"p")
+mousemove, 1028 ,757 
+mousemove, 1029 ,757 
+sleep(2,"p")
+mousemove, 1030 ,757 
+mousemove, 1030 ,758 
+mousemove, 1031 ,758 
+sleep(2,"p")
+mousemove, 1031 ,759 
+sleep(2,"p")
+mousemove, 1032 ,759 
+mousemove, 1032 ,760 
+mousemove, 1033 ,760 
+mousemove, 1033 ,761 
+sleep(2,"p")
+mousemove, 1034 ,761 
+sleep(2,"p")
+mousemove, 1034 ,762 
+mousemove, 1035 ,762 
+mousemove, 1035 ,763 
+sleep(2,"p")
+mousemove, 1036 ,763 
+mousemove, 1036 ,764 
+mousemove, 1037 ,764 
+mousemove, 1037 ,765 
+mousemove, 1038 ,765 
+sleep(2,"p")
+mousemove, 1038 ,766 
+sleep(2,"p")
+mousemove, 1039 ,766 
+mousemove, 1039 ,767 
+mousemove, 1040 ,767 
+sleep(2,"p")
+mousemove, 1040 ,768 
+mousemove, 1041 ,768 
+mousemove, 1041 ,769 
+sleep(2,"p")
+mousemove, 1042 ,769 
+mousemove, 1043 ,770 
+sleep(3,"p")
+mousemove, 1044 ,771 
+sleep(2,"p")
+mousemove, 1045 ,771 
+mousemove, 1045 ,772 
+mousemove, 1046 ,772 
+mousemove, 1047 ,772 
+mousemove, 1047 ,773 
+mousemove, 1048 ,773 
+sleep(2,"p")
+mousemove, 1049 ,774 
+mousemove, 1050 ,774 
+sleep(2,"p")
+mousemove, 1051 ,775 
+mousemove, 1052 ,775 
+sleep(2,"p")
+mousemove, 1053 ,775 
+mousemove, 1054 ,776 
+sleep(2,"p")
+mousemove, 1055 ,777 
+sleep(2,"p")
+mousemove, 1056 ,777 
+mousemove, 1057 ,777 
+mousemove, 1057 ,778 
+sleep(2,"p")
+mousemove, 1058 ,778 
+mousemove, 1059 ,778 
+sleep(2,"p")
+mousemove, 1060 ,778 
+mousemove, 1060 ,779 
+mousemove, 1061 ,779 
+sleep(2,"p")
+mousemove, 1062 ,779 
+mousemove, 1062 ,780 
+sleep(2,"p")
+mousemove, 1063 ,780 
+sleep(4,"p")
+mousemove, 1064 ,780 
+sleep(3,"p")
+mousemove, 1065 ,780 
+sleep(323,"p")
+mousemove, 1065 ,779 
+sleep(6,"p")
+mousemove, 1065 ,778 
+sleep(39,"p")
+mousemove, 1065 ,777 
+sleep(8,"p")
+mousemove, 1064 ,777 
+mousemove, 1064 ,776 
+sleep(6,"p")
+mousemove, 1064 ,775 
+sleep(5,"p")
+mousemove, 1063 ,774 
+sleep(4,"p")
+mousemove, 1063 ,773 
+sleep(3,"p")
+mousemove, 1063 ,772 
+sleep(2,"p")
+mousemove, 1062 ,772 
+sleep(2,"p")
+mousemove, 1062 ,771 
+sleep(2,"p")
+mousemove, 1062 ,770 
+mousemove, 1061 ,770 
+sleep(3,"p")
+mousemove, 1061 ,769 
+sleep(3,"p")
+mousemove, 1061 ,768 
+sleep(2,"p")
+mousemove, 1060 ,768 
+sleep(2,"p")
+mousemove, 1060 ,767 
+sleep(3,"p")
+mousemove, 1060 ,766 
+sleep(2,"p")
+mousemove, 1059 ,766 
+mousemove, 1059 ,765 
+sleep(5,"p")
+mousemove, 1058 ,764 
+sleep(3,"p")
+mousemove, 1058 ,763 
+sleep(4,"p")
+mousemove, 1058 ,762 
+sleep(2,"p")
+mousemove, 1057 ,762 
+sleep(2,"p")
+mousemove, 1057 ,761 
+sleep(4,"p")
+mousemove, 1057 ,760 
+mousemove, 1056 ,760 
+sleep(2,"p")
+mousemove, 1056 ,759 
+sleep(5,"p")
+mousemove, 1056 ,758 
+mousemove, 1055 ,758 
+sleep(5,"p")
+mousemove, 1055 ,757 
+sleep(9,"p")
+mousemove, 1054 ,757 
+sleep(3,"p")
+mousemove, 1054 ,756 
+sleep(109,"p")
+mousemove, 1054 ,756 , Wheel , -1 , 0 , 0
+sleep(74,"p")
+mousemove, 1054 ,756 , Wheel , -1 , 0 , 0
+sleep(52,"p")
+mousemove, 1053 ,756 
+sleep(7,"p")
+mousemove, 1053 ,755 
+sleep(34,"p")
+mousemove, 1052 ,755 
+sleep(20,"p")
+mousemove, 1052 ,754 
+sleep(23,"p")
+mousemove, 1052 ,753 
+sleep(15,"p")
+mousemove, 1052 ,752 
+sleep(8,"p")
+mousemove, 1051 ,751 
+sleep(9,"p")
+mousemove, 1051 ,751 , Wheel , -1 , 0 , 0
+sleep(2,"p")
+mousemove, 1051 ,750 
+sleep(7,"p")
+mousemove, 1050 ,750 
+mousemove, 1050 ,749 
+sleep(7,"p")
+mousemove, 1049 ,748 
+sleep(5,"p")
+mousemove, 1049 ,747 
+sleep(7,"p")
+mousemove, 1048 ,747 
+mousemove, 1048 ,746 
+sleep(7,"p")
+mousemove, 1047 ,745 
+sleep(9,"p")
+mousemove, 1047 ,744 
+sleep(79,"p")
+mousemove, 1046 ,744 
+sleep(166,"p")
+mousemove, 1046 ,743 
+sleep(110,"p")
+mousemove, 1046 ,743 , Wheel , -1 , 0 , 0
+sleep(54,"p")
+mousemove, 1046 ,743 , Wheel , -1 , 0 , 0
+sleep(158,"p")
+mousemove, 1045 ,743 
+sleep(8,"p")
+mousemove, 1044 ,743 
+sleep(3,"p")
+mousemove, 1044 ,742 
+sleep(5,"p")
+mousemove, 1043 ,742 
+sleep(6,"p")
+mousemove, 1043 ,741 
+mousemove, 1042 ,741 
+sleep(8,"p")
+mousemove, 1041 ,741 
+sleep(10,"p")
+mousemove, 1040 ,741 
+sleep(56,"p")
+mousemove, 1039 ,741 
+sleep(40,"p")
+mousemove, 1038 ,741 
+sleep(12,"p")
+mousemove, 1038 ,742 
+sleep(6,"p")
+mousemove, 1037 ,742 
+sleep(8,"p")
+mousemove, 1037 ,743 
+sleep(8,"p")
+mousemove, 1037 ,744 
+sleep(4,"p")
+mousemove, 1036 ,744 
+sleep(11,"p")
+mousemove, 1035 ,744 
+sleep(13,"p")
+mousemove, 1035 ,745 
+sleep(132,"p")
+mousemove, 1035 ,745 , Wheel , -1 , 0 , 0
+sleep(45,"p")
+mousemove, 1035 ,745 , Wheel , -1 , 0 , 0
+sleep(164,"p")
+mousemove, 1034 ,745 
+sleep(9,"p")
+mousemove, 1033 ,745 
+sleep(2,"p")
+mousemove, 1033 ,744 
+sleep(3,"p")
+mousemove, 1032 ,744 
+sleep(6,"p")
+mousemove, 1031 ,743 
+sleep(6,"p")
+mousemove, 1030 ,742 
+sleep(3,"p")
+mousemove, 1029 ,742 
+mousemove, 1029 ,741 
+sleep(5,"p")
+mousemove, 1028 ,741 
+mousemove, 1028 ,740 
+sleep(2,"p")
+mousemove, 1027 ,740 
+sleep(3,"p")
+mousemove, 1027 ,739 
+mousemove, 1026 ,739 
+sleep(3,"p")
+mousemove, 1026 ,738 
+sleep(2,"p")
+mousemove, 1025 ,738 
+mousemove, 1025 ,737 
+sleep(2,"p")
+mousemove, 1024 ,737 
+sleep(2,"p")
+mousemove, 1024 ,736 
+sleep(2,"p")
+mousemove, 1023 ,736 
+sleep(2,"p")
+mousemove, 1022 ,735 
+sleep(5,"p")
+mousemove, 1021 ,735 
+sleep(2,"p")
+mousemove, 1021 ,734 
+sleep(2,"p")
+mousemove, 1020 ,734 
+sleep(2,"p")
+mousemove, 1019 ,733 
+sleep(5,"p")
+mousemove, 1018 ,733 
+mousemove, 1018 ,732 
+sleep(2,"p")
+mousemove, 1017 ,732 
+sleep(3,"p")
+mousemove, 1016 ,732 
+sleep(3,"p")
+mousemove, 1015 ,732 
+mousemove, 1015 ,731 
+mousemove, 1014 ,731 
+sleep(2,"p")
+mousemove, 1014 ,730 
+mousemove, 1013 ,730 
+sleep(3,"p")
+mousemove, 1012 ,730 
+sleep(2,"p")
+mousemove, 1011 ,730 
+sleep(3,"p")
+mousemove, 1010 ,730 
+mousemove, 1010 ,729 
+mousemove, 1009 ,729 
+sleep(3,"p")
+mousemove, 1008 ,729 
+sleep(3,"p")
+mousemove, 1007 ,729 
+mousemove, 1007 ,728 
+mousemove, 1006 ,728 
+mousemove, 1005 ,728 
+sleep(3,"p")
+mousemove, 1004 ,728 
+mousemove, 1003 ,728 
+mousemove, 1003 ,727 
+mousemove, 1002 ,727 
+mousemove, 1001 ,727 
+sleep(2,"p")
+mousemove, 1000 ,727 
+mousemove, 999 ,727 
+mousemove, 999 ,726 
+mousemove, 998 ,726 
+mousemove, 997 ,726 
+sleep(2,"p")
+mousemove, 996 ,726 
+mousemove, 995 ,725 
+mousemove, 994 ,725 
+mousemove, 993 ,725 
+mousemove, 992 ,724 
+mousemove, 991 ,724 
+sleep(2,"p")
+mousemove, 989 ,724 
+sleep(2,"p")
+mousemove, 988 ,723 
+mousemove, 987 ,723 
+mousemove, 986 ,722 
+sleep(2,"p")
+mousemove, 985 ,722 
+sleep(2,"p")
+mousemove, 984 ,722 
+mousemove, 982 ,721 
+mousemove, 982 ,720 
+mousemove, 981 ,720 
+mousemove, 980 ,720 
+sleep(2,"p")
+mousemove, 979 ,720 
+sleep(2,"p")
+mousemove, 978 ,719 
+mousemove, 977 ,719 
+mousemove, 976 ,719 
+mousemove, 976 ,718 
+mousemove, 975 ,718 
+mousemove, 974 ,718 
+mousemove, 973 ,717 
+sleep(2,"p")
+mousemove, 972 ,717 
+mousemove, 972 ,716 
+mousemove, 970 ,715 
+mousemove, 969 ,714 
+sleep(2,"p")
+mousemove, 968 ,714 
+mousemove, 968 ,713 
+sleep(2,"p")
+mousemove, 967 ,713 
+mousemove, 966 ,712 
+sleep(2,"p")
+mousemove, 965 ,712 
+mousemove, 963 ,711 
+mousemove, 963 ,710 
+mousemove, 962 ,709 
+mousemove, 961 ,709 
+sleep(2,"p")
+mousemove, 960 ,708 
+mousemove, 959 ,708 
+mousemove, 959 ,707 
+mousemove, 958 ,707 
+mousemove, 958 ,706 
+mousemove, 957 ,706 
+mousemove, 957 ,705 
+sleep(2,"p")
+mousemove, 956 ,705 
+mousemove, 955 ,704 
+mousemove, 954 ,703 
+mousemove, 953 ,702 
+sleep(2,"p")
+mousemove, 952 ,701 
+sleep(3,"p")
+mousemove, 951 ,700 
+mousemove, 951 ,699 
+mousemove, 950 ,699 
+mousemove, 949 ,698 
+mousemove, 949 ,697 
+mousemove, 948 ,697 
+mousemove, 947 ,696 
+mousemove, 947 ,695 
+sleep(2,"p")
+mousemove, 946 ,694 
+sleep(2,"p")
+mousemove, 945 ,693 
+mousemove, 945 ,692 
+mousemove, 944 ,692 
+mousemove, 944 ,691 
+sleep(2,"p")
+mousemove, 943 ,690 
+mousemove, 942 ,690 
+mousemove, 942 ,688 
+mousemove, 941 ,687 
+mousemove, 940 ,687 
+mousemove, 940 ,686 
+mousemove, 940 ,685 
+mousemove, 939 ,685 
+mousemove, 938 ,684 
+mousemove, 938 ,683 
+mousemove, 937 ,682 
+mousemove, 937 ,681 
+mousemove, 936 ,681 
+mousemove, 936 ,680 
+mousemove, 935 ,679 
+sleep(2,"p")
+mousemove, 934 ,678 
+mousemove, 934 ,677 
+mousemove, 933 ,676 
+sleep(2,"p")
+mousemove, 932 ,676 
+mousemove, 932 ,674 
+mousemove, 931 ,674 
+sleep(2,"p")
+mousemove, 930 ,674 
+mousemove, 930 ,673 
+sleep(3,"p")
+mousemove, 929 ,672 
+sleep(2,"p")
+mousemove, 928 ,671 
+mousemove, 927 ,670 
+sleep(2,"p")
+mousemove, 927 ,669 
+mousemove, 926 ,669 
+mousemove, 925 ,668 
+sleep(2,"p")
+mousemove, 924 ,667 
+sleep(2,"p")
+mousemove, 923 ,666 
+sleep(2,"p")
+mousemove, 922 ,665 
+sleep(2,"p")
+mousemove, 921 ,665 
+mousemove, 921 ,664 
+mousemove, 920 ,664 
+mousemove, 920 ,663 
+mousemove, 919 ,663 
+mousemove, 918 ,662 
+sleep(2,"p")
+mousemove, 917 ,661 
+mousemove, 916 ,661 
+sleep(2,"p")
+mousemove, 916 ,660 
+mousemove, 915 ,660 
+sleep(2,"p")
+mousemove, 914 ,660 
+mousemove, 914 ,659 
+mousemove, 913 ,659 
+sleep(2,"p")
+mousemove, 912 ,659 
+mousemove, 912 ,658 
+sleep(2,"p")
+mousemove, 911 ,658 
+sleep(2,"p")
+mousemove, 911 ,657 
+sleep(2,"p")
+mousemove, 910 ,657 
+mousemove, 909 ,657 
+mousemove, 909 ,656 
+sleep(2,"p")
+mousemove, 908 ,655 
+sleep(2,"p")
+mousemove, 907 ,655 
+sleep(2,"p")
+mousemove, 906 ,654 
+sleep(2,"p")
+mousemove, 905 ,654 
+mousemove, 905 ,653 
+mousemove, 904 ,653 
+mousemove, 904 ,652 
+mousemove, 903 ,652 
+sleep(2,"p")
+mousemove, 902 ,651 
+mousemove, 901 ,651 
+mousemove, 901 ,650 
+mousemove, 900 ,650 
+mousemove, 900 ,649 
+mousemove, 899 ,649 
+mousemove, 899 ,648 
+mousemove, 898 ,648 
+mousemove, 898 ,647 
+mousemove, 896 ,647 
+mousemove, 896 ,646 
+mousemove, 895 ,645 
+sleep(2,"p")
+mousemove, 894 ,644 
+mousemove, 893 ,644 
+mousemove, 893 ,643 
+mousemove, 892 ,642 
+mousemove, 891 ,642 
+mousemove, 891 ,641 
+mousemove, 890 ,641 
+mousemove, 889 ,640 
+mousemove, 889 ,639 
+mousemove, 888 ,639 
+mousemove, 888 ,638 
+sleep(2,"p")
+mousemove, 887 ,638 
+sleep(2,"p")
+mousemove, 886 ,636 
+mousemove, 885 ,636 
+mousemove, 884 ,635 
+mousemove, 884 ,634 
+mousemove, 883 ,634 
+mousemove, 883 ,633 
+mousemove, 882 ,632 
+mousemove, 881 ,632 
+mousemove, 881 ,631 
+mousemove, 880 ,630 
+mousemove, 879 ,629 
+sleep(2,"p")
+mousemove, 878 ,628 
+mousemove, 877 ,627 
+sleep(2,"p")
+mousemove, 876 ,625 
+mousemove, 875 ,625 
+mousemove, 874 ,624 
+mousemove, 874 ,623 
+mousemove, 873 ,623 
+mousemove, 873 ,622 
+mousemove, 872 ,621 
+mousemove, 871 ,621 
+mousemove, 871 ,620 
+mousemove, 870 ,619 
+mousemove, 869 ,618 
+mousemove, 868 ,618 
+mousemove, 868 ,617 
+mousemove, 867 ,616 
+mousemove, 866 ,615 
+mousemove, 866 ,614 
+mousemove, 865 ,614 
+mousemove, 864 ,613 
+mousemove, 864 ,612 
+mousemove, 862 ,611 
+mousemove, 862 ,610 
+mousemove, 861 ,609 
+sleep(2,"p")
+mousemove, 860 ,608 
+mousemove, 859 ,607 
+sleep(2,"p")
+mousemove, 858 ,606 
+mousemove, 857 ,605 
+mousemove, 856 ,604 
+mousemove, 856 ,603 
+mousemove, 855 ,602 
+mousemove, 854 ,602 
+mousemove, 853 ,601 
+mousemove, 852 ,600 
+mousemove, 852 ,599 
+mousemove, 851 ,598 
+mousemove, 850 ,597 
+mousemove, 849 ,597 
+mousemove, 848 ,595 
+mousemove, 847 ,594 
+mousemove, 846 ,593 
+sleep(2,"p")
+mousemove, 845 ,592 
+mousemove, 844 ,591 
+mousemove, 843 ,590 
+mousemove, 842 ,588 
+mousemove, 841 ,588 
+mousemove, 840 ,587 
+mousemove, 839 ,586 
+mousemove, 838 ,584 
+mousemove, 837 ,583 
+mousemove, 836 ,582 
+mousemove, 835 ,581 
+mousemove, 833 ,579 
+mousemove, 833 ,578 
+mousemove, 831 ,576 
+mousemove, 830 ,575 
+mousemove, 829 ,573 
+mousemove, 828 ,572 
+mousemove, 826 ,571 
+mousemove, 825 ,570 
+mousemove, 824 ,569 
+mousemove, 823 ,567 
+sleep(3,"p")
+mousemove, 822 ,566 
+mousemove, 821 ,565 
+mousemove, 820 ,564 
+mousemove, 819 ,563 
+sleep(2,"p")
+mousemove, 818 ,562 
+mousemove, 817 ,561 
+mousemove, 816 ,561 
+mousemove, 816 ,560 
+mousemove, 815 ,559 
+mousemove, 814 ,559 
+mousemove, 814 ,558 
+mousemove, 813 ,558 
+mousemove, 813 ,557 
+mousemove, 812 ,557 
+mousemove, 812 ,556 
+mousemove, 811 ,556 
+mousemove, 811 ,555 
+sleep(2,"p")
+mousemove, 810 ,554 
+sleep(3,"p")
+mousemove, 809 ,554 
+mousemove, 809 ,553 
+mousemove, 808 ,552 
+sleep(4,"p")
+mousemove, 808 ,551 
+sleep(4,"p")
+mousemove, 807 ,550 
+sleep(3,"p")
+mousemove, 807 ,549 
+sleep(3,"p")
+mousemove, 806 ,549 
+mousemove, 806 ,548 
+mousemove, 806 ,547 
+sleep(5,"p")
+mousemove, 806 ,546 
+mousemove, 805 ,545 
+sleep(3,"p")
+mousemove, 805 ,544 
+sleep(2,"p")
+mousemove, 805 ,543 
+sleep(2,"p")
+mousemove, 804 ,542 
+mousemove, 804 ,541 
+sleep(4,"p")
+mousemove, 804 ,540 
+mousemove, 803 ,540 
+mousemove, 803 ,539 
+sleep(2,"p")
+mousemove, 803 ,538 
+sleep(2,"p")
+mousemove, 803 ,537 
+mousemove, 802 ,537 
+mousemove, 802 ,536 
+sleep(3,"p")
+mousemove, 802 ,535 
+mousemove, 802 ,534 
+sleep(3,"p")
+mousemove, 801 ,534 
+mousemove, 801 ,533 
+sleep(2,"p")
+mousemove, 801 ,532 
+sleep(3,"p")
+mousemove, 801 ,531 
+sleep(3,"p")
+mousemove, 800 ,531 
+sleep(2,"p")
+mousemove, 800 ,530 
+sleep(4,"p")
+mousemove, 800 ,529 
+sleep(9,"p")
+mousemove, 800 ,528 
+sleep(11,"p")
+mousemove, 799 ,528 
+sleep(80,"p")
+mousemove, 799 ,527 
+sleep(7,"p")
+mousemove, 798 ,527 
+sleep(3,"p")
+mousemove, 798 ,526 
+sleep(13,"p")
+mousemove, 798 ,525 
+sleep(46,"p")
+mousemove, 798 ,524 
+sleep(2,"p")
+mousemove, 798 ,523 
+sleep(4,"p")
+mousemove, 798 ,522 
+sleep(2,"p")
+mousemove, 798 ,521 
+sleep(2,"p")
+mousemove, 799 ,520 
+sleep(2,"p")
+mousemove, 799 ,519 
+mousemove, 799 ,518 
+sleep(2,"p")
+mousemove, 799 ,517 
+sleep(2,"p")
+mousemove, 800 ,516 
+sleep(2,"p")
+mousemove, 800 ,515 
+sleep(2,"p")
+mousemove, 800 ,514 
+sleep(3,"p")
+mousemove, 800 ,513 
+sleep(2,"p")
+mousemove, 800 ,512 
+sleep(2,"p")
+mousemove, 801 ,512 
+mousemove, 801 ,511 
+sleep(5,"p")
+mousemove, 801 ,510 
+sleep(3,"p")
+mousemove, 801 ,509 
+sleep(4,"p")
+mousemove, 801 ,508 
+sleep(7,"p")
+mousemove, 801 ,507 
+sleep(3,"p")
+mousemove, 800 ,507 
+sleep(20,"p")
+mousemove, 800 ,506 
+sleep(52,"p")
+mousemove, 800 ,506 
+click down
+sleep(16,"p")
+mousemove, 799 ,506 
+sleep(3,"p")
+mousemove, 799 ,505 
+sleep(79,"p")
+mousemove, 799 ,505 
+click up
+sleep(138,"p")
+mousemove, 799 ,506 
+sleep(4,"p")
+mousemove, 798 ,506 
+sleep(11,"p")
+mousemove, 798 ,507 
+sleep(12,"p")
+mousemove, 798 ,508 
+sleep(41,"p")
+mousemove, 798 ,509 
+sleep(3,"p")
+mousemove, 798 ,510 
+sleep(5,"p")
+mousemove, 797 ,511 
+sleep(4,"p")
+mousemove, 797 ,512 
+mousemove, 797 ,513 
+sleep(2,"p")
+mousemove, 797 ,514 
+sleep(2,"p")
+mousemove, 797 ,515 
+sleep(2,"p")
+mousemove, 798 ,516 
+mousemove, 798 ,517 
+sleep(2,"p")
+mousemove, 798 ,518 
+sleep(2,"p")
+mousemove, 799 ,519 
+mousemove, 799 ,520 
+sleep(2,"p")
+mousemove, 799 ,521 
+sleep(2,"p")
+mousemove, 800 ,522 
+sleep(2,"p")
+mousemove, 800 ,523 
+mousemove, 801 ,523 
+mousemove, 801 ,524 
+mousemove, 801 ,525 
+mousemove, 802 ,525 
+mousemove, 802 ,526 
+sleep(2,"p")
+mousemove, 803 ,527 
+mousemove, 803 ,528 
+sleep(3,"p")
+mousemove, 804 ,529 
+sleep(2,"p")
+mousemove, 804 ,530 
+sleep(2,"p")
+mousemove, 805 ,530 
+mousemove, 805 ,531 
+mousemove, 806 ,532 
+sleep(2,"p")
+mousemove, 806 ,533 
+mousemove, 806 ,534 
+mousemove, 807 ,534 
+sleep(2,"p")
+mousemove, 807 ,535 
+sleep(2,"p")
+mousemove, 808 ,536 
+sleep(2,"p")
+mousemove, 808 ,537 
+sleep(3,"p")
+mousemove, 808 ,538 
+sleep(2,"p")
+mousemove, 809 ,538 
+mousemove, 809 ,539 
+sleep(2,"p")
+mousemove, 809 ,540 
+mousemove, 809 ,541 
+mousemove, 810 ,541 
+sleep(2,"p")
+mousemove, 810 ,542 
+sleep(3,"p")
+mousemove, 810 ,543 
+sleep(2,"p")
+mousemove, 810 ,544 
+mousemove, 811 ,544 
+sleep(4,"p")
+mousemove, 811 ,545 
+sleep(3,"p")
+mousemove, 811 ,546 
+sleep(4,"p")
+mousemove, 811 ,547 
+mousemove, 812 ,547 
+sleep(4,"p")
+mousemove, 812 ,548 
+sleep(4,"p")
+mousemove, 812 ,549 
+sleep(8,"p")
+mousemove, 812 ,550 
+sleep(3,"p")
+mousemove, 812 ,551 
+sleep(4,"p")
+mousemove, 813 ,551 
+sleep(3,"p")
+mousemove, 813 ,552 
+sleep(4,"p")
+mousemove, 813 ,553 
+sleep(5,"p")
+mousemove, 813 ,554 
+sleep(4,"p")
+mousemove, 813 ,555 
+sleep(4,"p")
+mousemove, 813 ,556 
+sleep(3,"p")
+mousemove, 813 ,557 
+sleep(3,"p")
+mousemove, 813 ,558 
+sleep(3,"p")
+mousemove, 813 ,559 
+sleep(3,"p")
+mousemove, 813 ,560 
+sleep(2,"p")
+mousemove, 813 ,561 
+sleep(2,"p")
+mousemove, 813 ,562 
+mousemove, 813 ,563 
+sleep(4,"p")
+mousemove, 813 ,564 
+mousemove, 813 ,565 
+sleep(3,"p")
+mousemove, 813 ,566 
+sleep(2,"p")
+mousemove, 813 ,567 
+sleep(2,"p")
+mousemove, 813 ,568 
+sleep(3,"p")
+mousemove, 813 ,569 
+sleep(2,"p")
+mousemove, 813 ,570 
+sleep(3,"p")
+mousemove, 813 ,571 
+mousemove, 813 ,572 
+sleep(3,"p")
+mousemove, 813 ,573 
+mousemove, 813 ,574 
+sleep(3,"p")
+mousemove, 813 ,575 
+sleep(2,"p")
+mousemove, 813 ,576 
+sleep(3,"p")
+mousemove, 813 ,577 
+mousemove, 813 ,578 
+mousemove, 813 ,579 
+sleep(2,"p")
+mousemove, 813 ,580 
+mousemove, 813 ,581 
+sleep(2,"p")
+mousemove, 813 ,582 
+mousemove, 813 ,583 
+sleep(2,"p")
+mousemove, 813 ,584 
+sleep(2,"p")
+mousemove, 813 ,585 
+mousemove, 813 ,586 
+sleep(2,"p")
+mousemove, 813 ,587 
+sleep(2,"p")
+mousemove, 813 ,588 
+sleep(2,"p")
+mousemove, 813 ,589 
+sleep(2,"p")
+mousemove, 813 ,590 
+sleep(3,"p")
+mousemove, 813 ,591 
+sleep(2,"p")
+mousemove, 814 ,592 
+sleep(3,"p")
+mousemove, 814 ,593 
+mousemove, 814 ,594 
+sleep(2,"p")
+mousemove, 814 ,595 
+sleep(3,"p")
+mousemove, 815 ,595 
+mousemove, 815 ,596 
+mousemove, 815 ,597 
+sleep(4,"p")
+mousemove, 815 ,598 
+sleep(2,"p")
+mousemove, 815 ,599 
+sleep(4,"p")
+mousemove, 816 ,600 
+sleep(3,"p")
+mousemove, 816 ,601 
+sleep(2,"p")
+mousemove, 816 ,602 
+sleep(3,"p")
+mousemove, 816 ,603 
+sleep(2,"p")
+mousemove, 817 ,603 
+mousemove, 817 ,604 
+sleep(2,"p")
+mousemove, 817 ,605 
+sleep(3,"p")
+mousemove, 817 ,606 
+sleep(2,"p")
+mousemove, 818 ,607 
+sleep(2,"p")
+mousemove, 818 ,608 
+sleep(4,"p")
+mousemove, 818 ,609 
+mousemove, 818 ,610 
+sleep(2,"p")
+mousemove, 819 ,610 
+mousemove, 819 ,611 
+sleep(3,"p")
+mousemove, 819 ,612 
+sleep(2,"p")
+mousemove, 819 ,613 
+sleep(3,"p")
+mousemove, 820 ,613 
+mousemove, 820 ,614 
+sleep(4,"p")
+mousemove, 820 ,615 
+mousemove, 821 ,615 
+mousemove, 821 ,616 
+sleep(3,"p")
+mousemove, 821 ,617 
+mousemove, 822 ,617 
+sleep(2,"p")
+mousemove, 822 ,618 
+sleep(2,"p")
+mousemove, 822 ,619 
+sleep(2,"p")
+mousemove, 822 ,620 
+mousemove, 823 ,620 
+sleep(4,"p")
+mousemove, 823 ,621 
+mousemove, 824 ,621 
+sleep(2,"p")
+mousemove, 824 ,622 
+sleep(2,"p")
+mousemove, 824 ,623 
+sleep(2,"p")
+mousemove, 825 ,624 
+sleep(3,"p")
+mousemove, 825 ,625 
+sleep(2,"p")
+mousemove, 825 ,626 
+sleep(4,"p")
+mousemove, 826 ,627 
+sleep(3,"p")
+mousemove, 826 ,628 
+sleep(3,"p")
+mousemove, 826 ,629 
+sleep(2,"p")
+mousemove, 827 ,629 
+sleep(3,"p")
+mousemove, 827 ,630 
+sleep(2,"p")
+mousemove, 827 ,631 
+mousemove, 828 ,631 
+sleep(2,"p")
+mousemove, 828 ,632 
+sleep(2,"p")
+mousemove, 828 ,633 
+sleep(3,"p")
+mousemove, 828 ,634 
+sleep(3,"p")
+mousemove, 829 ,634 
+mousemove, 829 ,635 
+sleep(2,"p")
+mousemove, 829 ,636 
+sleep(2,"p")
+mousemove, 830 ,636 
+sleep(2,"p")
+mousemove, 830 ,637 
+sleep(3,"p")
+mousemove, 830 ,638 
+sleep(5,"p")
+mousemove, 830 ,639 
+mousemove, 831 ,640 
+sleep(4,"p")
+mousemove, 831 ,641 
+sleep(4,"p")
+mousemove, 832 ,642 
+sleep(3,"p")
+mousemove, 832 ,643 
+sleep(4,"p")
+mousemove, 833 ,643 
+mousemove, 833 ,644 
+sleep(3,"p")
+mousemove, 833 ,645 
+mousemove, 834 ,645 
+sleep(4,"p")
+mousemove, 834 ,646 
+sleep(2,"p")
+mousemove, 835 ,646 
+sleep(2,"p")
+mousemove, 835 ,647 
+sleep(4,"p")
+mousemove, 836 ,647 
+mousemove, 836 ,648 
+sleep(2,"p")
+mousemove, 837 ,648 
+sleep(4,"p")
+mousemove, 838 ,648 
+mousemove, 838 ,649 
+sleep(2,"p")
+mousemove, 839 ,649 
+sleep(4,"p")
+mousemove, 840 ,650 
+sleep(4,"p")
+mousemove, 841 ,650 
+sleep(2,"p")
+mousemove, 842 ,650 
+sleep(2,"p")
+mousemove, 842 ,651 
+mousemove, 843 ,651 
+sleep(3,"p")
+mousemove, 844 ,651 
+sleep(2,"p")
+mousemove, 845 ,651 
+sleep(2,"p")
+mousemove, 846 ,651 
+sleep(3,"p")
+mousemove, 846 ,652 
+mousemove, 847 ,652 
+sleep(3,"p")
+mousemove, 848 ,652 
+sleep(2,"p")
+mousemove, 849 ,652 
+sleep(3,"p")
+mousemove, 850 ,652 
+sleep(2,"p")
+mousemove, 851 ,652 
+sleep(4,"p")
+mousemove, 852 ,652 
+sleep(2,"p")
+mousemove, 853 ,652 
+sleep(2,"p")
+mousemove, 854 ,653 
+sleep(4,"p")
+mousemove, 855 ,653 
+mousemove, 856 ,653 
+sleep(6,"p")
+mousemove, 857 ,653 
+sleep(5,"p")
+mousemove, 858 ,653 
+sleep(4,"p")
+mousemove, 859 ,653 
+sleep(7,"p")
+mousemove, 860 ,653 
+sleep(4,"p")
+mousemove, 861 ,653 
+sleep(2,"p")
+mousemove, 861 ,652 
+sleep(2,"p")
+mousemove, 862 ,652 
+sleep(2,"p")
+mousemove, 863 ,652 
+sleep(3,"p")
+mousemove, 864 ,652 
+mousemove, 864 ,651 
+mousemove, 865 ,651 
+sleep(3,"p")
+mousemove, 866 ,650 
+sleep(2,"p")
+mousemove, 867 ,650 
+sleep(2,"p")
+mousemove, 868 ,650 
+mousemove, 868 ,649 
+mousemove, 869 ,649 
+sleep(2,"p")
+mousemove, 870 ,648 
+mousemove, 871 ,648 
+sleep(3,"p")
+mousemove, 872 ,647 
+mousemove, 873 ,647 
+sleep(2,"p")
+mousemove, 874 ,647 
+sleep(2,"p")
+mousemove, 875 ,646 
+sleep(2,"p")
+mousemove, 876 ,645 
+sleep(2,"p")
+mousemove, 877 ,645 
+mousemove, 878 ,645 
+mousemove, 878 ,644 
+mousemove, 879 ,644 
+mousemove, 880 ,644 
+sleep(2,"p")
+mousemove, 881 ,643 
+mousemove, 882 ,643 
+sleep(2,"p")
+mousemove, 883 ,643 
+mousemove, 883 ,642 
+mousemove, 884 ,642 
+mousemove, 885 ,642 
+mousemove, 886 ,642 
+sleep(3,"p")
+mousemove, 887 ,641 
+mousemove, 888 ,641 
+sleep(2,"p")
+mousemove, 889 ,641 
+mousemove, 889 ,640 
+mousemove, 890 ,640 
+mousemove, 891 ,640 
+mousemove, 892 ,640 
+mousemove, 892 ,639 
+mousemove, 893 ,639 
+mousemove, 894 ,639 
+mousemove, 895 ,639 
+sleep(2,"p")
+mousemove, 896 ,639 
+sleep(2,"p")
+mousemove, 897 ,638 
+mousemove, 898 ,638 
+sleep(2,"p")
+mousemove, 899 ,638 
+sleep(2,"p")
+mousemove, 900 ,638 
+sleep(2,"p")
+mousemove, 901 ,638 
+sleep(3,"p")
+mousemove, 902 ,638 
+mousemove, 902 ,637 
+sleep(3,"p")
+mousemove, 903 ,637 
+sleep(3,"p")
+mousemove, 904 ,637 
+sleep(2,"p")
+mousemove, 905 ,637 
+sleep(2,"p")
+mousemove, 905 ,636 
+mousemove, 906 ,636 
+sleep(3,"p")
+mousemove, 907 ,636 
+sleep(4,"p")
+mousemove, 908 ,636 
+sleep(5,"p")
+mousemove, 909 ,636 
+sleep(3,"p")
+mousemove, 910 ,636 
+sleep(4,"p")
+mousemove, 911 ,636 
+sleep(2,"p")
+mousemove, 911 ,635 
+mousemove, 912 ,635 
+sleep(3,"p")
+mousemove, 913 ,635 
+sleep(3,"p")
+mousemove, 914 ,635 
+sleep(3,"p")
+mousemove, 915 ,635 
+sleep(3,"p")
+mousemove, 916 ,635 
+sleep(2,"p")
+mousemove, 916 ,634 
+mousemove, 917 ,634 
+sleep(5,"p")
+mousemove, 918 ,634 
+sleep(3,"p")
+mousemove, 919 ,634 
+sleep(50,"p")
+mousemove, 920 ,634 
+sleep(7,"p")
+mousemove, 921 ,634 
+sleep(4,"p")
+mousemove, 922 ,634 
+sleep(5,"p")
+mousemove, 923 ,634 
+sleep(2,"p")
+mousemove, 924 ,634 
+sleep(3,"p")
+mousemove, 925 ,634 
+sleep(3,"p")
+mousemove, 926 ,634 
+sleep(2,"p")
+mousemove, 927 ,635 
+mousemove, 928 ,635 
+sleep(2,"p")
+mousemove, 929 ,635 
+mousemove, 930 ,635 
+sleep(2,"p")
+mousemove, 931 ,635 
+sleep(2,"p")
+mousemove, 932 ,635 
+mousemove, 933 ,635 
+mousemove, 934 ,635 
+sleep(2,"p")
+mousemove, 935 ,635 
+mousemove, 936 ,635 
+sleep(2,"p")
+mousemove, 937 ,635 
+mousemove, 937 ,634 
+mousemove, 939 ,634 
+sleep(3,"p")
+mousemove, 941 ,633 
+sleep(2,"p")
+mousemove, 942 ,633 
+sleep(2,"p")
+mousemove, 943 ,633 
+sleep(2,"p")
+mousemove, 944 ,633 
+mousemove, 945 ,633 
+mousemove, 947 ,632 
+sleep(2,"p")
+mousemove, 948 ,632 
+mousemove, 949 ,632 
+mousemove, 949 ,631 
+mousemove, 950 ,631 
+sleep(2,"p")
+mousemove, 951 ,631 
+sleep(2,"p")
+mousemove, 952 ,631 
+sleep(2,"p")
+mousemove, 953 ,631 
+mousemove, 954 ,630 
+sleep(2,"p")
+mousemove, 955 ,630 
+mousemove, 956 ,629 
+sleep(3,"p")
+mousemove, 957 ,629 
+sleep(2,"p")
+mousemove, 958 ,629 
+mousemove, 958 ,628 
+mousemove, 959 ,628 
+sleep(2,"p")
+mousemove, 960 ,628 
+mousemove, 960 ,627 
+sleep(2,"p")
+mousemove, 961 ,627 
+sleep(2,"p")
+mousemove, 962 ,627 
+mousemove, 962 ,626 
+mousemove, 963 ,626 
+sleep(2,"p")
+mousemove, 964 ,625 
+mousemove, 965 ,625 
+sleep(2,"p")
+mousemove, 966 ,625 
+mousemove, 966 ,624 
+mousemove, 967 ,624 
+mousemove, 968 ,623 
+mousemove, 969 ,623 
+sleep(2,"p")
+mousemove, 970 ,622 
+sleep(2,"p")
+mousemove, 971 ,621 
+mousemove, 972 ,621 
+mousemove, 973 ,621 
+mousemove, 974 ,620 
+sleep(2,"p")
+mousemove, 975 ,620 
+mousemove, 976 ,619 
+mousemove, 977 ,619 
+mousemove, 978 ,619 
+mousemove, 979 ,618 
+mousemove, 980 ,618 
+sleep(2,"p")
+mousemove, 981 ,618 
+mousemove, 982 ,618 
+mousemove, 983 ,617 
+mousemove, 984 ,617 
+sleep(2,"p")
+mousemove, 986 ,617 
+mousemove, 987 ,616 
+sleep(2,"p")
+mousemove, 989 ,616 
+mousemove, 990 ,615 
+mousemove, 991 ,615 
+mousemove, 992 ,615 
+mousemove, 993 ,615 
+mousemove, 994 ,614 
+mousemove, 995 ,614 
+mousemove, 997 ,614 
+sleep(2,"p")
+mousemove, 998 ,614 
+mousemove, 999 ,613 
+mousemove, 1000 ,613 
+mousemove, 1001 ,613 
+mousemove, 1003 ,613 
+mousemove, 1004 ,613 
+mousemove, 1005 ,612 
+mousemove, 1006 ,612 
+mousemove, 1008 ,612 
+mousemove, 1010 ,612 
+mousemove, 1011 ,611 
+mousemove, 1013 ,611 
+mousemove, 1014 ,611 
+mousemove, 1016 ,611 
+mousemove, 1017 ,611 
+mousemove, 1019 ,611 
+mousemove, 1021 ,610 
+mousemove, 1022 ,610 
+mousemove, 1023 ,610 
+mousemove, 1026 ,610 
+mousemove, 1027 ,610 
+mousemove, 1029 ,610 
+mousemove, 1030 ,609 
+mousemove, 1032 ,609 
+mousemove, 1033 ,609 
+sleep(2,"p")
+mousemove, 1035 ,609 
+mousemove, 1036 ,608 
+mousemove, 1037 ,608 
+mousemove, 1039 ,608 
+mousemove, 1040 ,608 
+mousemove, 1041 ,608 
+mousemove, 1042 ,608 
+mousemove, 1043 ,607 
+mousemove, 1045 ,607 
+mousemove, 1046 ,607 
+mousemove, 1047 ,607 
+mousemove, 1048 ,607 
+mousemove, 1050 ,606 
+mousemove, 1051 ,606 
+mousemove, 1052 ,606 
+mousemove, 1053 ,606 
+mousemove, 1054 ,605 
+mousemove, 1055 ,605 
+sleep(2,"p")
+mousemove, 1056 ,605 
+mousemove, 1057 ,604 
+mousemove, 1058 ,604 
+sleep(2,"p")
+mousemove, 1059 ,604 
+mousemove, 1060 ,604 
+mousemove, 1061 ,604 
+mousemove, 1061 ,603 
+mousemove, 1062 ,603 
+sleep(2,"p")
+mousemove, 1063 ,602 
+mousemove, 1064 ,602 
+sleep(2,"p")
+mousemove, 1065 ,602 
+mousemove, 1066 ,601 
+sleep(2,"p")
+mousemove, 1067 ,601 
+mousemove, 1067 ,600 
+mousemove, 1068 ,600 
+mousemove, 1069 ,600 
+sleep(2,"p")
+mousemove, 1070 ,599 
+sleep(2,"p")
+mousemove, 1071 ,598 
+sleep(2,"p")
+mousemove, 1072 ,598 
+sleep(2,"p")
+mousemove, 1073 ,597 
+mousemove, 1074 ,597 
+mousemove, 1074 ,596 
+mousemove, 1075 ,596 
+mousemove, 1075 ,595 
+mousemove, 1076 ,595 
+mousemove, 1076 ,594 
+mousemove, 1077 ,594 
+sleep(2,"p")
+mousemove, 1078 ,593 
+sleep(2,"p")
+mousemove, 1079 ,592 
+mousemove, 1080 ,592 
+mousemove, 1080 ,591 
+mousemove, 1081 ,590 
+sleep(2,"p")
+mousemove, 1082 ,589 
+sleep(2,"p")
+mousemove, 1083 ,589 
+mousemove, 1083 ,588 
+mousemove, 1084 ,587 
+sleep(3,"p")
+mousemove, 1086 ,586 
+mousemove, 1086 ,585 
+mousemove, 1087 ,585 
+mousemove, 1087 ,584 
+mousemove, 1088 ,584 
+mousemove, 1089 ,583 
+mousemove, 1090 ,582 
+mousemove, 1091 ,582 
+mousemove, 1091 ,581 
+mousemove, 1092 ,580 
+mousemove, 1093 ,580 
+mousemove, 1094 ,579 
+mousemove, 1095 ,578 
+sleep(2,"p")
+mousemove, 1096 ,577 
+mousemove, 1097 ,577 
+mousemove, 1098 ,576 
+mousemove, 1099 ,575 
+sleep(2,"p")
+mousemove, 1100 ,575 
+mousemove, 1101 ,574 
+mousemove, 1102 ,574 
+mousemove, 1102 ,573 
+mousemove, 1103 ,573 
+sleep(2,"p")
+mousemove, 1104 ,573 
+mousemove, 1105 ,572 
+mousemove, 1106 ,571 
+sleep(2,"p")
+mousemove, 1107 ,571 
+mousemove, 1108 ,570 
+sleep(2,"p")
+mousemove, 1109 ,570 
+sleep(3,"p")
+mousemove, 1110 ,570 
+mousemove, 1110 ,569 
+mousemove, 1111 ,569 
+mousemove, 1112 ,569 
+sleep(2,"p")
+mousemove, 1112 ,568 
+mousemove, 1113 ,568 
+sleep(4,"p")
+mousemove, 1114 ,568 
+sleep(3,"p")
+mousemove, 1115 ,568 
+sleep(3,"p")
+mousemove, 1116 ,568 
+sleep(8,"p")
+mousemove, 1117 ,567 
+sleep(86,"p")
+mousemove, 1118 ,567 
+sleep(10,"p")
+mousemove, 1119 ,567 
+mousemove, 1119 ,566 
+sleep(56,"p")
+mousemove, 1120 ,566 
+sleep(5,"p")
+mousemove, 1121 ,566 
+sleep(7,"p")
+mousemove, 1122 ,566 
+sleep(6,"p")
+mousemove, 1123 ,566 
+sleep(4,"p")
+mousemove, 1124 ,566 
+sleep(3,"p")
+mousemove, 1125 ,566 
+sleep(6,"p")
+mousemove, 1126 ,566 
+sleep(2,"p")
+mousemove, 1127 ,566 
+sleep(7,"p")
+mousemove, 1128 ,566 
+sleep(6,"p")
+mousemove, 1129 ,566 
+sleep(21,"p")
+mousemove, 1130 ,566 
+sleep(8,"p")
+mousemove, 1130 ,567 
+mousemove, 1131 ,567 
+sleep(6,"p")
+mousemove, 1132 ,567 
+mousemove, 1132 ,568 
+sleep(2,"p")
+mousemove, 1133 ,568 
+sleep(2,"p")
+mousemove, 1134 ,568 
+sleep(2,"p")
+mousemove, 1134 ,569 
+sleep(2,"p")
+mousemove, 1135 ,569 
+sleep(2,"p")
+mousemove, 1136 ,569 
+sleep(3,"p")
+mousemove, 1137 ,570 
+sleep(2,"p")
+mousemove, 1138 ,570 
+sleep(2,"p")
+mousemove, 1139 ,570 
+sleep(3,"p")
+mousemove, 1140 ,570 
+mousemove, 1141 ,570 
+sleep(3,"p")
+mousemove, 1141 ,571 
+mousemove, 1142 ,571 
+sleep(2,"p")
+mousemove, 1143 ,571 
+sleep(4,"p")
+mousemove, 1144 ,571 
+sleep(3,"p")
+mousemove, 1145 ,571 
+sleep(8,"p")
+mousemove, 1146 ,571 
+sleep(142,"p")
+mousemove, 1146 ,571 
+click down
+sleep(82,"p")
+mousemove, 1146 ,571 
+click up
+sleep(320,"p")
+mousemove, 1146 ,572 
+sleep(151,"p")
+mousemove, 1146 ,573 
+sleep(6,"p")
+mousemove, 1145 ,573 
+sleep(4,"p")
+mousemove, 1145 ,574 
+sleep(2,"p")
+mousemove, 1144 ,575 
+sleep(3,"p")
+mousemove, 1143 ,575 
+sleep(5,"p")
+mousemove, 1142 ,576 
+sleep(2,"p")
+mousemove, 1141 ,576 
+mousemove, 1141 ,577 
+sleep(2,"p")
+mousemove, 1140 ,577 
+sleep(3,"p")
+mousemove, 1139 ,578 
+sleep(4,"p")
+mousemove, 1138 ,578 
+sleep(2,"p")
+mousemove, 1138 ,579 
+sleep(3,"p")
+mousemove, 1137 ,579 
+sleep(6,"p")
+mousemove, 1136 ,580 
+sleep(6,"p")
+mousemove, 1135 ,580 
+mousemove, 1135 ,581 
+sleep(3,"p")
+mousemove, 1134 ,581 
+sleep(3,"p")
+mousemove, 1134 ,582 
+mousemove, 1133 ,582 
+sleep(5,"p")
+mousemove, 1132 ,582 
+mousemove, 1132 ,583 
+sleep(4,"p")
+mousemove, 1131 ,583 
+sleep(6,"p")
+mousemove, 1130 ,583 
+sleep(16,"p")
+mousemove, 1129 ,583 
+sleep(16,"p")
+mousemove, 1129 ,584 
+sleep(7,"p")
+mousemove, 1128 ,584 
+sleep(12,"p")
+mousemove, 1127 ,584 
+sleep(4,"p")
+mousemove, 1126 ,584 
+sleep(2,"p")
+mousemove, 1126 ,585 
+sleep(3,"p")
+mousemove, 1125 ,585 
+sleep(3,"p")
+mousemove, 1124 ,585 
+sleep(3,"p")
+mousemove, 1123 ,585 
+sleep(3,"p")
+mousemove, 1122 ,585 
+sleep(3,"p")
+mousemove, 1121 ,585 
+sleep(2,"p")
+mousemove, 1120 ,585 
+mousemove, 1120 ,586 
+sleep(2,"p")
+mousemove, 1119 ,586 
+sleep(3,"p")
+mousemove, 1118 ,586 
+sleep(3,"p")
+mousemove, 1117 ,586 
+sleep(5,"p")
+mousemove, 1116 ,586 
+sleep(3,"p")
+mousemove, 1115 ,586 
+sleep(4,"p")
+mousemove, 1114 ,586 
+sleep(3,"p")
+mousemove, 1113 ,586 
+sleep(5,"p")
+mousemove, 1112 ,586 
+sleep(3,"p")
+mousemove, 1111 ,586 
+sleep(9,"p")
+mousemove, 1110 ,586 
+sleep(14,"p")
+mousemove, 1109 ,586 
+sleep(9,"p")
+mousemove, 1108 ,586 
+sleep(10,"p")
+mousemove, 1107 ,586 
+sleep(7,"p")
+mousemove, 1106 ,586 
+sleep(16,"p")
+mousemove, 1105 ,586 
+sleep(24,"p")
+mousemove, 1104 ,586 
+sleep(13,"p")
+mousemove, 1103 ,586 
+sleep(5,"p")
+mousemove, 1103 ,585 
+mousemove, 1102 ,585 
+sleep(5,"p")
+mousemove, 1101 ,585 
+sleep(2,"p")
+mousemove, 1100 ,584 
+sleep(3,"p")
+mousemove, 1099 ,584 
+mousemove, 1098 ,583 
+sleep(3,"p")
+mousemove, 1097 ,583 
+sleep(2,"p")
+mousemove, 1096 ,583 
+mousemove, 1096 ,582 
+mousemove, 1095 ,582 
+sleep(2,"p")
+mousemove, 1094 ,582 
+mousemove, 1094 ,581 
+mousemove, 1093 ,581 
+mousemove, 1092 ,581 
+mousemove, 1092 ,580 
+mousemove, 1091 ,580 
+mousemove, 1090 ,580 
+sleep(3,"p")
+mousemove, 1089 ,579 
+mousemove, 1088 ,579 
+mousemove, 1087 ,579 
+sleep(2,"p")
+mousemove, 1086 ,578 
+mousemove, 1085 ,578 
+sleep(2,"p")
+mousemove, 1084 ,577 
+mousemove, 1083 ,577 
+sleep(2,"p")
+mousemove, 1082 ,576 
+mousemove, 1081 ,576 
+mousemove, 1080 ,575 
+mousemove, 1079 ,575 
+mousemove, 1078 ,575 
+mousemove, 1078 ,574 
+mousemove, 1077 ,574 
+mousemove, 1076 ,574 
+mousemove, 1075 ,573 
+mousemove, 1074 ,573 
+mousemove, 1073 ,573 
+sleep(2,"p")
+mousemove, 1073 ,572 
+mousemove, 1071 ,572 
+mousemove, 1070 ,571 
+mousemove, 1069 ,571 
+mousemove, 1068 ,570 
+sleep(2,"p")
+mousemove, 1066 ,570 
+sleep(2,"p")
+mousemove, 1066 ,569 
+mousemove, 1064 ,569 
+mousemove, 1064 ,568 
+mousemove, 1063 ,568 
+mousemove, 1062 ,568 
+mousemove, 1061 ,567 
+sleep(2,"p")
+mousemove, 1060 ,567 
+mousemove, 1060 ,566 
+mousemove, 1059 ,566 
+mousemove, 1058 ,566 
+sleep(3,"p")
+mousemove, 1057 ,565 
+mousemove, 1056 ,565 
+sleep(3,"p")
+mousemove, 1056 ,564 
+mousemove, 1055 ,564 
+sleep(2,"p")
+mousemove, 1054 ,563 
+mousemove, 1053 ,563 
+mousemove, 1052 ,563 
+mousemove, 1051 ,562 
+sleep(2,"p")
+mousemove, 1050 ,562 
+mousemove, 1050 ,561 
+mousemove, 1049 ,561 
+mousemove, 1048 ,561 
+sleep(2,"p")
+mousemove, 1047 ,560 
+sleep(3,"p")
+mousemove, 1046 ,560 
+mousemove, 1046 ,559 
+mousemove, 1044 ,559 
+sleep(2,"p")
+mousemove, 1043 ,558 
+sleep(2,"p")
+mousemove, 1042 ,557 
+mousemove, 1041 ,557 
+sleep(2,"p")
+mousemove, 1040 ,557 
+mousemove, 1040 ,556 
+mousemove, 1039 ,556 
+sleep(2,"p")
+mousemove, 1038 ,556 
+mousemove, 1038 ,555 
+mousemove, 1037 ,555 
+mousemove, 1036 ,555 
+sleep(2,"p")
+mousemove, 1036 ,554 
+mousemove, 1035 ,554 
+sleep(3,"p")
+mousemove, 1034 ,554 
+sleep(4,"p")
+mousemove, 1033 ,553 
+sleep(3,"p")
+mousemove, 1032 ,553 
+mousemove, 1031 ,553 
+mousemove, 1031 ,552 
+sleep(3,"p")
+mousemove, 1030 ,552 
+sleep(3,"p")
+mousemove, 1029 ,551 
+sleep(3,"p")
+mousemove, 1028 ,551 
+sleep(5,"p")
+mousemove, 1027 ,550 
+sleep(2,"p")
+mousemove, 1026 ,550 
+sleep(3,"p")
+mousemove, 1026 ,549 
+sleep(2,"p")
+mousemove, 1025 ,549 
+sleep(4,"p")
+mousemove, 1024 ,549 
+sleep(45,"p")
+mousemove, 1023 ,549 
+sleep(4,"p")
+mousemove, 1023 ,548 
+sleep(3,"p")
+mousemove, 1022 ,548 
+sleep(2,"p")
+mousemove, 1021 ,548 
+sleep(5,"p")
+mousemove, 1020 ,548 
+mousemove, 1020 ,547 
+mousemove, 1019 ,547 
+sleep(5,"p")
+mousemove, 1018 ,547 
+mousemove, 1018 ,546 
+sleep(2,"p")
+mousemove, 1017 ,546 
+sleep(3,"p")
+mousemove, 1016 ,546 
+sleep(5,"p")
+mousemove, 1015 ,546 
+sleep(4,"p")
+mousemove, 1014 ,546 
+sleep(6,"p")
+mousemove, 1013 ,546 
+sleep(2,"p")
+mousemove, 1013 ,547 
+mousemove, 1012 ,547 
+sleep(4,"p")
+mousemove, 1011 ,548 
+sleep(3,"p")
+mousemove, 1010 ,548 
+sleep(2,"p")
+mousemove, 1010 ,549 
+sleep(349,"p")
+mousemove, 1010 ,548 
+sleep(3,"p")
+mousemove, 1010 ,547 
+mousemove, 1011 ,547 
+sleep(2,"p")
+mousemove, 1011 ,546 
+sleep(3,"p")
+mousemove, 1011 ,545 
+sleep(5,"p")
+mousemove, 1011 ,544 
+sleep(5,"p")
+mousemove, 1011 ,543 
+sleep(5,"p")
+mousemove, 1011 ,542 
+sleep(3,"p")
+mousemove, 1011 ,541 
+sleep(6,"p")
+mousemove, 1011 ,540 
+sleep(4,"p")
+mousemove, 1011 ,539 
+sleep(9,"p")
+mousemove, 1011 ,538 
+sleep(37,"p")
+mousemove, 1011 ,539 
+sleep(14,"p")
+mousemove, 1010 ,539 
+sleep(8,"p")
+mousemove, 1010 ,540 
+sleep(12,"p")
+mousemove, 1009 ,540 
+sleep(159,"p")
+mousemove, 1008 ,540 
+sleep(7,"p")
+mousemove, 1007 ,540 
+sleep(2,"p")
+mousemove, 1006 ,540 
+sleep(5,"p")
+mousemove, 1005 ,540 
+sleep(5,"p")
+mousemove, 1004 ,540 
+sleep(11,"p")
+mousemove, 1003 ,540 
+sleep(58,"p")
+mousemove, 1003 ,539 
+sleep(38,"p")
+mousemove, 1003 ,538 
+mousemove, 1002 ,538 
+sleep(5,"p")
+mousemove, 1001 ,537 
+sleep(6,"p")
+mousemove, 1000 ,536 
+sleep(4,"p")
+mousemove, 999 ,536 
+sleep(8,"p")
+mousemove, 998 ,535 
+sleep(57,"p")
+mousemove, 998 ,534 
+sleep(12,"p")
+mousemove, 998 ,533 
+sleep(126,"p")
+mousemove, 997 ,533 
+sleep(41,"p")
+mousemove, 997 ,533 , Wheel , -1 , 0 , 0
+sleep(67,"p")
+mousemove, 997 ,533 , Wheel , -1 , 0 , 0
+sleep(24,"p")
+mousemove, 997 ,533 , Wheel , -1 , 0 , 0
+sleep(14,"p")
+mousemove, 997 ,533 , Wheel , -1 , 0 , 0
+sleep(17,"p")
+mousemove, 997 ,533 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 997 ,533 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 997 ,534 
+sleep(7,"p")
+mousemove, 997 ,534 , Wheel , -1 , 0 , 0
+mousemove, 997 ,535 
+sleep(13,"p")
+mousemove, 997 ,536 
+sleep(2,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(17,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(24,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(19,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(19,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(21,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(22,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(22,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(23,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(21,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(22,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(23,"p")
+mousemove, 997 ,536 , Wheel , -1 , 0 , 0
+sleep(92,"p")
+mousemove, 997 ,536 , Wheel , 1 , 0 , 0
+sleep(634,"p")
+mousemove, 997 ,537 
+sleep(2,"p")
+mousemove, 997 ,538 
+sleep(2,"p")
+mousemove, 996 ,538 
+mousemove, 996 ,539 
+sleep(2,"p")
+mousemove, 996 ,540 
+mousemove, 995 ,540 
+mousemove, 995 ,541 
+mousemove, 995 ,542 
+mousemove, 994 ,542 
+mousemove, 993 ,543 
+mousemove, 993 ,544 
+mousemove, 992 ,544 
+mousemove, 992 ,545 
+mousemove, 991 ,546 
+sleep(2,"p")
+mousemove, 991 ,547 
+sleep(2,"p")
+mousemove, 990 ,548 
+sleep(2,"p")
+mousemove, 989 ,549 
+mousemove, 988 ,550 
+mousemove, 988 ,551 
+sleep(2,"p")
+mousemove, 987 ,552 
+mousemove, 986 ,552 
+mousemove, 986 ,553 
+mousemove, 985 ,554 
+sleep(2,"p")
+mousemove, 985 ,555 
+mousemove, 984 ,556 
+mousemove, 983 ,556 
+mousemove, 983 ,557 
+mousemove, 982 ,558 
+mousemove, 982 ,559 
+sleep(2,"p")
+mousemove, 981 ,559 
+mousemove, 981 ,560 
+mousemove, 980 ,561 
+sleep(2,"p")
+mousemove, 979 ,562 
+mousemove, 979 ,563 
+mousemove, 978 ,563 
+mousemove, 978 ,564 
+mousemove, 977 ,565 
+sleep(2,"p")
+mousemove, 976 ,566 
+sleep(2,"p")
+mousemove, 976 ,567 
+mousemove, 975 ,568 
+mousemove, 974 ,568 
+mousemove, 974 ,569 
+mousemove, 973 ,570 
+sleep(2,"p")
+mousemove, 972 ,571 
+mousemove, 972 ,572 
+mousemove, 971 ,572 
+mousemove, 971 ,573 
+mousemove, 970 ,574 
+sleep(3,"p")
+mousemove, 969 ,576 
+sleep(4,"p")
+mousemove, 968 ,577 
+mousemove, 968 ,578 
+mousemove, 967 ,578 
+mousemove, 967 ,579 
+sleep(2,"p")
+mousemove, 966 ,580 
+mousemove, 966 ,581 
+mousemove, 965 ,581 
+mousemove, 965 ,582 
+sleep(2,"p")
+mousemove, 964 ,583 
+mousemove, 964 ,584 
+mousemove, 963 ,584 
+mousemove, 963 ,585 
+mousemove, 962 ,585 
+mousemove, 962 ,586 
+mousemove, 962 ,587 
+sleep(2,"p")
+mousemove, 961 ,588 
+mousemove, 961 ,589 
+sleep(2,"p")
+mousemove, 960 ,589 
+mousemove, 960 ,590 
+mousemove, 960 ,591 
+sleep(2,"p")
+mousemove, 959 ,591 
+mousemove, 959 ,592 
+mousemove, 958 ,593 
+mousemove, 958 ,594 
+sleep(2,"p")
+mousemove, 957 ,595 
+sleep(2,"p")
+mousemove, 957 ,596 
+sleep(2,"p")
+mousemove, 956 ,597 
+mousemove, 956 ,598 
+sleep(3,"p")
+mousemove, 955 ,599 
+sleep(2,"p")
+mousemove, 955 ,600 
+mousemove, 954 ,601 
+sleep(2,"p")
+mousemove, 954 ,602 
+mousemove, 953 ,602 
+mousemove, 953 ,603 
+sleep(2,"p")
+mousemove, 952 ,604 
+sleep(3,"p")
+mousemove, 952 ,605 
+mousemove, 951 ,605 
+mousemove, 951 ,606 
+mousemove, 950 ,607 
+sleep(2,"p")
+mousemove, 950 ,608 
+mousemove, 949 ,608 
+mousemove, 949 ,609 
+sleep(2,"p")
+mousemove, 948 ,609 
+mousemove, 948 ,610 
+mousemove, 947 ,611 
+sleep(2,"p")
+mousemove, 947 ,612 
+mousemove, 946 ,612 
+sleep(2,"p")
+mousemove, 946 ,613 
+mousemove, 945 ,613 
+sleep(2,"p")
+mousemove, 945 ,614 
+sleep(2,"p")
+mousemove, 944 ,614 
+sleep(2,"p")
+mousemove, 944 ,615 
+mousemove, 943 ,615 
+mousemove, 943 ,616 
+sleep(3,"p")
+mousemove, 942 ,616 
+mousemove, 942 ,617 
+sleep(2,"p")
+mousemove, 941 ,617 
+sleep(2,"p")
+mousemove, 941 ,618 
+sleep(2,"p")
+mousemove, 940 ,618 
+sleep(2,"p")
+mousemove, 940 ,619 
+mousemove, 939 ,619 
+sleep(2,"p")
+mousemove, 939 ,620 
+mousemove, 938 ,620 
+sleep(2,"p")
+mousemove, 938 ,621 
+mousemove, 937 ,621 
+sleep(2,"p")
+mousemove, 937 ,622 
+mousemove, 936 ,622 
+sleep(2,"p")
+mousemove, 935 ,623 
+sleep(4,"p")
+mousemove, 934 ,624 
+sleep(2,"p")
+mousemove, 933 ,625 
+sleep(3,"p")
+mousemove, 932 ,626 
+sleep(3,"p")
+mousemove, 931 ,627 
+sleep(3,"p")
+mousemove, 931 ,628 
+sleep(2,"p")
+mousemove, 930 ,628 
+mousemove, 929 ,629 
+sleep(2,"p")
+mousemove, 929 ,630 
+sleep(3,"p")
+mousemove, 928 ,630 
+mousemove, 928 ,631 
+mousemove, 927 ,631 
+mousemove, 927 ,632 
+sleep(2,"p")
+mousemove, 926 ,632 
+mousemove, 926 ,633 
+mousemove, 925 ,633 
+mousemove, 925 ,634 
+sleep(2,"p")
+mousemove, 924 ,635 
+sleep(2,"p")
+mousemove, 923 ,636 
+sleep(2,"p")
+mousemove, 922 ,637 
+sleep(2,"p")
+mousemove, 921 ,638 
+sleep(2,"p")
+mousemove, 920 ,639 
+sleep(2,"p")
+mousemove, 919 ,639 
+mousemove, 919 ,640 
+mousemove, 918 ,641 
+sleep(2,"p")
+mousemove, 917 ,642 
+mousemove, 916 ,643 
+sleep(3,"p")
+mousemove, 915 ,644 
+mousemove, 915 ,645 
+mousemove, 914 ,645 
+sleep(2,"p")
+mousemove, 913 ,646 
+sleep(2,"p")
+mousemove, 912 ,647 
+mousemove, 911 ,647 
+mousemove, 911 ,648 
+sleep(2,"p")
+mousemove, 910 ,649 
+mousemove, 909 ,649 
+sleep(2,"p")
+mousemove, 909 ,650 
+mousemove, 908 ,650 
+sleep(2,"p")
+mousemove, 907 ,651 
+mousemove, 907 ,652 
+mousemove, 906 ,652 
+mousemove, 906 ,653 
+mousemove, 905 ,653 
+mousemove, 904 ,654 
+sleep(3,"p")
+mousemove, 903 ,655 
+mousemove, 902 ,656 
+sleep(2,"p")
+mousemove, 901 ,657 
+sleep(2,"p")
+mousemove, 900 ,657 
+sleep(2,"p")
+mousemove, 899 ,658 
+mousemove, 898 ,659 
+sleep(3,"p")
+mousemove, 897 ,660 
+mousemove, 896 ,661 
+sleep(3,"p")
+mousemove, 895 ,662 
+sleep(2,"p")
+mousemove, 894 ,662 
+mousemove, 894 ,663 
+mousemove, 893 ,663 
+mousemove, 893 ,664 
+sleep(2,"p")
+mousemove, 892 ,664 
+mousemove, 892 ,665 
+mousemove, 891 ,665 
+mousemove, 891 ,666 
+sleep(3,"p")
+mousemove, 890 ,666 
+mousemove, 890 ,667 
+sleep(2,"p")
+mousemove, 889 ,667 
+mousemove, 889 ,668 
+mousemove, 888 ,669 
+sleep(2,"p")
+mousemove, 887 ,669 
+mousemove, 887 ,670 
+sleep(2,"p")
+mousemove, 886 ,671 
+sleep(3,"p")
+mousemove, 885 ,672 
+mousemove, 884 ,672 
+mousemove, 884 ,673 
+sleep(4,"p")
+mousemove, 883 ,674 
+mousemove, 882 ,674 
+mousemove, 882 ,675 
+sleep(2,"p")
+mousemove, 881 ,676 
+sleep(2,"p")
+mousemove, 880 ,676 
+mousemove, 880 ,677 
+mousemove, 879 ,677 
+sleep(3,"p")
+mousemove, 879 ,678 
+mousemove, 878 ,678 
+sleep(3,"p")
+mousemove, 877 ,678 
+sleep(9,"p")
+mousemove, 876 ,679 
+sleep(46,"p")
+mousemove, 875 ,679 
+sleep(2,"p")
+mousemove, 874 ,679 
+sleep(3,"p")
+mousemove, 873 ,679 
+sleep(2,"p")
+mousemove, 872 ,679 
+sleep(2,"p")
+mousemove, 871 ,679 
+sleep(2,"p")
+mousemove, 870 ,679 
+mousemove, 870 ,680 
+mousemove, 869 ,680 
+mousemove, 868 ,680 
+sleep(2,"p")
+mousemove, 867 ,680 
+mousemove, 866 ,680 
+mousemove, 865 ,680 
+mousemove, 864 ,680 
+sleep(2,"p")
+mousemove, 863 ,680 
+mousemove, 863 ,681 
+mousemove, 862 ,681 
+mousemove, 861 ,681 
+sleep(2,"p")
+mousemove, 860 ,681 
+mousemove, 859 ,681 
+sleep(2,"p")
+mousemove, 858 ,681 
+mousemove, 857 ,681 
+sleep(2,"p")
+mousemove, 856 ,682 
+mousemove, 855 ,682 
+sleep(3,"p")
+mousemove, 854 ,682 
+sleep(2,"p")
+mousemove, 853 ,682 
+sleep(2,"p")
+mousemove, 852 ,682 
+mousemove, 851 ,682 
+sleep(2,"p")
+mousemove, 850 ,682 
+sleep(2,"p")
+mousemove, 849 ,682 
+mousemove, 849 ,683 
+mousemove, 848 ,683 
+sleep(2,"p")
+mousemove, 847 ,683 
+sleep(2,"p")
+mousemove, 846 ,683 
+sleep(2,"p")
+mousemove, 845 ,683 
+sleep(3,"p")
+mousemove, 844 ,683 
+sleep(5,"p")
+mousemove, 843 ,683 
+sleep(251,"p")
+mousemove, 843 ,683 
+click down
+sleep(95,"p")
+mousemove, 843 ,683 
+click up
+sleep(662,"p")
+mousemove, 844 ,683 
+sleep(39,"p")
+mousemove, 844 ,682 
+sleep(72,"p")
+mousemove, 844 ,681 
+sleep(4,"p")
+mousemove, 845 ,681 
+sleep(9,"p")
+mousemove, 845 ,680 
+sleep(14,"p")
+mousemove, 845 ,679 
+sleep(8,"p")
+mousemove, 846 ,679 
+sleep(11,"p")
+mousemove, 846 ,678 
+sleep(18,"p")
+mousemove, 846 ,677 
+sleep(74,"p")
+mousemove, 846 ,676 
+sleep(5,"p")
+mousemove, 847 ,676 
+mousemove, 847 ,675 
+mousemove, 847 ,674 
+sleep(4,"p")
+mousemove, 848 ,673 
+sleep(3,"p")
+mousemove, 848 ,672 
+mousemove, 849 ,672 
+sleep(2,"p")
+mousemove, 849 ,671 
+sleep(4,"p")
+mousemove, 849 ,670 
+mousemove, 850 ,670 
+sleep(3,"p")
+mousemove, 850 ,669 
+sleep(6,"p")
+mousemove, 851 ,668 
+sleep(6,"p")
+mousemove, 851 ,667 
+sleep(3,"p")
+mousemove, 852 ,667 
+sleep(2,"p")
+mousemove, 852 ,666 
+sleep(5,"p")
+mousemove, 852 ,665 
+sleep(5,"p")
+mousemove, 853 ,664 
+sleep(5,"p")
+mousemove, 853 ,663 
+sleep(6,"p")
+mousemove, 853 ,662 
+sleep(3,"p")
+mousemove, 854 ,662 
+sleep(2,"p")
+mousemove, 854 ,661 
+sleep(7,"p")
+mousemove, 854 ,660 
+sleep(6,"p")
+mousemove, 854 ,659 
+sleep(7,"p")
+mousemove, 855 ,658 
+sleep(13,"p")
+mousemove, 855 ,657 
+sleep(5,"p")
+mousemove, 856 ,656 
+sleep(10,"p")
+mousemove, 856 ,655 
+sleep(11,"p")
+mousemove, 856 ,654 
+sleep(3,"p")
+mousemove, 857 ,654 
+sleep(7,"p")
+mousemove, 857 ,653 
+sleep(16,"p")
+mousemove, 857 ,652 
+sleep(8,"p")
+mousemove, 858 ,652 
+sleep(6,"p")
+mousemove, 858 ,651 
+sleep(8,"p")
+mousemove, 858 ,650 
+mousemove, 859 ,650 
+sleep(7,"p")
+mousemove, 859 ,649 
+sleep(13,"p")
+mousemove, 859 ,648 
+sleep(2,"p")
+mousemove, 860 ,648 
+sleep(12,"p")
+mousemove, 860 ,647 
+sleep(5,"p")
+mousemove, 861 ,647 
+sleep(5,"p")
+mousemove, 861 ,646 
+sleep(4,"p")
+mousemove, 862 ,646 
+mousemove, 862 ,645 
+sleep(4,"p")
+mousemove, 863 ,645 
+sleep(2,"p")
+mousemove, 863 ,644 
+sleep(5,"p")
+mousemove, 864 ,644 
+sleep(2,"p")
+mousemove, 864 ,643 
+sleep(6,"p")
+mousemove, 865 ,643 
+mousemove, 865 ,642 
+sleep(7,"p")
+mousemove, 865 ,641 
+mousemove, 866 ,641 
+sleep(4,"p")
+mousemove, 866 ,640 
+sleep(2,"p")
+mousemove, 867 ,640 
+sleep(3,"p")
+mousemove, 867 ,639 
+sleep(3,"p")
+mousemove, 868 ,639 
+mousemove, 868 ,638 
+sleep(4,"p")
+mousemove, 869 ,637 
+sleep(5,"p")
+mousemove, 869 ,636 
+mousemove, 870 ,636 
+sleep(3,"p")
+mousemove, 870 ,635 
+sleep(3,"p")
+mousemove, 871 ,635 
+sleep(2,"p")
+mousemove, 871 ,634 
+sleep(2,"p")
+mousemove, 872 ,634 
+mousemove, 872 ,633 
+mousemove, 873 ,633 
+sleep(2,"p")
+mousemove, 873 ,632 
+mousemove, 874 ,632 
+mousemove, 874 ,631 
+sleep(3,"p")
+mousemove, 876 ,630 
+sleep(2,"p")
+mousemove, 876 ,629 
+sleep(2,"p")
+mousemove, 877 ,628 
+mousemove, 878 ,628 
+mousemove, 878 ,627 
+mousemove, 879 ,627 
+mousemove, 879 ,626 
+mousemove, 880 ,626 
+mousemove, 881 ,625 
+mousemove, 882 ,624 
+mousemove, 883 ,624 
+mousemove, 883 ,623 
+mousemove, 884 ,622 
+mousemove, 885 ,622 
+mousemove, 886 ,621 
+sleep(2,"p")
+mousemove, 887 ,620 
+mousemove, 888 ,619 
+mousemove, 889 ,619 
+mousemove, 890 ,618 
+mousemove, 891 ,617 
+mousemove, 892 ,616 
+mousemove, 893 ,616 
+mousemove, 894 ,615 
+mousemove, 895 ,614 
+mousemove, 896 ,614 
+sleep(2,"p")
+mousemove, 897 ,613 
+mousemove, 898 ,612 
+mousemove, 899 ,612 
+mousemove, 900 ,611 
+mousemove, 901 ,610 
+sleep(2,"p")
+mousemove, 903 ,609 
+mousemove, 904 ,609 
+mousemove, 905 ,608 
+mousemove, 905 ,607 
+mousemove, 907 ,607 
+mousemove, 907 ,606 
+mousemove, 909 ,605 
+sleep(2,"p")
+mousemove, 910 ,604 
+mousemove, 911 ,603 
+mousemove, 912 ,603 
+mousemove, 912 ,602 
+mousemove, 913 ,602 
+mousemove, 914 ,601 
+sleep(2,"p")
+mousemove, 915 ,601 
+mousemove, 916 ,600 
+mousemove, 917 ,599 
+sleep(2,"p")
+mousemove, 917 ,598 
+mousemove, 918 ,598 
+mousemove, 919 ,597 
+sleep(2,"p")
+mousemove, 920 ,596 
+sleep(2,"p")
+mousemove, 921 ,596 
+mousemove, 921 ,595 
+mousemove, 922 ,595 
+sleep(2,"p")
+mousemove, 922 ,594 
+sleep(2,"p")
+mousemove, 923 ,594 
+mousemove, 923 ,593 
+sleep(5,"p")
+mousemove, 923 ,592 
+mousemove, 924 ,592 
+sleep(3,"p")
+mousemove, 924 ,591 
+mousemove, 925 ,591 
+sleep(3,"p")
+mousemove, 925 ,590 
+sleep(4,"p")
+mousemove, 926 ,589 
+sleep(4,"p")
+mousemove, 927 ,588 
+sleep(5,"p")
+mousemove, 927 ,587 
+sleep(2,"p")
+mousemove, 927 ,586 
+sleep(3,"p")
+mousemove, 928 ,586 
+sleep(3,"p")
+mousemove, 928 ,585 
+sleep(3,"p")
+mousemove, 929 ,585 
+sleep(4,"p")
+mousemove, 929 ,584 
+sleep(4,"p")
+mousemove, 929 ,583 
+mousemove, 930 ,583 
+sleep(2,"p")
+mousemove, 930 ,582 
+sleep(2,"p")
+mousemove, 931 ,581 
+sleep(3,"p")
+mousemove, 932 ,581 
+mousemove, 932 ,580 
+sleep(2,"p")
+mousemove, 933 ,579 
+sleep(3,"p")
+mousemove, 934 ,578 
+sleep(3,"p")
+mousemove, 934 ,577 
+mousemove, 935 ,577 
+sleep(3,"p")
+mousemove, 935 ,576 
+mousemove, 936 ,576 
+sleep(3,"p")
+mousemove, 937 ,576 
+mousemove, 937 ,575 
+sleep(4,"p")
+mousemove, 938 ,574 
+sleep(4,"p")
+mousemove, 939 ,574 
+sleep(5,"p")
+mousemove, 939 ,573 
+sleep(39,"p")
+mousemove, 940 ,573 
+sleep(10,"p")
+mousemove, 941 ,573 
+sleep(10,"p")
+mousemove, 942 ,573 
+sleep(17,"p")
+mousemove, 943 ,573 
+sleep(26,"p")
+mousemove, 944 ,573 
+sleep(18,"p")
+mousemove, 945 ,573 
+mousemove, 945 ,574 
+sleep(23,"p")
+mousemove, 946 ,574 
+sleep(8,"p")
+mousemove, 946 ,575 
+sleep(7,"p")
+mousemove, 947 ,575 
+sleep(5,"p")
+mousemove, 947 ,576 
+sleep(10,"p")
+mousemove, 947 ,577 
+mousemove, 948 ,577 
+sleep(8,"p")
+mousemove, 948 ,578 
+sleep(13,"p")
+mousemove, 948 ,579 
+sleep(6,"p")
+mousemove, 949 ,579 
+sleep(6,"p")
+mousemove, 949 ,580 
+sleep(289,"p")
+mousemove, 949 ,580 , Wheel , -1 , 0 , 0
+sleep(25,"p")
+mousemove, 949 ,580 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 949 ,580 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 949 ,580 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 949 ,580 , Wheel , -1 , 0 , 0
+sleep(14,"p")
+mousemove, 949 ,580 , Wheel , -1 , 0 , 0
+sleep(2,"p")
+mousemove, 949 ,579 
+sleep(11,"p")
+mousemove, 949 ,579 , Wheel , -1 , 0 , 0
+sleep(7,"p")
+mousemove, 950 ,579 
+sleep(14,"p")
+mousemove, 950 ,579 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 950 ,579 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 950 ,578 
+mousemove, 950 ,578 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 950 ,577 
+sleep(4,"p")
+mousemove, 949 ,577 
+mousemove, 949 ,577 , Wheel , -1 , 0 , 0
+sleep(3,"p")
+mousemove, 949 ,576 
+sleep(10,"p")
+mousemove, 949 ,576 , Wheel , -1 , 0 , 0
+mousemove, 949 ,575 
+sleep(14,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(14,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(88,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(129,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(409,"p")
+mousemove, 949 ,575 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 949 ,576 
+sleep(6,"p")
+mousemove, 948 ,576 
+sleep(2,"p")
+mousemove, 948 ,577 
+sleep(6,"p")
+mousemove, 948 ,578 
+sleep(10,"p")
+mousemove, 948 ,579 
+sleep(12,"p")
+mousemove, 948 ,579 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 948 ,580 
+sleep(7,"p")
+mousemove, 948 ,580 , Wheel , -1 , 0 , 0
+sleep(28,"p")
+mousemove, 948 ,581 
+sleep(9,"p")
+mousemove, 948 ,582 
+sleep(5,"p")
+mousemove, 948 ,583 
+sleep(5,"p")
+mousemove, 948 ,584 
+sleep(4,"p")
+mousemove, 948 ,585 
+sleep(417,"p")
+mousemove, 948 ,586 
+sleep(7,"p")
+mousemove, 949 ,586 
+sleep(10,"p")
+mousemove, 950 ,586 
+sleep(11,"p")
+mousemove, 951 ,586 
+sleep(59,"p")
+mousemove, 951 ,585 
+sleep(2,"p")
+mousemove, 952 ,585 
+sleep(3,"p")
+mousemove, 953 ,585 
+sleep(3,"p")
+mousemove, 954 ,585 
+sleep(2,"p")
+mousemove, 955 ,585 
+mousemove, 956 ,585 
+sleep(2,"p")
+mousemove, 957 ,585 
+mousemove, 958 ,585 
+mousemove, 959 ,585 
+mousemove, 959 ,584 
+mousemove, 960 ,584 
+mousemove, 961 ,584 
+mousemove, 962 ,584 
+mousemove, 963 ,584 
+mousemove, 964 ,584 
+mousemove, 965 ,584 
+mousemove, 966 ,583 
+sleep(2,"p")
+mousemove, 967 ,583 
+mousemove, 968 ,583 
+mousemove, 970 ,583 
+sleep(2,"p")
+mousemove, 972 ,583 
+mousemove, 973 ,583 
+mousemove, 974 ,583 
+mousemove, 975 ,583 
+mousemove, 976 ,583 
+mousemove, 977 ,583 
+mousemove, 978 ,583 
+mousemove, 979 ,583 
+mousemove, 980 ,583 
+mousemove, 982 ,583 
+sleep(2,"p")
+mousemove, 984 ,583 
+mousemove, 985 ,583 
+mousemove, 986 ,583 
+mousemove, 987 ,583 
+mousemove, 988 ,583 
+mousemove, 989 ,583 
+mousemove, 990 ,583 
+mousemove, 991 ,583 
+mousemove, 992 ,583 
+sleep(2,"p")
+mousemove, 993 ,583 
+mousemove, 994 ,583 
+mousemove, 995 ,583 
+mousemove, 996 ,583 
+sleep(2,"p")
+mousemove, 997 ,583 
+mousemove, 998 ,583 
+mousemove, 999 ,583 
+mousemove, 1000 ,583 
+sleep(2,"p")
+mousemove, 1001 ,583 
+mousemove, 1002 ,583 
+sleep(2,"p")
+mousemove, 1003 ,583 
+mousemove, 1004 ,583 
+mousemove, 1005 ,583 
+sleep(3,"p")
+mousemove, 1006 ,583 
+mousemove, 1007 ,583 
+sleep(5,"p")
+mousemove, 1008 ,583 
+sleep(203,"p")
+mousemove, 1009 ,583 
+sleep(8,"p")
+mousemove, 1010 ,583 
+sleep(3,"p")
+mousemove, 1011 ,583 
+sleep(2,"p")
+mousemove, 1012 ,583 
+mousemove, 1013 ,583 
+sleep(2,"p")
+mousemove, 1014 ,583 
+mousemove, 1015 ,583 
+sleep(2,"p")
+mousemove, 1016 ,583 
+mousemove, 1017 ,583 
+mousemove, 1018 ,583 
+sleep(2,"p")
+mousemove, 1019 ,583 
+mousemove, 1020 ,583 
+mousemove, 1021 ,583 
+mousemove, 1022 ,583 
+mousemove, 1023 ,583 
+mousemove, 1024 ,583 
+mousemove, 1024 ,584 
+mousemove, 1025 ,584 
+mousemove, 1026 ,584 
+mousemove, 1027 ,584 
+mousemove, 1028 ,584 
+mousemove, 1029 ,584 
+mousemove, 1031 ,584 
+mousemove, 1032 ,584 
+mousemove, 1033 ,584 
+mousemove, 1034 ,584 
+mousemove, 1035 ,584 
+sleep(2,"p")
+mousemove, 1036 ,585 
+mousemove, 1037 ,585 
+mousemove, 1038 ,585 
+mousemove, 1039 ,585 
+mousemove, 1040 ,585 
+sleep(2,"p")
+mousemove, 1041 ,585 
+mousemove, 1042 ,585 
+sleep(2,"p")
+mousemove, 1043 ,585 
+sleep(2,"p")
+mousemove, 1043 ,586 
+mousemove, 1045 ,586 
+mousemove, 1046 ,586 
+mousemove, 1047 ,586 
+mousemove, 1048 ,586 
+sleep(3,"p")
+mousemove, 1049 ,586 
+mousemove, 1050 ,586 
+mousemove, 1051 ,586 
+mousemove, 1052 ,586 
+mousemove, 1053 ,587 
+sleep(2,"p")
+mousemove, 1054 ,587 
+sleep(2,"p")
+mousemove, 1055 ,587 
+mousemove, 1056 ,587 
+mousemove, 1057 ,587 
+sleep(2,"p")
+mousemove, 1058 ,587 
+sleep(2,"p")
+mousemove, 1059 ,587 
+mousemove, 1060 ,587 
+sleep(4,"p")
+mousemove, 1061 ,587 
+sleep(2,"p")
+mousemove, 1062 ,587 
+sleep(5,"p")
+mousemove, 1063 ,587 
+sleep(11,"p")
+mousemove, 1064 ,587 
+sleep(330,"p")
+mousemove, 1064 ,587 , Wheel , -1 , 0 , 0
+sleep(21,"p")
+mousemove, 1064 ,587 , Wheel , -1 , 0 , 0
+sleep(15,"p")
+mousemove, 1064 ,587 , Wheel , -1 , 0 , 0
+sleep(16,"p")
+mousemove, 1064 ,587 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 1064 ,587 , Wheel , -1 , 0 , 0
+sleep(17,"p")
+mousemove, 1064 ,587 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 1064 ,587 , Wheel , -1 , 0 , 0
+sleep(2,"p")
+mousemove, 1065 ,587 
+sleep(16,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(19,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(19,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(19,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(21,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(19,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(21,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(21,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(20,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(21,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(22,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(21,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(34,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(22,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(27,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(124,"p")
+mousemove, 1065 ,587 , Wheel , -1 , 0 , 0
+sleep(40,"p")
+mousemove, 1065 ,588 
+sleep(21,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(45,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(48,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(53,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(64,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(77,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(28,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(11,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(10,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(11,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(11,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(11,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(11,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(11,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(18,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(11,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(14,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(13,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(12,"p")
+mousemove, 1065 ,588 , Wheel , -1 , 0 , 0
+sleep(66,"p")
+mousemove, 1065 ,589 
+sleep(9,"p")
+mousemove, 1065 ,590 
+sleep(6,"p")
+mousemove, 1064 ,590 
+sleep(4,"p")
+mousemove, 1064 ,591 
+sleep(18,"p")
+mousemove, 1064 ,592 
+sleep(80,"p")
+mousemove, 1064 ,592 , Wheel , 1 , 0 , 0
+sleep(72,"p")
+mousemove, 1064 ,593 
+sleep(13,"p")
+mousemove, 1064 ,594 
+sleep(9,"p")
+mousemove, 1064 ,595 
+sleep(445,"p")
+mousemove, 1064 ,596 
+mousemove, 1063 ,596 
+sleep(2,"p")
+mousemove, 1063 ,597 
+sleep(2,"p")
+mousemove, 1063 ,598 
+sleep(2,"p")
+mousemove, 1062 ,598 
+mousemove, 1062 ,599 
+mousemove, 1061 ,600 
+sleep(2,"p")
+mousemove, 1060 ,601 
+sleep(2,"p")
+mousemove, 1060 ,602 
+sleep(2,"p")
+mousemove, 1059 ,602 
+mousemove, 1059 ,603 
+mousemove, 1058 ,604 
+sleep(4,"p")
+mousemove, 1057 ,605 
+sleep(3,"p")
+mousemove, 1056 ,606 
+sleep(3,"p")
+mousemove, 1055 ,607 
+sleep(4,"p")
+mousemove, 1054 ,608 
+sleep(5,"p")
+mousemove, 1053 ,609 
+sleep(6,"p")
+mousemove, 1052 ,609 
+mousemove, 1052 ,610 
+sleep(7,"p")
+mousemove, 1051 ,610 
+sleep(82,"p")
+mousemove, 1050 ,610 
+sleep(2,"p")
+mousemove, 1050 ,609 
+sleep(2,"p")
+mousemove, 1050 ,608 
+sleep(2,"p")
+mousemove, 1050 ,607 
+sleep(3,"p")
+mousemove, 1050 ,606 
+sleep(2,"p")
+mousemove, 1050 ,605 
+mousemove, 1049 ,604 
+sleep(2,"p")
+mousemove, 1049 ,603 
+mousemove, 1049 ,602 
+sleep(2,"p")
+mousemove, 1049 ,601 
+mousemove, 1049 ,600 
+sleep(2,"p")
+mousemove, 1049 ,599 
+mousemove, 1048 ,599 
+mousemove, 1048 ,598 
+sleep(2,"p")
+mousemove, 1048 ,597 
+mousemove, 1048 ,596 
+sleep(2,"p")
+mousemove, 1048 ,595 
+mousemove, 1047 ,595 
+mousemove, 1047 ,594 
+mousemove, 1047 ,593 
+sleep(2,"p")
+mousemove, 1046 ,592 
+sleep(2,"p")
+mousemove, 1046 ,591 
+sleep(2,"p")
+mousemove, 1046 ,590 
+sleep(2,"p")
+mousemove, 1046 ,589 
+mousemove, 1045 ,589 
+mousemove, 1045 ,588 
+mousemove, 1045 ,587 
+sleep(2,"p")
+mousemove, 1045 ,586 
+sleep(2,"p")
+mousemove, 1044 ,585 
+mousemove, 1044 ,584 
+sleep(3,"p")
+mousemove, 1044 ,583 
+mousemove, 1044 ,582 
+mousemove, 1043 ,581 
+mousemove, 1043 ,580 
+sleep(2,"p")
+mousemove, 1042 ,579 
+mousemove, 1042 ,578 
+mousemove, 1042 ,577 
+sleep(2,"p")
+mousemove, 1041 ,576 
+mousemove, 1041 ,575 
+mousemove, 1041 ,574 
+mousemove, 1041 ,573 
+mousemove, 1040 ,572 
+mousemove, 1040 ,571 
+mousemove, 1040 ,570 
+mousemove, 1039 ,570 
+mousemove, 1039 ,569 
+mousemove, 1039 ,568 
+mousemove, 1039 ,567 
+mousemove, 1039 ,566 
+mousemove, 1038 ,565 
+sleep(2,"p")
+mousemove, 1038 ,564 
+mousemove, 1037 ,563 
+mousemove, 1037 ,562 
+sleep(2,"p")
+mousemove, 1037 ,561 
+mousemove, 1037 ,560 
+sleep(2,"p")
+mousemove, 1037 ,559 
+mousemove, 1036 ,559 
+mousemove, 1036 ,558 
+mousemove, 1036 ,557 
+mousemove, 1036 ,556 
+mousemove, 1035 ,555 
+mousemove, 1035 ,554 
+mousemove, 1035 ,553 
+mousemove, 1035 ,552 
+mousemove, 1034 ,552 
+mousemove, 1034 ,550 
+sleep(2,"p")
+mousemove, 1034 ,549 
+mousemove, 1034 ,548 
+mousemove, 1034 ,547 
+sleep(4,"p")
+mousemove, 1033 ,545 
+sleep(2,"p")
+mousemove, 1032 ,542 
+mousemove, 1032 ,541 
+mousemove, 1032 ,540 
+sleep(2,"p")
+mousemove, 1032 ,539 
+mousemove, 1032 ,538 
+mousemove, 1032 ,537 
+sleep(2,"p")
+mousemove, 1031 ,536 
+mousemove, 1031 ,535 
+sleep(3,"p")
+mousemove, 1031 ,534 
+sleep(2,"p")
+mousemove, 1031 ,532 
+mousemove, 1030 ,531 
+sleep(3,"p")
+mousemove, 1030 ,530 
+mousemove, 1030 ,529 
+sleep(2,"p")
+mousemove, 1030 ,528 
+mousemove, 1029 ,528 
+sleep(2,"p")
+mousemove, 1029 ,527 
+sleep(3,"p")
+mousemove, 1029 ,526 
+sleep(5,"p")
+mousemove, 1029 ,525 
+mousemove, 1028 ,525 
+sleep(161,"p")
+mousemove, 1028 ,526 
+sleep(3,"p")
+mousemove, 1027 ,526 
+mousemove, 1027 ,527 
+sleep(2,"p")
+mousemove, 1027 ,528 
+sleep(2,"p")
+mousemove, 1026 ,528 
+mousemove, 1026 ,529 
+sleep(3,"p")
+mousemove, 1026 ,530 
+mousemove, 1025 ,530 
+mousemove, 1025 ,531 
+sleep(3,"p")
+mousemove, 1025 ,532 
+mousemove, 1024 ,532 
+mousemove, 1024 ,533 
+sleep(4,"p")
+mousemove, 1024 ,534 
+sleep(2,"p")
+mousemove, 1024 ,535 
+mousemove, 1023 ,535 
+sleep(2,"p")
+mousemove, 1023 ,536 
+sleep(2,"p")
+mousemove, 1023 ,537 
+sleep(2,"p")
+mousemove, 1022 ,537 
+sleep(2,"p")
+mousemove, 1022 ,538 
+sleep(2,"p")
+mousemove, 1022 ,539 
+sleep(3,"p")
+mousemove, 1022 ,540 
+mousemove, 1021 ,540 
+mousemove, 1021 ,541 
+sleep(2,"p")
+mousemove, 1021 ,542 
+sleep(5,"p")
+mousemove, 1021 ,543 
+mousemove, 1021 ,544 
+sleep(2,"p")
+mousemove, 1020 ,544 
+mousemove, 1020 ,545 
+sleep(3,"p")
+mousemove, 1020 ,546 
+sleep(3,"p")
+mousemove, 1020 ,547 
+sleep(4,"p")
+mousemove, 1020 ,548 
+sleep(3,"p")
+mousemove, 1019 ,549 
+sleep(4,"p")
+mousemove, 1019 ,550 
+sleep(3,"p")
+mousemove, 1019 ,551 
+sleep(4,"p")
+mousemove, 1019 ,552 
+sleep(3,"p")
+mousemove, 1019 ,553 
+sleep(6,"p")
+mousemove, 1019 ,554 
+sleep(6,"p")
+mousemove, 1019 ,555 
+sleep(5,"p")
+mousemove, 1018 ,555 
+mousemove, 1018 ,556 
+sleep(5,"p")
+mousemove, 1018 ,557 
+sleep(4,"p")
+mousemove, 1018 ,558 
+sleep(5,"p")
+mousemove, 1018 ,559 
+sleep(3,"p")
+mousemove, 1018 ,560 
+sleep(3,"p")
+mousemove, 1018 ,561 
+sleep(3,"p")
+mousemove, 1017 ,561 
+sleep(2,"p")
+mousemove, 1017 ,562 
+sleep(3,"p")
+mousemove, 1017 ,563 
+sleep(3,"p")
+mousemove, 1017 ,564 
+sleep(2,"p")
+mousemove, 1016 ,564 
+sleep(4,"p")
+mousemove, 1016 ,565 
+sleep(2,"p")
+mousemove, 1016 ,566 
+sleep(4,"p")
+mousemove, 1016 ,567 
+mousemove, 1015 ,567 
+mousemove, 1015 ,568 
+sleep(3,"p")
+mousemove, 1015 ,569 
+sleep(4,"p")
+mousemove, 1015 ,570 
+sleep(2,"p")
+mousemove, 1014 ,570 
+mousemove, 1014 ,571 
+sleep(5,"p")
+mousemove, 1014 ,572 
+sleep(3,"p")
+mousemove, 1014 ,573 
+mousemove, 1013 ,573 
+sleep(2,"p")
+mousemove, 1013 ,574 
+sleep(4,"p")
+mousemove, 1013 ,575 
+sleep(3,"p")
+mousemove, 1013 ,576 
+sleep(4,"p")
+mousemove, 1013 ,577 
+sleep(4,"p")
+mousemove, 1013 ,578 
+sleep(4,"p")
+mousemove, 1013 ,579 
+sleep(5,"p")
+mousemove, 1013 ,580 
+sleep(3,"p")
+mousemove, 1012 ,580 
+mousemove, 1012 ,581 
+sleep(7,"p")
+mousemove, 1012 ,582 
+sleep(6,"p")
+mousemove, 1012 ,583 
+sleep(53,"p")
+mousemove, 1012 ,584 
+sleep(4,"p")
+mousemove, 1012 ,585 
+sleep(3,"p")
+mousemove, 1012 ,586 
+sleep(4,"p")
+mousemove, 1012 ,587 
+sleep(4,"p")
+mousemove, 1012 ,588 
+sleep(6,"p")
+mousemove, 1012 ,589 
+sleep(8,"p")
+mousemove, 1012 ,590 
+sleep(8,"p")
+mousemove, 1012 ,591 
+mousemove, 1013 ,591 
+sleep(2,"p")
+mousemove, 1013 ,592 
+sleep(4,"p")
+mousemove, 1014 ,592 
+mousemove, 1014 ,593 
+sleep(4,"p")
+mousemove, 1014 ,594 
+sleep(2,"p")
+mousemove, 1015 ,594 
+mousemove, 1015 ,595 
+sleep(3,"p")
+mousemove, 1016 ,596 
+sleep(5,"p")
+mousemove, 1017 ,596 
+mousemove, 1017 ,597 
+sleep(2,"p")
+mousemove, 1017 ,598 
+sleep(2,"p")
+mousemove, 1018 ,598 
+sleep(3,"p")
+mousemove, 1018 ,599 
+sleep(2,"p")
+mousemove, 1019 ,599 
+sleep(3,"p")
+mousemove, 1019 ,600 
+sleep(2,"p")
+mousemove, 1020 ,600 
+sleep(36,"p")
+mousemove, 1020 ,600 , Wheel , 1 , 0 , 0
+sleep(8,"p")
+mousemove, 1020 ,600 , Wheel , 1 , 0 , 0
+sleep(8,"p")
+mousemove, 1020 ,600 , Wheel , 1 , 0 , 0
+sleep(2,"p")
+mousemove, 1020 ,599 
+sleep(10,"p")
+mousemove, 1020 ,598 
+sleep(3,"p")
+mousemove, 1020 ,598 , Wheel , 1 , 0 , 0
+mousemove, 1019 ,598 
+sleep(23,"p")
+mousemove, 1019 ,598 , Wheel , 1 , 0 , 0
+sleep(8,"p")
+mousemove, 1019 ,597 
+sleep(5,"p")
+mousemove, 1019 ,596 
+sleep(2,"p")
+mousemove, 1019 ,595 
+sleep(3,"p")
+mousemove, 1019 ,594 
+mousemove, 1019 ,593 
+sleep(2,"p")
+mousemove, 1019 ,592 
+mousemove, 1018 ,591 
+mousemove, 1018 ,590 
+sleep(2,"p")
+mousemove, 1018 ,589 
+mousemove, 1018 ,588 
+mousemove, 1018 ,588 , Wheel , 1 , 0 , 0
+sleep(2,"p")
+mousemove, 1018 ,587 
+sleep(2,"p")
+mousemove, 1018 ,586 
+sleep(2,"p")
+mousemove, 1018 ,585 
+sleep(3,"p")
+mousemove, 1018 ,584 
+sleep(4,"p")
+mousemove, 1018 ,583 
+sleep(7,"p")
+mousemove, 1018 ,582 
+sleep(6,"p")
+mousemove, 1018 ,582 , Wheel , 1 , 0 , 0
+sleep(10,"p")
+mousemove, 1018 ,581 
+sleep(19,"p")
+mousemove, 1018 ,581 , Wheel , 1 , 0 , 0
+sleep(42,"p")
+mousemove, 1018 ,581 , Wheel , 1 , 0 , 0
+sleep(30,"p")
+mousemove, 1018 ,581 , Wheel , 1 , 0 , 0
+sleep(30,"p")
+mousemove, 1018 ,581 , Wheel , 1 , 0 , 0
+sleep(31,"p")
+mousemove, 1018 ,581 , Wheel , 1 , 0 , 0
+sleep(34,"p")
+mousemove, 1018 ,581 , Wheel , 1 , 0 , 0
+sleep(35,"p")
+mousemove, 1018 ,581 , Wheel , 1 , 0 , 0
+sleep(38,"p")
+mousemove, 1018 ,581 , Wheel , 1 , 0 , 0
+sleep(40,"p")
+mousemove, 1018 ,582 
+sleep(2,"p")
+mousemove, 1018 ,582 , Wheel , 1 , 0 , 0
+sleep(20,"p")
+mousemove, 1018 ,583 
+sleep(27,"p")
+mousemove, 1018 ,583 , Wheel , 1 , 0 , 0
+sleep(18,"p")
+mousemove, 1018 ,583 , Wheel , 1 , 0 , 0
+sleep(10,"p")
+mousemove, 1018 ,583 , Wheel , 1 , 0 , 0
+sleep(5,"p")
+mousemove, 1018 ,584 
+sleep(4,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(18,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(18,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(18,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(19,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(19,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(19,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(18,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(21,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(18,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(21,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(19,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(28,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(22,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(22,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(21,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(21,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(23,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(23,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(23,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(24,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(25,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(25,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(29,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(28,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(30,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(30,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(33,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(37,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(17,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(8,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(11,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(14,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(19,"p")
+mousemove, 1018 ,584 , Wheel , 1 , 0 , 0
+sleep(9,"p")
+mousemove, 1018 ,583 
+sleep(6,"p")
+mousemove, 1018 ,582 
+mousemove, 1018 ,581 
+sleep(2,"p")
+mousemove, 1018 ,580 
+sleep(2,"p")
+mousemove, 1018 ,579 
+mousemove, 1018 ,579 , Wheel , 1 , 0 , 0
+mousemove, 1018 ,578 
+sleep(2,"p")
+mousemove, 1018 ,577 
+mousemove, 1018 ,576 
+mousemove, 1017 ,576 
+sleep(2,"p")
+mousemove, 1017 ,575 
+sleep(3,"p")
+mousemove, 1017 ,574 
+mousemove, 1016 ,574 
+sleep(7,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(32,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(19,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(21,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(21,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(21,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(22,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(22,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(24,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(24,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(26,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(27,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(27,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(29,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(31,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(31,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(33,"p")
+mousemove, 1016 ,574 , Wheel , 1 , 0 , 0
+sleep(85,"p")
+mousemove, 1016 ,575 
+sleep(16,"p")
+mousemove, 1016 ,576 
+sleep(113,"p")
+mousemove, 1016 ,576 , Wheel , 1 , 0 , 0
+sleep(26,"p")
+mousemove, 1016 ,576 , Wheel , 1 , 0 , 0
+sleep(26,"p")
+mousemove, 1016 ,576 , Wheel , 1 , 0 , 0
+sleep(139,"p")
+mousemove, 1016 ,576 , Wheel , 1 , 0 , 0
+sleep(127,"p")
+mousemove, 1016 ,576 , Wheel , 1 , 0 , 0
+sleep(304,"p")
+mousemove, 1016 ,577 
+sleep(4,"p")
+mousemove, 1016 ,578 
+sleep(4,"p")
+mousemove, 1016 ,579 
+sleep(4,"p")
+mousemove, 1016 ,580 
+sleep(7,"p")
+mousemove, 1016 ,581 
+sleep(11,"p")
+mousemove, 1016 ,582 
+sleep(30,"p")
+mousemove, 1016 ,583 
+sleep(33,"p")
+mousemove, 1016 ,584 
+sleep(8,"p")
+mousemove, 1017 ,584 
+sleep(9,"p")
+mousemove, 1017 ,585 
+sleep(5,"p")
+mousemove, 1017 ,586 
+sleep(4,"p")
+mousemove, 1017 ,587 
+sleep(4,"p")
+mousemove, 1017 ,588 
+sleep(4,"p")
+mousemove, 1017 ,589 
+sleep(4,"p")
+mousemove, 1017 ,590 
+sleep(3,"p")
+mousemove, 1017 ,591 
+sleep(3,"p")
+mousemove, 1017 ,592 
+sleep(3,"p")
+mousemove, 1017 ,593 
+mousemove, 1018 ,593 
+sleep(2,"p")
+mousemove, 1018 ,594 
+sleep(3,"p")
+mousemove, 1018 ,595 
+sleep(3,"p")
+mousemove, 1018 ,596 
+sleep(2,"p")
+mousemove, 1018 ,597 
+mousemove, 1019 ,597 
+sleep(2,"p")
+mousemove, 1019 ,598 
+mousemove, 1019 ,599 
+sleep(4,"p")
+mousemove, 1019 ,600 
+mousemove, 1020 ,600 
+sleep(2,"p")
+mousemove, 1020 ,601 
+sleep(3,"p")
+mousemove, 1021 ,601 
+sleep(2,"p")
+mousemove, 1021 ,602 
+sleep(5,"p")
+mousemove, 1021 ,603 
+sleep(2,"p")
+mousemove, 1021 ,604 
+mousemove, 1022 ,604 
+sleep(4,"p")
+mousemove, 1022 ,605 
+sleep(3,"p")
+mousemove, 1023 ,605 
+sleep(2,"p")
+mousemove, 1023 ,606 
+sleep(7,"p")
+mousemove, 1023 ,607 
+sleep(3,"p")
+mousemove, 1024 ,607 
+sleep(3,"p")
+mousemove, 1024 ,608 
+sleep(10,"p")
+mousemove, 1024 ,609 
+sleep(5,"p")
+mousemove, 1024 ,610 
+sleep(4,"p")
+mousemove, 1025 ,610 
+mousemove, 1025 ,611 
+sleep(4,"p")
+mousemove, 1025 ,612 
+sleep(2,"p")
+mousemove, 1026 ,612 
+mousemove, 1026 ,613 
+sleep(4,"p")
+mousemove, 1026 ,614 
+sleep(3,"p")
+mousemove, 1026 ,615 
+sleep(3,"p")
+mousemove, 1027 ,616 
+sleep(2,"p")
+mousemove, 1027 ,617 
+sleep(4,"p")
+mousemove, 1027 ,618 
+sleep(2,"p")
+mousemove, 1028 ,619 
+sleep(2,"p")
+mousemove, 1028 ,620 
+sleep(3,"p")
+mousemove, 1029 ,621 
+sleep(2,"p")
+mousemove, 1029 ,622 
+sleep(4,"p")
+mousemove, 1029 ,623 
+sleep(2,"p")
+mousemove, 1030 ,623 
+mousemove, 1030 ,624 
+sleep(4,"p")
+mousemove, 1030 ,625 
+sleep(3,"p")
+mousemove, 1031 ,625 
+mousemove, 1031 ,626 
+sleep(2,"p")
+mousemove, 1031 ,627 
+mousemove, 1032 ,627 
+sleep(2,"p")
+mousemove, 1032 ,628 
+sleep(3,"p")
+mousemove, 1032 ,629 
+mousemove, 1033 ,629 
+sleep(2,"p")
+mousemove, 1033 ,630 
+sleep(3,"p")
+mousemove, 1033 ,631 
+mousemove, 1034 ,631 
+sleep(2,"p")
+mousemove, 1034 ,632 
+sleep(3,"p")
+mousemove, 1035 ,632 
+mousemove, 1035 ,633 
+sleep(3,"p")
+mousemove, 1035 ,634 
+sleep(4,"p")
+mousemove, 1036 ,635 
+sleep(4,"p")
+mousemove, 1036 ,636 
+sleep(3,"p")
+mousemove, 1037 ,636 
+mousemove, 1037 ,637 
+sleep(4,"p")
+mousemove, 1037 ,638 
+sleep(2,"p")
+mousemove, 1037 ,639 
+mousemove, 1038 ,639 
+sleep(2,"p")
+mousemove, 1038 ,640 
+sleep(2,"p")
+mousemove, 1039 ,641 
+sleep(3,"p")
+mousemove, 1039 ,642 
+sleep(2,"p")
+mousemove, 1040 ,643 
+sleep(2,"p")
+mousemove, 1040 ,644 
+sleep(2,"p")
+mousemove, 1041 ,645 
+mousemove, 1041 ,646 
+sleep(2,"p")
+mousemove, 1042 ,646 
+mousemove, 1042 ,647 
+sleep(2,"p")
+mousemove, 1042 ,648 
+mousemove, 1043 ,648 
+mousemove, 1043 ,649 
+mousemove, 1044 ,649 
+mousemove, 1044 ,650 
+sleep(2,"p")
+mousemove, 1045 ,651 
+sleep(3,"p")
+mousemove, 1045 ,652 
+sleep(3,"p")
+mousemove, 1046 ,653 
+sleep(2,"p")
+mousemove, 1047 ,654 
+sleep(2,"p")
+mousemove, 1047 ,655 
+sleep(3,"p")
+mousemove, 1048 ,656 
+sleep(2,"p")
+mousemove, 1049 ,657 
+sleep(2,"p")
+mousemove, 1049 ,658 
+sleep(3,"p")
+mousemove, 1050 ,658 
+mousemove, 1050 ,659 
+mousemove, 1050 ,660 
+mousemove, 1051 ,660 
+sleep(2,"p")
+mousemove, 1051 ,661 
+sleep(2,"p")
+mousemove, 1052 ,661 
+mousemove, 1052 ,662 
+mousemove, 1052 ,663 
+sleep(2,"p")
+mousemove, 1053 ,664 
+sleep(2,"p")
+mousemove, 1054 ,664 
+sleep(2,"p")
+mousemove, 1054 ,665 
+sleep(2,"p")
+mousemove, 1054 ,666 
+mousemove, 1055 ,666 
+sleep(2,"p")
+mousemove, 1055 ,667 
+sleep(2,"p")
+mousemove, 1056 ,667 
+mousemove, 1056 ,668 
+mousemove, 1057 ,668 
+mousemove, 1057 ,669 
+sleep(5,"p")
+mousemove, 1058 ,670 
+sleep(2,"p")
+mousemove, 1059 ,670 
+mousemove, 1059 ,671 
+sleep(3,"p")
+mousemove, 1059 ,672 
+mousemove, 1060 ,672 
+sleep(4,"p")
+mousemove, 1060 ,673 
+mousemove, 1061 ,673 
+sleep(3,"p")
+mousemove, 1062 ,674 
+sleep(5,"p")
+mousemove, 1062 ,675 
+sleep(3,"p")
+mousemove, 1063 ,675 
+mousemove, 1063 ,676 
+sleep(2,"p")
+mousemove, 1064 ,676 
+sleep(7,"p")
+mousemove, 1064 ,677 
+sleep(4,"p")
+mousemove, 1065 ,678 
+sleep(12,"p")
+mousemove, 1065 ,679 
+sleep(6,"p")
+mousemove, 1066 ,680 
+sleep(5,"p")
+mousemove, 1066 ,681 
+sleep(4,"p")
+mousemove, 1067 ,682 
+sleep(3,"p")
+mousemove, 1067 ,683 
+sleep(3,"p")
+mousemove, 1067 ,684 
+mousemove, 1068 ,684 
+mousemove, 1068 ,685 
+sleep(3,"p")
+mousemove, 1069 ,685 
+sleep(3,"p")
+mousemove, 1069 ,686 
+mousemove, 1069 ,687 
+sleep(2,"p")
+mousemove, 1070 ,687 
+mousemove, 1070 ,688 
+sleep(4,"p")
+mousemove, 1071 ,689 
+sleep(3,"p")
+mousemove, 1072 ,690 
+sleep(3,"p")
+mousemove, 1072 ,691 
+sleep(3,"p")
+mousemove, 1073 ,691 
+mousemove, 1073 ,692 
+sleep(2,"p")
+mousemove, 1074 ,692 
+mousemove, 1074 ,693 
+sleep(2,"p")
+mousemove, 1075 ,693 
+sleep(2,"p")
+mousemove, 1075 ,694 
+sleep(3,"p")
+mousemove, 1076 ,695 
+sleep(3,"p")
+mousemove, 1077 ,695 
+sleep(3,"p")
+mousemove, 1077 ,696 
+sleep(2,"p")
+mousemove, 1078 ,697 
+sleep(5,"p")
+mousemove, 1079 ,697 
+mousemove, 1079 ,698 
+sleep(3,"p")
+mousemove, 1080 ,698 
+sleep(6,"p")
+mousemove, 1080 ,699 
+sleep(2,"p")
+mousemove, 1081 ,699 
+sleep(5,"p")
+mousemove, 1082 ,699 
+sleep(2,"p")
+mousemove, 1082 ,700 
+sleep(5,"p")
+mousemove, 1083 ,700 
+sleep(7,"p")
+mousemove, 1084 ,701 
+sleep(79,"p")
+mousemove, 1085 ,701 
+sleep(17,"p")
+mousemove, 1085 ,702 
+sleep(4,"p")
+mousemove, 1086 ,702 
+sleep(6,"p")
+mousemove, 1086 ,703 
+sleep(3,"p")
+mousemove, 1087 ,703 
+sleep(7,"p")
+mousemove, 1087 ,704 
+mousemove, 1088 ,704 
+sleep(7,"p")
+mousemove, 1088 ,705 
+sleep(2,"p")
+mousemove, 1089 ,705 
+sleep(7,"p")
+mousemove, 1089 ,706 
+sleep(4,"p")
+mousemove, 1090 ,706 
+sleep(14,"p")
+mousemove, 1090 ,707 
+sleep(5,"p")
+mousemove, 1091 ,707 
+sleep(4,"p")
+mousemove, 1091 ,708 
+sleep(6,"p")
+mousemove, 1092 ,708 
+mousemove, 1092 ,709 
+sleep(4,"p")
+mousemove, 1092 ,710 
+sleep(3,"p")
+mousemove, 1093 ,711 
+sleep(4,"p")
+mousemove, 1093 ,712 
+sleep(3,"p")
+mousemove, 1094 ,712 
+sleep(2,"p")
+mousemove, 1094 ,713 
+sleep(2,"p")
+mousemove, 1094 ,714 
+sleep(3,"p")
+mousemove, 1095 ,714 
+mousemove, 1095 ,715 
+sleep(3,"p")
+mousemove, 1095 ,716 
+mousemove, 1096 ,716 
+sleep(2,"p")
+mousemove, 1096 ,717 
+sleep(3,"p")
+mousemove, 1097 ,718 
+sleep(3,"p")
+mousemove, 1097 ,719 
+sleep(2,"p")
+mousemove, 1098 ,719 
+sleep(3,"p")
+mousemove, 1098 ,720 
+sleep(4,"p")
+mousemove, 1098 ,721 
+sleep(4,"p")
+mousemove, 1099 ,721 
+sleep(2,"p")
+mousemove, 1099 ,722 
+mousemove, 1100 ,722 
+sleep(3,"p")
+mousemove, 1100 ,723 
+sleep(6,"p")
+mousemove, 1101 ,723 
+sleep(2,"p")
+mousemove, 1101 ,724 
+sleep(14,"p")
+mousemove, 1102 ,724 
+sleep(200,"p")
+mousemove, 1102 ,724 
+click down
+sleep(91,"p")
+mousemove, 1102 ,724 
+click up
+sleep(520,"p")
+mousemove, 1102 ,723 
+sleep(13,"p")
+mousemove, 1102 ,722 
+sleep(7,"p")
+mousemove, 1102 ,721 
+sleep(6,"p")
+mousemove, 1102 ,720 
+sleep(5,"p")
+mousemove, 1102 ,719 
+sleep(5,"p")
+mousemove, 1102 ,718 
+sleep(4,"p")
+mousemove, 1102 ,717 
+sleep(3,"p")
+mousemove, 1101 ,717 
+mousemove, 1101 ,716 
+sleep(5,"p")
+mousemove, 1101 ,715 
+sleep(3,"p")
+mousemove, 1101 ,714 
+mousemove, 1100 ,714 
+mousemove, 1100 ,713 
+sleep(3,"p")
+mousemove, 1100 ,712 
+mousemove, 1099 ,712 
+sleep(2,"p")
+mousemove, 1099 ,711 
+sleep(2,"p")
+mousemove, 1099 ,710 
+sleep(3,"p")
+mousemove, 1098 ,709 
+sleep(2,"p")
+mousemove, 1098 ,708 
+sleep(3,"p")
+mousemove, 1098 ,707 
+sleep(2,"p")
+mousemove, 1097 ,706 
+sleep(4,"p")
+mousemove, 1097 ,705 
+mousemove, 1096 ,705 
+sleep(2,"p")
+mousemove, 1096 ,704 
+sleep(2,"p")
+mousemove, 1096 ,703 
+sleep(2,"p")
+mousemove, 1095 ,703 
+mousemove, 1095 ,702 
+sleep(3,"p")
+mousemove, 1095 ,701 
+sleep(3,"p")
+mousemove, 1094 ,701 
+mousemove, 1094 ,700 
+sleep(2,"p")
+mousemove, 1094 ,699 
+sleep(2,"p")
+mousemove, 1093 ,699 
+mousemove, 1093 ,698 
+sleep(4,"p")
+mousemove, 1092 ,697 
+sleep(2,"p")
+mousemove, 1092 ,696 
+sleep(3,"p")
+mousemove, 1092 ,695 
+mousemove, 1091 ,695 
+mousemove, 1091 ,694 
+sleep(3,"p")
+mousemove, 1090 ,694 
+mousemove, 1090 ,693 
+sleep(2,"p")
+mousemove, 1090 ,692 
+mousemove, 1089 ,692 
+mousemove, 1089 ,691 
+sleep(4,"p")
+mousemove, 1089 ,690 
+mousemove, 1088 ,690 
+sleep(2,"p")
+mousemove, 1088 ,689 
+sleep(2,"p")
+mousemove, 1087 ,689 
+mousemove, 1087 ,688 
+sleep(4,"p")
+mousemove, 1086 ,687 
+sleep(3,"p")
+mousemove, 1086 ,686 
+sleep(2,"p")
+mousemove, 1085 ,686 
+mousemove, 1085 ,685 
+sleep(2,"p")
+mousemove, 1085 ,684 
+mousemove, 1084 ,684 
+sleep(2,"p")
+mousemove, 1084 ,683 
+mousemove, 1083 ,683 
+sleep(2,"p")
+mousemove, 1083 ,682 
+sleep(2,"p")
+mousemove, 1082 ,682 
+mousemove, 1082 ,681 
+sleep(3,"p")
+mousemove, 1081 ,680 
+sleep(3,"p")
+mousemove, 1080 ,679 
+sleep(2,"p")
+mousemove, 1080 ,678 
+mousemove, 1079 ,678 
+sleep(2,"p")
+mousemove, 1079 ,677 
+mousemove, 1078 ,677 
+sleep(3,"p")
+mousemove, 1078 ,676 
+sleep(3,"p")
+mousemove, 1077 ,675 
+sleep(5,"p")
+mousemove, 1076 ,674 
+sleep(5,"p")
+mousemove, 1076 ,673 
+mousemove, 1075 ,673 
+sleep(3,"p")
+mousemove, 1075 ,672 
+sleep(4,"p")
+mousemove, 1074 ,672 
+sleep(2,"p")
+mousemove, 1074 ,671 
+sleep(4,"p")
+mousemove, 1073 ,671 
+mousemove, 1073 ,670 
+sleep(6,"p")
+mousemove, 1073 ,669 
+sleep(2,"p")
+mousemove, 1072 ,669 
+sleep(3,"p")
+mousemove, 1072 ,668 
+sleep(8,"p")
+mousemove, 1072 ,667 
+sleep(4,"p")
+mousemove, 1071 ,667 
+sleep(3,"p")
+mousemove, 1071 ,666 
+sleep(5,"p")
+mousemove, 1071 ,665 
+sleep(2,"p")
+mousemove, 1070 ,665 
+sleep(6,"p")
+mousemove, 1070 ,664 
+sleep(3,"p")
+mousemove, 1070 ,663 
+sleep(6,"p")
+mousemove, 1069 ,663 
+mousemove, 1069 ,662 
+sleep(6,"p")
+mousemove, 1069 ,661 
+sleep(5,"p")
+mousemove, 1068 ,661 
+sleep(2,"p")
+mousemove, 1068 ,660 
+sleep(4,"p")
+mousemove, 1067 ,659 
+sleep(5,"p")
+mousemove, 1067 ,658 
+sleep(3,"p")
+mousemove, 1066 ,658 
+sleep(3,"p")
+mousemove, 1066 ,657 
+sleep(2,"p")
+mousemove, 1065 ,657 
+sleep(2,"p")
+mousemove, 1065 ,656 
+sleep(6,"p")
+mousemove, 1064 ,656 
+sleep(5,"p")
+mousemove, 1064 ,655 
+sleep(5,"p")
+mousemove, 1063 ,655 
+mousemove, 1063 ,654 
+sleep(10,"p")
+mousemove, 1062 ,654 
+sleep(4,"p")
+mousemove, 1062 ,653 
+sleep(15,"p")
+mousemove, 1062 ,652 
+sleep(5,"p")
+mousemove, 1061 ,652 
+sleep(9,"p")
+mousemove, 1061 ,651 
+sleep(7,"p")
+mousemove, 1060 ,651 
+sleep(2,"p")
+mousemove, 1060 ,650 
+sleep(9,"p")
+mousemove, 1060 ,649 
+sleep(9,"p")
+mousemove, 1059 ,649 
+sleep(5,"p")
+mousemove, 1059 ,648 
+sleep(10,"p")
+mousemove, 1059 ,647 
+sleep(3,"p")
+mousemove, 1058 ,647 
+sleep(6,"p")
+mousemove, 1058 ,646 
+sleep(68,"p")
+mousemove, 1057 ,646 
+sleep(4,"p")
+mousemove, 1057 ,645 
+sleep(6,"p")
+mousemove, 1056 ,645 
+sleep(2,"p")
+mousemove, 1056 ,644 
+sleep(7,"p")
+mousemove, 1055 ,644 
+mousemove, 1055 ,643 
+sleep(5,"p")
+mousemove, 1054 ,643 
+mousemove, 1054 ,642 
+sleep(7,"p")
+mousemove, 1053 ,641 
+sleep(5,"p")
+mousemove, 1053 ,640 
+mousemove, 1052 ,640 
+sleep(17,"p")
+mousemove, 1051 ,640 
+sleep(2,"p")
+mousemove, 1051 ,639 
+sleep(8,"p")
+mousemove, 1051 ,638 
+sleep(6,"p")
+mousemove, 1050 ,638 
+sleep(3,"p")
+mousemove, 1050 ,637 
+sleep(7,"p")
+mousemove, 1049 ,637 
+sleep(2,"p")
+mousemove, 1049 ,636 
+sleep(5,"p")
+mousemove, 1049 ,635 
+sleep(7,"p")
+mousemove, 1048 ,635 
+sleep(12,"p")
+mousemove, 1048 ,634 
+sleep(6,"p")
+mousemove, 1047 ,634 
+sleep(3,"p")
+mousemove, 1047 ,633 
+sleep(9,"p")
+mousemove, 1046 ,633 
+sleep(6,"p")
+mousemove, 1046 ,632 
+sleep(13,"p")
+mousemove, 1045 ,632 
+sleep(3,"p")
+mousemove, 1045 ,631 
+sleep(9,"p")
+mousemove, 1045 ,630 
+sleep(6,"p")
+mousemove, 1044 ,630 
+sleep(13,"p")
+mousemove, 1044 ,629 
+sleep(7,"p")
+mousemove, 1043 ,629 
+sleep(91,"p")
+mousemove, 1043 ,628 
+sleep(5,"p")
+mousemove, 1042 ,628 
+sleep(10,"p")
+mousemove, 1041 ,628 
+sleep(4,"p")
+mousemove, 1041 ,627 
+sleep(4,"p")
+mousemove, 1040 ,627 
+sleep(5,"p")
+mousemove, 1039 ,627 
+sleep(6,"p")
+mousemove, 1038 ,627 
+mousemove, 1038 ,626 
+sleep(3,"p")
+mousemove, 1037 ,626 
+sleep(6,"p")
+mousemove, 1036 ,626 
+sleep(5,"p")
+mousemove, 1035 ,626 
+sleep(5,"p")
+mousemove, 1034 ,625 
+sleep(5,"p")
+mousemove, 1033 ,625 
+sleep(8,"p")
+mousemove, 1032 ,625 
+sleep(14,"p")
+mousemove, 1031 ,625 
+sleep(12,"p")
+mousemove, 1030 ,625 
+sleep(4,"p")
+mousemove, 1030 ,624 
+sleep(3,"p")
+mousemove, 1029 ,624 
+sleep(6,"p")
+mousemove, 1028 ,624 
+mousemove, 1028 ,623 
+sleep(5,"p")
+mousemove, 1027 ,623 
+sleep(4,"p")
+mousemove, 1026 ,623 
+sleep(4,"p")
+mousemove, 1025 ,623 
+mousemove, 1025 ,622 
+sleep(427,"p")
+mousemove, 1025 ,621 
+sleep(2,"p")
+mousemove, 1026 ,620 
+sleep(4,"p")
+mousemove, 1027 ,619 
+sleep(3,"p")
+mousemove, 1028 ,619 
+sleep(2,"p")
+mousemove, 1028 ,618 
+mousemove, 1029 ,618 
+sleep(4,"p")
+mousemove, 1029 ,617 
+sleep(5,"p")
+mousemove, 1029 ,616 
+sleep(2,"p")
+mousemove, 1030 ,616 
+mousemove, 1030 ,615 
+sleep(6,"p")
+mousemove, 1031 ,615 
+sleep(3,"p")
+mousemove, 1032 ,615 
+mousemove, 1032 ,614 
+sleep(3,"p")
+mousemove, 1033 ,614 
+sleep(4,"p")
+mousemove, 1034 ,614 
+sleep(6,"p")
+mousemove, 1035 ,614 
+sleep(11,"p")
+mousemove, 1036 ,614 
+sleep(12,"p")
+mousemove, 1036 ,613 
+sleep(8,"p")
+mousemove, 1036 ,612 
+sleep(11,"p")
+mousemove, 1035 ,611 
+sleep(17,"p")
+mousemove, 1035 ,610 
+sleep(40,"p")
+mousemove, 1035 ,609 
+sleep(32,"p")
+mousemove, 1035 ,608 
+sleep(27,"p")
+mousemove, 1035 ,607 
+sleep(23,"p")
+mousemove, 1035 ,606 
+sleep(11,"p")
+mousemove, 1035 ,605 
+sleep(13,"p")
+mousemove, 1035 ,604 
+sleep(4,"p")
+mousemove, 1035 ,603 
+sleep(2,"p")
+mousemove, 1034 ,603 
+sleep(2,"p")
+mousemove, 1034 ,602 
+sleep(3,"p")
+mousemove, 1034 ,601 
+sleep(2,"p")
+mousemove, 1033 ,600 
+sleep(3,"p")
+mousemove, 1033 ,599 
+sleep(3,"p")
+mousemove, 1033 ,598 
+mousemove, 1033 ,597 
+sleep(2,"p")
+mousemove, 1033 ,596 
+mousemove, 1032 ,596 
+mousemove, 1032 ,595 
+mousemove, 1031 ,595 
+mousemove, 1031 ,594 
+mousemove, 1031 ,593 
+sleep(2,"p")
+mousemove, 1031 ,592 
+sleep(2,"p")
+mousemove, 1030 ,591 
+mousemove, 1030 ,590 
+sleep(2,"p")
+mousemove, 1029 ,589 
+sleep(2,"p")
+mousemove, 1029 ,588 
+mousemove, 1029 ,587 
+sleep(2,"p")
+mousemove, 1028 ,587 
+mousemove, 1028 ,586 
+mousemove, 1028 ,585 
+sleep(2,"p")
+mousemove, 1027 ,585 
+sleep(2,"p")
+mousemove, 1027 ,584 
+mousemove, 1027 ,583 
+sleep(3,"p")
+mousemove, 1026 ,582 
+sleep(2,"p")
+mousemove, 1026 ,581 
+sleep(4,"p")
+mousemove, 1026 ,580 
+sleep(4,"p")
+mousemove, 1025 ,579 
+sleep(6,"p")
+mousemove, 1025 ,578 
+sleep(5,"p")
+mousemove, 1025 ,577 
+sleep(253,"p")
+mousemove, 1025 ,576 
+sleep(29,"p")
+mousemove, 1025 ,575 
+sleep(124,"p")
+mousemove, 1025 ,574 
+sleep(7,"p")
+mousemove, 1026 ,574 
+mousemove, 1026 ,573 
+sleep(3,"p")
+mousemove, 1026 ,572 
+mousemove, 1027 ,572 
+sleep(3,"p")
+mousemove, 1027 ,571 
+mousemove, 1028 ,571 
+sleep(3,"p")
+mousemove, 1029 ,570 
+sleep(2,"p")
+mousemove, 1030 ,569 
+sleep(4,"p")
+mousemove, 1031 ,569 
+mousemove, 1031 ,568 
+sleep(2,"p")
+mousemove, 1032 ,568 
+mousemove, 1032 ,567 
+sleep(4,"p")
+mousemove, 1033 ,567 
+sleep(3,"p")
+mousemove, 1033 ,566 
+mousemove, 1034 ,566 
+sleep(3,"p")
+mousemove, 1035 ,565 
+sleep(6,"p")
+mousemove, 1036 ,564 
+sleep(4,"p")
+mousemove, 1037 ,564 
+mousemove, 1037 ,563 
+sleep(4,"p")
+mousemove, 1038 ,563 
+mousemove, 1038 ,562 
+sleep(3,"p")
+mousemove, 1039 ,562 
+sleep(3,"p")
+mousemove, 1039 ,561 
+sleep(2,"p")
+mousemove, 1040 ,561 
+sleep(6,"p")
+mousemove, 1040 ,560 
+sleep(2,"p")
+mousemove, 1041 ,560 
+sleep(3,"p")
+mousemove, 1042 ,559 
+sleep(8,"p")
+mousemove, 1043 ,558 
+sleep(4,"p")
+mousemove, 1044 ,558 
+mousemove, 1044 ,557 
+sleep(5,"p")
+mousemove, 1045 ,557 
+sleep(3,"p")
+mousemove, 1045 ,556 
+sleep(3,"p")
+mousemove, 1046 ,556 
+sleep(2,"p")
+mousemove, 1047 ,556 
+mousemove, 1047 ,555 
+sleep(7,"p")
+mousemove, 1048 ,555 
+sleep(4,"p")
+mousemove, 1048 ,554 
+sleep(2,"p")
+mousemove, 1049 ,554 
+sleep(11,"p")
+mousemove, 1049 ,553 
+sleep(2,"p")
+mousemove, 1050 ,553 
+sleep(28,"p")
+mousemove, 1050 ,552 
+sleep(2,"p")
+mousemove, 1051 ,552 
+sleep(8,"p")
+mousemove, 1052 ,552 
+mousemove, 1052 ,551 
+sleep(4,"p")
+mousemove, 1053 ,551 
+mousemove, 1053 ,550 
+sleep(3,"p")
+mousemove, 1054 ,550 
+sleep(5,"p")
+mousemove, 1054 ,549 
+mousemove, 1055 ,549 
+sleep(3,"p")
+mousemove, 1056 ,548 
+sleep(4,"p")
+mousemove, 1057 ,548 
+sleep(4,"p")
+mousemove, 1058 ,547 
+sleep(4,"p")
+mousemove, 1059 ,546 
+sleep(7,"p")
+mousemove, 1060 ,546 
+sleep(15,"p")
+mousemove, 1060 ,545 
+sleep(77,"p")
+mousemove, 1060 ,544 
+sleep(6,"p")
+mousemove, 1060 ,543 
+sleep(2,"p")
+mousemove, 1061 ,543 
+sleep(2,"p")
+mousemove, 1061 ,542 
+sleep(5,"p")
+mousemove, 1061 ,541 
+sleep(5,"p")
+mousemove, 1061 ,540 
+sleep(3,"p")
+mousemove, 1061 ,539 
+sleep(6,"p")
+mousemove, 1061 ,538 
+sleep(2,"p")
+mousemove, 1060 ,537 
+sleep(4,"p")
+mousemove, 1060 ,536 
+sleep(2,"p")
+mousemove, 1059 ,536 
+mousemove, 1059 ,535 
+sleep(2,"p")
+mousemove, 1059 ,534 
+sleep(3,"p")
+mousemove, 1058 ,534 
+mousemove, 1058 ,533 
+sleep(2,"p")
+mousemove, 1058 ,532 
+sleep(2,"p")
+mousemove, 1057 ,532 
+mousemove, 1057 ,531 
+mousemove, 1056 ,531 
+mousemove, 1056 ,530 
+sleep(3,"p")
+mousemove, 1055 ,529 
+sleep(3,"p")
+mousemove, 1055 ,528 
+mousemove, 1054 ,528 
+mousemove, 1054 ,527 
+sleep(2,"p")
+mousemove, 1053 ,527 
+mousemove, 1053 ,526 
+mousemove, 1053 ,525 
+mousemove, 1052 ,525 
+sleep(2,"p")
+mousemove, 1051 ,524 
+mousemove, 1051 ,523 
+sleep(3,"p")
+mousemove, 1050 ,523 
+mousemove, 1050 ,522 
+mousemove, 1049 ,522 
+mousemove, 1048 ,521 
+mousemove, 1048 ,520 
+sleep(2,"p")
+mousemove, 1047 ,519 
+mousemove, 1046 ,519 
+mousemove, 1046 ,518 
+mousemove, 1045 ,517 
+mousemove, 1044 ,516 
+sleep(2,"p")
+mousemove, 1043 ,514 
+mousemove, 1041 ,513 
+mousemove, 1040 ,512 
+mousemove, 1040 ,511 
+mousemove, 1038 ,509 
+mousemove, 1037 ,508 
+mousemove, 1036 ,507 
+mousemove, 1035 ,505 
+mousemove, 1034 ,504 
+mousemove, 1033 ,503 
+mousemove, 1031 ,502 
+mousemove, 1030 ,500 
+mousemove, 1029 ,499 
+mousemove, 1028 ,498 
+mousemove, 1026 ,496 
+mousemove, 1025 ,495 
+mousemove, 1024 ,494 
+mousemove, 1022 ,492 
+sleep(2,"p")
+mousemove, 1020 ,490 
+mousemove, 1019 ,489 
+sleep(2,"p")
+mousemove, 1017 ,488 
+mousemove, 1016 ,486 
+mousemove, 1014 ,485 
+sleep(2,"p")
+mousemove, 1013 ,484 
+mousemove, 1011 ,482 
+mousemove, 1008 ,480 
+mousemove, 1007 ,479 
+mousemove, 1005 ,477 
+mousemove, 1003 ,476 
+mousemove, 1002 ,474 
+mousemove, 1000 ,473 
+mousemove, 1000 ,472 
+mousemove, 998 ,471 
+mousemove, 996 ,470 
+mousemove, 994 ,468 
+mousemove, 992 ,466 
+mousemove, 991 ,465 
+mousemove, 987 ,462 
+mousemove, 985 ,461 
+sleep(2,"p")
+mousemove, 984 ,459 
+mousemove, 981 ,457 
+mousemove, 978 ,455 
+mousemove, 975 ,453 
+mousemove, 973 ,451 
+mousemove, 971 ,450 
+sleep(2,"p")
+mousemove, 969 ,448 
+mousemove, 967 ,446 
+mousemove, 965 ,444 
+sleep(2,"p")
+mousemove, 962 ,443 
+mousemove, 962 ,442 
+mousemove, 955 ,437 
+mousemove, 954 ,436 
+mousemove, 952 ,434 
+mousemove, 949 ,432 
+mousemove, 947 ,430 
+mousemove, 943 ,428 
+mousemove, 940 ,426 
+mousemove, 939 ,425 
+mousemove, 936 ,423 
+mousemove, 933 ,420 
+mousemove, 930 ,418 
+mousemove, 927 ,416 
+mousemove, 924 ,414 
+mousemove, 921 ,412 
+mousemove, 919 ,411 
+sleep(2,"p")
+mousemove, 916 ,409 
+mousemove, 910 ,404 
+sleep(3,"p")
+mousemove, 898 ,397 
+mousemove, 895 ,395 
+mousemove, 891 ,392 
+mousemove, 887 ,390 
+mousemove, 886 ,389 
+mousemove, 881 ,386 
+mousemove, 878 ,385 
+mousemove, 875 ,382 
+mousemove, 870 ,379 
+mousemove, 868 ,378 
+mousemove, 865 ,376 
+mousemove, 861 ,374 
+sleep(2,"p")
+mousemove, 858 ,372 
+mousemove, 854 ,369 
+mousemove, 847 ,366 
+mousemove, 846 ,365 
+mousemove, 842 ,363 
+mousemove, 836 ,359 
+mousemove, 832 ,357 
+mousemove, 829 ,356 
+mousemove, 825 ,354 
+mousemove, 820 ,351 
+mousemove, 816 ,349 
+mousemove, 813 ,348 
+sleep(2,"p")
+mousemove, 807 ,345 
+mousemove, 806 ,344 
+mousemove, 795 ,339 
+mousemove, 791 ,337 
+mousemove, 786 ,335 
+mousemove, 783 ,333 
+mousemove, 778 ,331 
+mousemove, 772 ,328 
+mousemove, 768 ,326 
+mousemove, 763 ,324 
+mousemove, 760 ,323 
+mousemove, 755 ,321 
+mousemove, 751 ,319 
+mousemove, 749 ,318 
+mousemove, 744 ,316 
+mousemove, 737 ,312 
+mousemove, 732 ,311 
+mousemove, 727 ,309 
+mousemove, 725 ,308 
+mousemove, 721 ,306 
+mousemove, 713 ,303 
+sleep(3,"p")
+mousemove, 706 ,300 
+mousemove, 702 ,298 
+mousemove, 694 ,296 
+mousemove, 693 ,295 
+mousemove, 688 ,293 
+mousemove, 683 ,291 
+mousemove, 676 ,288 
+mousemove, 671 ,287 
+sleep(2,"p")
+mousemove, 669 ,286 
+mousemove, 664 ,284 
+mousemove, 657 ,282 
+sleep(2,"p")
+mousemove, 653 ,280 
+mousemove, 648 ,278 
+mousemove, 643 ,276 
+mousemove, 640 ,275 
+mousemove, 633 ,272 
+mousemove, 629 ,271 
+mousemove, 624 ,269 
+mousemove, 621 ,267 
+mousemove, 616 ,266 
+mousemove, 609 ,263 
+mousemove, 604 ,261 
+mousemove, 599 ,260 
+mousemove, 596 ,259 
+mousemove, 595 ,258 
+mousemove, 590 ,256 
+mousemove, 583 ,254 
+mousemove, 579 ,252 
+mousemove, 574 ,250 
+mousemove, 571 ,249 
+sleep(2,"p")
+mousemove, 567 ,247 
+mousemove, 560 ,245 
+mousemove, 556 ,243 
+sleep(2,"p")
+mousemove, 551 ,242 
+mousemove, 547 ,240 
+mousemove, 546 ,239 
+mousemove, 542 ,238 
+sleep(2,"p")
+mousemove, 537 ,235 
+mousemove, 531 ,233 
+mousemove, 527 ,232 
+mousemove, 521 ,229 
+mousemove, 518 ,228 
+mousemove, 514 ,226 
+mousemove, 511 ,225 
+mousemove, 507 ,223 
+mousemove, 504 ,222 
+mousemove, 501 ,220 
+mousemove, 499 ,219 
+mousemove, 496 ,218 
+mousemove, 493 ,217 
+mousemove, 490 ,215 
+mousemove, 487 ,214 
+mousemove, 485 ,213 
+mousemove, 482 ,212 
+mousemove, 479 ,210 
+mousemove, 477 ,209 
+mousemove, 475 ,208 
+mousemove, 472 ,206 
+mousemove, 470 ,205 
+mousemove, 466 ,203 
+mousemove, 464 ,202 
+mousemove, 462 ,200 
+mousemove, 460 ,199 
+mousemove, 458 ,198 
+mousemove, 456 ,197 
+sleep(2,"p")
+mousemove, 454 ,196 
+mousemove, 452 ,194 
+mousemove, 449 ,192 
+mousemove, 447 ,191 
+mousemove, 445 ,190 
+mousemove, 444 ,189 
+mousemove, 442 ,188 
+sleep(2,"p")
+mousemove, 441 ,186 
+mousemove, 439 ,185 
+mousemove, 438 ,185 
+mousemove, 437 ,183 
+mousemove, 435 ,182 
+mousemove, 434 ,181 
+mousemove, 432 ,180 
+mousemove, 431 ,179 
+sleep(2,"p")
+mousemove, 430 ,178 
+mousemove, 429 ,178 
+mousemove, 427 ,176 
+mousemove, 425 ,175 
+mousemove, 424 ,174 
+mousemove, 423 ,173 
+mousemove, 422 ,172 
+sleep(2,"p")
+mousemove, 420 ,171 
+mousemove, 419 ,170 
+mousemove, 416 ,168 
+mousemove, 415 ,167 
+mousemove, 414 ,166 
+mousemove, 413 ,165 
+mousemove, 411 ,164 
+sleep(3,"p")
+mousemove, 410 ,164 
+sleep(2,"p")
+mousemove, 406 ,161 
+mousemove, 404 ,159 
+mousemove, 403 ,159 
+mousemove, 401 ,158 
+sleep(2,"p")
+mousemove, 400 ,157 
+mousemove, 399 ,156 
+mousemove, 397 ,155 
+mousemove, 396 ,154 
+mousemove, 394 ,153 
+sleep(2,"p")
+mousemove, 393 ,152 
+sleep(3,"p")
+mousemove, 391 ,151 
+mousemove, 390 ,151 
+mousemove, 388 ,149 
+sleep(2,"p")
+mousemove, 387 ,149 
+mousemove, 386 ,148 
+mousemove, 384 ,147 
+mousemove, 383 ,147 
+mousemove, 382 ,145 
+mousemove, 380 ,145 
+mousemove, 378 ,144 
+mousemove, 377 ,143 
+mousemove, 376 ,143 
+mousemove, 375 ,142 
+mousemove, 374 ,141 
+mousemove, 373 ,141 
+mousemove, 372 ,140 
+mousemove, 371 ,139 
+mousemove, 369 ,138 
+sleep(2,"p")
+mousemove, 367 ,138 
+mousemove, 367 ,137 
+mousemove, 366 ,136 
+mousemove, 364 ,136 
+sleep(2,"p")
+mousemove, 364 ,135 
+mousemove, 363 ,135 
+mousemove, 362 ,134 
+sleep(2,"p")
+mousemove, 361 ,134 
+mousemove, 360 ,133 
+mousemove, 359 ,133 
+mousemove, 359 ,132 
+mousemove, 358 ,131 
+mousemove, 356 ,131 
+mousemove, 356 ,130 
+mousemove, 355 ,129 
+sleep(2,"p")
+mousemove, 354 ,129 
+mousemove, 353 ,128 
+mousemove, 352 ,128 
+sleep(2,"p")
+mousemove, 352 ,127 
+mousemove, 351 ,127 
+mousemove, 350 ,126 
+sleep(2,"p")
+mousemove, 349 ,125 
+mousemove, 349 ,124 
+mousemove, 348 ,124 
+sleep(2,"p")
+mousemove, 347 ,124 
+mousemove, 347 ,123 
+mousemove, 346 ,123 
+sleep(2,"p")
+mousemove, 346 ,122 
+sleep(2,"p")
+mousemove, 345 ,122 
+mousemove, 345 ,121 
+sleep(2,"p")
+mousemove, 344 ,120 
+sleep(3,"p")
+mousemove, 343 ,120 
+sleep(3,"p")
+mousemove, 343 ,119 
+sleep(4,"p")
+mousemove, 342 ,119 
+mousemove, 342 ,118 
+sleep(3,"p")
+mousemove, 341 ,118 
+sleep(2,"p")
+mousemove, 341 ,117 
+sleep(7,"p")
+mousemove, 340 ,117 
+mousemove, 340 ,116 
+sleep(4,"p")
+mousemove, 339 ,115 
+sleep(4,"p")
+mousemove, 338 ,115 
+sleep(2,"p")
+mousemove, 338 ,114 
+sleep(2,"p")
+mousemove, 338 ,113 
+mousemove, 337 ,113 
+sleep(2,"p")
+mousemove, 336 ,113 
+sleep(2,"p")
+mousemove, 336 ,112 
+mousemove, 335 ,112 
+mousemove, 334 ,112 
+sleep(2,"p")
+mousemove, 334 ,111 
+mousemove, 333 ,111 
+sleep(2,"p")
+mousemove, 332 ,110 
+sleep(2,"p")
+mousemove, 331 ,110 
+sleep(2,"p")
+mousemove, 330 ,109 
+mousemove, 329 ,109 
+mousemove, 329 ,108 
+mousemove, 328 ,108 
+mousemove, 327 ,108 
+sleep(2,"p")
+mousemove, 326 ,107 
+sleep(2,"p")
+mousemove, 325 ,106 
+mousemove, 324 ,106 
+mousemove, 323 ,106 
+sleep(2,"p")
+mousemove, 322 ,105 
+mousemove, 321 ,104 
+mousemove, 319 ,104 
+sleep(2,"p")
+mousemove, 318 ,103 
+mousemove, 317 ,103 
+mousemove, 316 ,103 
+sleep(2,"p")
+mousemove, 315 ,102 
+mousemove, 314 ,102 
+mousemove, 313 ,101 
+sleep(3,"p")
+mousemove, 312 ,101 
+mousemove, 311 ,101 
+sleep(2,"p")
+mousemove, 310 ,100 
+sleep(2,"p")
+mousemove, 309 ,100 
+sleep(2,"p")
+mousemove, 309 ,99 
+mousemove, 308 ,99 
+sleep(3,"p")
+mousemove, 307 ,99 
+sleep(47,"p")
+mousemove, 307 ,98 
+sleep(2,"p")
+mousemove, 306 ,98 
+sleep(3,"p")
+mousemove, 306 ,97 
+sleep(7,"p")
+mousemove, 305 ,96 
+sleep(5,"p")
+mousemove, 304 ,96 
+mousemove, 304 ,95 
+sleep(3,"p")
+mousemove, 304 ,94 
+sleep(3,"p")
+mousemove, 303 ,93 
+sleep(2,"p")
+mousemove, 303 ,92 
+mousemove, 302 ,92 
+mousemove, 302 ,91 
+mousemove, 301 ,90 
+sleep(2,"p")
+mousemove, 301 ,89 
+mousemove, 301 ,88 
+mousemove, 300 ,87 
+mousemove, 299 ,86 
+mousemove, 299 ,85 
+mousemove, 298 ,84 
+mousemove, 298 ,83 
+mousemove, 297 ,81 
+mousemove, 296 ,79 
+sleep(2,"p")
+mousemove, 295 ,78 
+mousemove, 294 ,76 
+mousemove, 293 ,75 
+mousemove, 292 ,74 
+mousemove, 291 ,72 
+mousemove, 291 ,71 
+mousemove, 290 ,70 
+mousemove, 289 ,68 
+mousemove, 287 ,66 
+mousemove, 287 ,65 
+mousemove, 286 ,64 
+mousemove, 285 ,63 
+mousemove, 284 ,62 
+mousemove, 284 ,61 
+mousemove, 282 ,60 
+mousemove, 282 ,59 
+mousemove, 281 ,58 
+mousemove, 280 ,57 
+mousemove, 279 ,56 
+mousemove, 279 ,55 
+mousemove, 278 ,54 
+mousemove, 277 ,53 
+mousemove, 276 ,53 
+mousemove, 276 ,52 
+sleep(2,"p")
+mousemove, 275 ,51 
+mousemove, 274 ,50 
+mousemove, 273 ,50 
+mousemove, 273 ,49 
+mousemove, 272 ,48 
+mousemove, 271 ,47 
+sleep(2,"p")
+mousemove, 270 ,46 
+sleep(2,"p")
+mousemove, 269 ,45 
+sleep(2,"p")
+mousemove, 268 ,44 
+mousemove, 267 ,44 
+mousemove, 267 ,43 
+mousemove, 266 ,43 
+mousemove, 265 ,42 
+mousemove, 265 ,41 
+mousemove, 264 ,41 
+sleep(2,"p")
+mousemove, 263 ,40 
+mousemove, 262 ,39 
+sleep(2,"p")
+mousemove, 261 ,39 
+mousemove, 261 ,38 
+mousemove, 260 ,38 
+mousemove, 260 ,37 
+mousemove, 259 ,37 
+sleep(2,"p")
+mousemove, 259 ,36 
+sleep(5,"p")
+mousemove, 258 ,36 
+mousemove, 257 ,35 
+sleep(2,"p")
+mousemove, 257 ,34 
+sleep(2,"p")
+mousemove, 256 ,34 
+sleep(120,"p")
+mousemove, 255 ,34 
+sleep(4,"p")
+mousemove, 255 ,33 
+sleep(80,"p")
+mousemove, 255 ,34 
+
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -7,6 +6854,7 @@ SleepDuration = 1
 #InstallMouseHook 
 #SingleInstance, Force
 #MaxHotkeysPerInterval, 5000
+CoordMode, Mouse, Screen
 SetBatchLines, -1 ; Use SetBatchLines -1 to never sleep (i.e. have the script run at maximum speed). The default setting is 10m
 SetKeyDelay, -1, -1
 SetWinDelay, -1 ; Sets the delay that will occur after each windowing command, such as WinActivate.
@@ -7087,5 +13935,90 @@ click down
 sleep, 20
 click up
 }
+}
+Return
+
+!8::
+settimer, OnceInAwhileRandomExit, 600000
+settimer, EndGame, 100
+Return
+OnceInAwhileRandomExit:
+settimer, ExitRandom, 100
+Return
+ExitRandom:
+ImageSearch, OutputVarX, OutputVarY, 1182-90, 47-90, 1228+90, 89+90, *95 C:\VC\Pictures\2021-07-21 03_32_30-BlueStacks Keymap Overlay.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 1072,14
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 667,79
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 1072,14
+click down
+sleep, 60
+click up
+sleep, 300
+mousemove, 1205,68
+click down
+sleep, 20
+click up
+}
+settimer, ExitRandom, off
+sleep, 1000
+settimer, EndGame, 100
+}
+ImageSearch, OutputVarX, OutputVarY, 1170-90, 58-90, 1211+90, 104+90, *95 C:\VC\Pictures\2021-07-21 03_44_28-BlueStacks Keymap Overlay.png 
+if(ErrorLevel == 0){
+Loop, 1
+{
+mousemove, 1191,81
+click down
+sleep, 20
+click up
+}
+}
+Return
+EndGame:
+ImageSearch, OutputVarX, OutputVarY, 1166-90, 54-90, 1212+90, 102+90, *95 C:\VC\Pictures\2021-07-20 21_26_20-BlueStacks Keymap Overlay.png 
+if(ErrorLevel == 0){
+settimer, ExitRandom, off
+mousemove, 1072,14
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 667,79
+click down
+sleep, 60
+click up
+sleep, 100
+mousemove, 1072,14
+click down
+sleep, 60
+click up
+
+settimer, EndGame, off
+gosub, startgame
+}
+Return
+startgame:
+sleep, 1500
+run, C:\VC\Archer of God Start Game.exe
+settimer, StartMacro, 100
+Return
+StartMacro:
+ImageSearch, OutputVarX, OutputVarY, 379-90, 257-90, 430+90, 305+90, *95 C:\VC\Pictures\2021-07-20 21_50_19-BlueStacks Keymap Overlay.png 
+if(ErrorLevel == 0){
+run, C:\VC\archer macro.exe
+settimer, StartMacro, off 
+settimer, EndGame, 100
+settimer, ExitRandom, 100
 }
 Return

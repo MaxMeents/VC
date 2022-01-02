@@ -1,1 +1,1 @@
-reg delete "HKEY_CURRENT_USER\SOFTWARE\Ateam\Valkyrie Connect WW"
+reg delete "HKEY_CURRENT_USER\Software\KLab\BleachBraveSouls"
